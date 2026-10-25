@@ -1,0 +1,37 @@
+{
+  "dataset": "sfcc_customers",
+  "synthetic": true,
+  "row_count": 1000,
+  "fields": [
+    {
+      "name": "customerNo",
+      "example_value": "SFCC-CUST-000001",
+      "nullable": false
+    },
+    {
+      "name": "profileId",
+      "example_value": "PROFILE-000001",
+      "nullable": false
+    },
+    {
+      "name": "email",
+      "example_value": "shopper0001@example.test",
+      "nullable": false
+    },
+    {
+      "name": "customerType",
+      "example_value": "guest",
+      "nullable": false
+    },
+    {
+      "name": "creationDate",
+      "example_value": "2025-01-04T19:00:00Z",
+      "nullable": false
+    },
+    {
+      "name": "preferredCurrency",
+      "example_value": "INR",
+      "nullable": false
+    }
+  ]
+}

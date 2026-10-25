@@ -1,0 +1,162 @@
+[0m18:31:29.716604 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x75e37690a150>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x75e3765a8d10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x75e374d6fc20>]}
+
+
+============================== 18:31:29.730190 | 919194ca-a362-4aa6-a358-5019c0fda345 ==============================
+[0m18:31:29.730190 [info ] [MainThread]: Running with dbt=1.12.6
+[0m18:31:29.735158 [debug] [MainThread]: running dbt with arguments {'invocation_command': 'dbt debug --project-dir /opt/dbt --profiles-dir /opt/dbt', 'hints_enabled': 'True', 'send_anonymous_usage_stats': 'True', 'write_json': 'True', 'indirect_selection': 'eager', 'printer_width': '80', 'quiet': 'False', 'debug': 'False', 'log_path': '/opt/dbt/logs', 'log_format': 'default', 'use_experimental_parser': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'version_check': 'True', 'target_path': 'None', 'log_cache_events': 'False', 'use_colors': 'True', 'static_parser': 'True', 'fail_fast': 'False', 'introspect': 'True', 'empty': 'None', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/opt/dbt', 'warn_error': 'None', 'maximum_seed_size_mib': '1'}
+[0m18:31:29.772123 [info ] [MainThread]: dbt version: 1.12.6
+[0m18:31:29.773887 [info ] [MainThread]: python version: 3.12.9
+[0m18:31:29.775934 [info ] [MainThread]: python path: /home/airflow/.local/bin/python
+[0m18:31:29.777740 [info ] [MainThread]: os info: Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.36
+[0m18:31:30.066825 [info ] [MainThread]: Using profiles dir at /opt/dbt
+[0m18:31:30.069064 [info ] [MainThread]: Using profiles.yml file at /opt/dbt/profiles.yml
+[0m18:31:30.071366 [info ] [MainThread]: Using dbt_project.yml file at /opt/dbt/dbt_project.yml
+[0m18:31:30.076296 [info ] [MainThread]: adapter type: duckdb
+[0m18:31:30.078459 [info ] [MainThread]: adapter version: 1.11.0
+[0m18:31:30.289297 [info ] [MainThread]: Configuration:
+[0m18:31:30.293184 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m18:31:30.296463 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m18:31:30.299078 [info ] [MainThread]: Required dependencies:
+[0m18:31:30.301948 [debug] [MainThread]: Executing "git --help"
+[0m18:31:30.307491 [info ] [MainThread]:  - git [[31mERROR[0m]
+
+[0m18:31:30.310205 [info ] [MainThread]: Connection:
+[0m18:31:30.312795 [info ] [MainThread]:   database: warehouse
+[0m18:31:30.315821 [info ] [MainThread]:   schema: main
+[0m18:31:30.318840 [info ] [MainThread]:   path: /opt/data/warehouse.duckdb
+[0m18:31:30.321542 [info ] [MainThread]:   config_options: None
+[0m18:31:30.323763 [info ] [MainThread]:   extensions: None
+[0m18:31:30.327094 [info ] [MainThread]:   settings: {}
+[0m18:31:30.329675 [info ] [MainThread]:   external_root: .
+[0m18:31:30.332059 [info ] [MainThread]:   use_credential_provider: None
+[0m18:31:30.334849 [info ] [MainThread]:   attach: None
+[0m18:31:30.337564 [info ] [MainThread]:   filesystems: None
+[0m18:31:30.339484 [info ] [MainThread]:   remote: None
+[0m18:31:30.343119 [info ] [MainThread]:   plugins: None
+[0m18:31:30.345854 [info ] [MainThread]:   disable_transactions: False
+[0m18:31:30.348279 [info ] [MainThread]: Registered adapter: duckdb=1.11.0
+[0m18:31:30.594050 [debug] [MainThread]: Acquiring new duckdb connection 'debug'
+[0m18:31:30.858397 [debug] [MainThread]: Using duckdb connection "debug"
+[0m18:31:30.861512 [debug] [MainThread]: On debug: select 1 as id
+[0m18:31:30.863582 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m18:31:31.519165 [debug] [MainThread]: SQL status: OK in 0.655 seconds
+[0m18:31:31.525258 [debug] [MainThread]: On debug: Close
+[0m18:31:31.528483 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m18:31:31.530946 [info ] [MainThread]: [31m1 check failed:[0m
+[0m18:31:31.534194 [info ] [MainThread]: Error from git --help: User does not have permissions for this command: "git"
+
+[0m18:31:31.541541 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 2.0258, "process_in_blocks": "0", "process_kernel_time": 1.970919, "process_mem_max_rss": "165324", "process_out_blocks": "0", "process_user_time": 5.560235}
+[0m18:31:31.544273 [debug] [MainThread]: Command `dbt debug` failed at 18:31:31.543778 after 2.03 seconds
+[0m18:31:31.546341 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m18:31:31.548791 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x75e3765a8d10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x75e36eb43500>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x75e37398e2d0>]}
+[0m18:31:31.551433 [debug] [MainThread]: Flushing usage events
+[0m18:31:33.025734 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m18:33:01.562086 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7db994eca660>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7db99568e1e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7db9940616a0>]}
+
+
+============================== 18:33:01.575694 | 749911b3-1e1d-452c-bffe-5ca94813e5fd ==============================
+[0m18:33:01.575694 [info ] [MainThread]: Running with dbt=1.12.6
+[0m18:33:01.579259 [debug] [MainThread]: running dbt with arguments {'quiet': 'False', 'no_print': 'None', 'fail_fast': 'False', 'debug': 'False', 'profiles_dir': '/opt/dbt', 'version_check': 'True', 'target_path': 'None', 'empty': 'None', 'write_json': 'True', 'use_experimental_parser': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'log_cache_events': 'False', 'warn_error': 'None', 'hints_enabled': 'True', 'use_colors': 'True', 'printer_width': '80', 'indirect_selection': 'eager', 'static_parser': 'True', 'invocation_command': 'dbt debug --project-dir /opt/dbt --profiles-dir /opt/dbt', 'log_path': '/opt/dbt/logs', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'maximum_seed_size_mib': '1', 'log_format': 'default', 'cache_selected_only': 'False'}
+[0m18:33:01.601463 [info ] [MainThread]: dbt version: 1.12.6
+[0m18:33:01.603996 [info ] [MainThread]: python version: 3.12.9
+[0m18:33:01.606629 [info ] [MainThread]: python path: /home/airflow/.local/bin/python
+[0m18:33:01.608860 [info ] [MainThread]: os info: Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.36
+[0m18:33:01.875585 [info ] [MainThread]: Using profiles dir at /opt/dbt
+[0m18:33:01.879025 [info ] [MainThread]: Using profiles.yml file at /opt/dbt/profiles.yml
+[0m18:33:01.882234 [info ] [MainThread]: Using dbt_project.yml file at /opt/dbt/dbt_project.yml
+[0m18:33:01.889957 [info ] [MainThread]: adapter type: duckdb
+[0m18:33:01.892170 [info ] [MainThread]: adapter version: 1.11.0
+[0m18:33:02.115770 [info ] [MainThread]: Configuration:
+[0m18:33:02.119006 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m18:33:02.121289 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m18:33:02.123861 [info ] [MainThread]: Required dependencies:
+[0m18:33:02.127052 [debug] [MainThread]: Executing "git --help"
+[0m18:33:02.130801 [info ] [MainThread]:  - git [[31mERROR[0m]
+
+[0m18:33:02.133135 [info ] [MainThread]: Connection:
+[0m18:33:02.135609 [info ] [MainThread]:   database: warehouse
+[0m18:33:02.137704 [info ] [MainThread]:   schema: main
+[0m18:33:02.140043 [info ] [MainThread]:   path: /opt/data/warehouse.duckdb
+[0m18:33:02.143192 [info ] [MainThread]:   config_options: None
+[0m18:33:02.146253 [info ] [MainThread]:   extensions: None
+[0m18:33:02.152444 [info ] [MainThread]:   settings: {}
+[0m18:33:02.156326 [info ] [MainThread]:   external_root: .
+[0m18:33:02.160063 [info ] [MainThread]:   use_credential_provider: None
+[0m18:33:02.167731 [info ] [MainThread]:   attach: None
+[0m18:33:02.171368 [info ] [MainThread]:   filesystems: None
+[0m18:33:02.173654 [info ] [MainThread]:   remote: None
+[0m18:33:02.176258 [info ] [MainThread]:   plugins: None
+[0m18:33:02.179066 [info ] [MainThread]:   disable_transactions: False
+[0m18:33:02.181521 [info ] [MainThread]: Registered adapter: duckdb=1.11.0
+[0m18:33:02.359541 [debug] [MainThread]: Acquiring new duckdb connection 'debug'
+[0m18:33:02.458508 [debug] [MainThread]: Using duckdb connection "debug"
+[0m18:33:02.461279 [debug] [MainThread]: On debug: select 1 as id
+[0m18:33:02.463768 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m18:33:02.713088 [debug] [MainThread]: SQL status: OK in 0.249 seconds
+[0m18:33:02.717270 [debug] [MainThread]: On debug: Close
+[0m18:33:02.720212 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m18:33:02.724010 [info ] [MainThread]: [31m1 check failed:[0m
+[0m18:33:02.727725 [info ] [MainThread]: Error from git --help: User does not have permissions for this command: "git"
+
+[0m18:33:02.732647 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 1.3356626, "process_in_blocks": "0", "process_kernel_time": 1.002729, "process_mem_max_rss": "165604", "process_out_blocks": "0", "process_user_time": 4.3719}
+[0m18:33:02.736453 [debug] [MainThread]: Command `dbt debug` failed at 18:33:02.735852 after 1.34 seconds
+[0m18:33:02.741956 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m18:33:02.744319 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7db993facb00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7db98f0a0bf0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7db98f0bfad0>]}
+[0m18:33:02.747815 [debug] [MainThread]: Flushing usage events
+[0m18:33:04.066475 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m18:34:07.910578 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d68970d8f80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d6896c96c30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d68973a6270>]}
+
+
+============================== 18:34:07.922084 | fadcdada-9981-430e-b9ef-3604e208c046 ==============================
+[0m18:34:07.922084 [info ] [MainThread]: Running with dbt=1.12.6
+[0m18:34:07.924293 [debug] [MainThread]: running dbt with arguments {'warn_error': 'None', 'partial_parse': 'True', 'profiles_dir': '/opt/dbt', 'use_experimental_parser': 'False', 'fail_fast': 'False', 'static_parser': 'True', 'use_colors': 'True', 'log_path': '/opt/dbt/logs', 'invocation_command': 'dbt debug --project-dir /opt/dbt --profiles-dir /opt/dbt', 'target_path': 'None', 'debug': 'False', 'cache_selected_only': 'False', 'version_check': 'True', 'log_cache_events': 'False', 'no_print': 'None', 'indirect_selection': 'eager', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True', 'write_json': 'True', 'quiet': 'False', 'empty': 'None', 'printer_width': '80', 'log_format': 'default', 'maximum_seed_size_mib': '1', 'introspect': 'True', 'hints_enabled': 'True'}
+[0m18:34:07.943293 [info ] [MainThread]: dbt version: 1.12.6
+[0m18:34:07.945432 [info ] [MainThread]: python version: 3.12.9
+[0m18:34:07.947728 [info ] [MainThread]: python path: /home/airflow/.local/bin/python
+[0m18:34:07.949909 [info ] [MainThread]: os info: Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.36
+[0m18:34:08.172494 [info ] [MainThread]: Using profiles dir at /opt/dbt
+[0m18:34:08.176140 [info ] [MainThread]: Using profiles.yml file at /opt/dbt/profiles.yml
+[0m18:34:08.179105 [info ] [MainThread]: Using dbt_project.yml file at /opt/dbt/dbt_project.yml
+[0m18:34:08.185689 [info ] [MainThread]: adapter type: duckdb
+[0m18:34:08.189817 [info ] [MainThread]: adapter version: 1.11.0
+[0m18:34:08.386451 [info ] [MainThread]: Configuration:
+[0m18:34:08.390054 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m18:34:08.393821 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m18:34:08.396323 [info ] [MainThread]: Required dependencies:
+[0m18:34:08.398445 [debug] [MainThread]: Executing "git --help"
+[0m18:34:08.401436 [info ] [MainThread]:  - git [[31mERROR[0m]
+
+[0m18:34:08.403332 [info ] [MainThread]: Connection:
+[0m18:34:08.405792 [info ] [MainThread]:   database: warehouse
+[0m18:34:08.407931 [info ] [MainThread]:   schema: main
+[0m18:34:08.409971 [info ] [MainThread]:   path: /opt/data/warehouse.duckdb
+[0m18:34:08.413264 [info ] [MainThread]:   config_options: None
+[0m18:34:08.415449 [info ] [MainThread]:   extensions: None
+[0m18:34:08.418234 [info ] [MainThread]:   settings: {}
+[0m18:34:08.421003 [info ] [MainThread]:   external_root: .
+[0m18:34:08.423525 [info ] [MainThread]:   use_credential_provider: None
+[0m18:34:08.426442 [info ] [MainThread]:   attach: None
+[0m18:34:08.430507 [info ] [MainThread]:   filesystems: None
+[0m18:34:08.434097 [info ] [MainThread]:   remote: None
+[0m18:34:08.436937 [info ] [MainThread]:   plugins: None
+[0m18:34:08.440565 [info ] [MainThread]:   disable_transactions: False
+[0m18:34:08.442801 [info ] [MainThread]: Registered adapter: duckdb=1.11.0
+[0m18:34:08.626694 [debug] [MainThread]: Acquiring new duckdb connection 'debug'
+[0m18:34:08.752969 [debug] [MainThread]: Using duckdb connection "debug"
+[0m18:34:08.755110 [debug] [MainThread]: On debug: select 1 as id
+[0m18:34:08.756577 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m18:34:08.879525 [debug] [MainThread]: SQL status: OK in 0.123 seconds
+[0m18:34:08.882196 [debug] [MainThread]: On debug: Close
+[0m18:34:08.883723 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m18:34:08.885692 [info ] [MainThread]: [31m1 check failed:[0m
+[0m18:34:08.889033 [info ] [MainThread]: Error from git --help: User does not have permissions for this command: "git"
+
+[0m18:34:08.894643 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 1.1526116, "process_in_blocks": "0", "process_kernel_time": 0.800113, "process_mem_max_rss": "165452", "process_out_blocks": "0", "process_user_time": 4.237784}
+[0m18:34:08.897245 [debug] [MainThread]: Command `dbt debug` failed at 18:34:08.896767 after 1.16 seconds
+[0m18:34:08.898710 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m18:34:08.900197 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d6896cd9490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d689a966ff0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d689605e270>]}
+[0m18:34:08.901776 [debug] [MainThread]: Flushing usage events
+[0m18:34:10.330527 [debug] [MainThread]: An error was encountered while trying to flush usage events

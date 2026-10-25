@@ -1,0 +1,52 @@
+{
+  "dataset": "netsuite_transactions",
+  "synthetic": true,
+  "row_count": 1000,
+  "fields": [
+    {
+      "name": "id",
+      "example_value": "NS-TXN-000001",
+      "nullable": false
+    },
+    {
+      "name": "tranid",
+      "example_value": "INV-000001",
+      "nullable": false
+    },
+    {
+      "name": "type",
+      "example_value": "CustInvc",
+      "nullable": false
+    },
+    {
+      "name": "trandate",
+      "example_value": "2025-01-02",
+      "nullable": false
+    },
+    {
+      "name": "entity",
+      "example_value": "NS-CUSTOMER-000001",
+      "nullable": false
+    },
+    {
+      "name": "externalId",
+      "example_value": "SFCC-ORDER-000001",
+      "nullable": false
+    },
+    {
+      "name": "status",
+      "example_value": "Open",
+      "nullable": false
+    },
+    {
+      "name": "currency",
+      "example_value": "INR",
+      "nullable": false
+    },
+    {
+      "name": "total",
+      "example_value": 5310.8,
+      "nullable": false
+    }
+  ]
+}

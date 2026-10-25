@@ -1,0 +1,37 @@
+{
+  "dataset": "netsuite_transaction_lines",
+  "synthetic": true,
+  "row_count": 2000,
+  "fields": [
+    {
+      "name": "transactionId",
+      "example_value": "NS-TXN-000001",
+      "nullable": false
+    },
+    {
+      "name": "line",
+      "example_value": 1,
+      "nullable": false
+    },
+    {
+      "name": "item",
+      "example_value": "PROD-00001",
+      "nullable": false
+    },
+    {
+      "name": "quantity",
+      "example_value": 2,
+      "nullable": false
+    },
+    {
+      "name": "rate",
+      "example_value": 346.61,
+      "nullable": false
+    },
+    {
+      "name": "amount",
+      "example_value": 693.22,
+      "nullable": false
+    }
+  ]
+}

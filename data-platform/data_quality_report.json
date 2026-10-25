@@ -1,0 +1,180 @@
+{
+  "source": "MinIO raw-data bucket",
+  "tables": {
+    "cybersource_payments": {
+      "row_count": 1001,
+      "columns": [
+        "id",
+        "clientReferenceInformation.code",
+        "orderInformation.amountDetails.totalAmount",
+        "orderInformation.amountDetails.currency",
+        "operation",
+        "status",
+        "processorInformation.responseCode",
+        "reconciliationId",
+        "submitTimeUtc"
+      ],
+      "missing_values": {
+        "reconciliationId": 200
+      },
+      "exact_duplicate_rows": 1000
+    },
+    "netsuite_accounting_lines": {
+      "row_count": 2000,
+      "columns": [
+        "transactionId",
+        "transactionLine",
+        "account",
+        "debit",
+        "credit",
+        "accountingBook"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 1999
+    },
+    "netsuite_transaction_lines": {
+      "row_count": 2000,
+      "columns": [
+        "transactionId",
+        "line",
+        "item",
+        "quantity",
+        "rate",
+        "amount"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 1999
+    },
+    "netsuite_transactions": {
+      "row_count": 1000,
+      "columns": [
+        "id",
+        "tranid",
+        "type",
+        "trandate",
+        "entity",
+        "externalId",
+        "status",
+        "currency",
+        "total"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 999
+    },
+    "salesforce_crm_accounts": {
+      "row_count": 1000,
+      "columns": [
+        "Id",
+        "Name",
+        "Type",
+        "Industry",
+        "BillingCity",
+        "BillingCountry",
+        "Phone",
+        "Website",
+        "CreatedDate"
+      ],
+      "missing_values": {
+        "Phone": 27,
+        "Website": 24
+      },
+      "exact_duplicate_rows": 999
+    },
+    "salesforce_crm_contacts": {
+      "row_count": 1001,
+      "columns": [
+        "Id",
+        "AccountId",
+        "FirstName",
+        "LastName",
+        "Email",
+        "Title",
+        "CreatedDate"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 1000
+    },
+    "salesforce_crm_leads": {
+      "row_count": 1000,
+      "columns": [
+        "Id",
+        "Company",
+        "Status",
+        "LeadSource",
+        "Email",
+        "CreatedDate"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 999
+    },
+    "salesforce_crm_opportunities": {
+      "row_count": 1000,
+      "columns": [
+        "Id",
+        "AccountId",
+        "Name",
+        "StageName",
+        "Amount",
+        "CloseDate",
+        "CreatedDate"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 999
+    },
+    "sfcc_customers": {
+      "row_count": 1000,
+      "columns": [
+        "customerNo",
+        "profileId",
+        "email",
+        "customerType",
+        "creationDate",
+        "preferredCurrency"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 999
+    },
+    "sfcc_order_lines": {
+      "row_count": 2000,
+      "columns": [
+        "orderNo",
+        "lineNo",
+        "productId",
+        "quantity",
+        "unitPrice",
+        "lineAmount"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 1999
+    },
+    "sfcc_orders": {
+      "row_count": 1000,
+      "columns": [
+        "orderNo",
+        "customerNo",
+        "creationDate",
+        "status",
+        "currencyCode",
+        "totalGrossPrice",
+        "productLineCount",
+        "sourceSystem"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 999
+    },
+    "sfcc_products": {
+      "row_count": 1000,
+      "columns": [
+        "productId",
+        "name",
+        "sku",
+        "basePrice",
+        "currency",
+        "online",
+        "inventory"
+      ],
+      "missing_values": {},
+      "exact_duplicate_rows": 999
+    }
+  }
+}

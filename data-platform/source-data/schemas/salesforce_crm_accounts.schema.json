@@ -1,0 +1,52 @@
+{
+  "dataset": "salesforce_crm_accounts",
+  "synthetic": true,
+  "row_count": 1000,
+  "fields": [
+    {
+      "name": "Id",
+      "example_value": "001SYN000001",
+      "nullable": false
+    },
+    {
+      "name": "Name",
+      "example_value": "Synthetic Organization 0001",
+      "nullable": false
+    },
+    {
+      "name": "Type",
+      "example_value": "Prospect",
+      "nullable": false
+    },
+    {
+      "name": "Industry",
+      "example_value": "Retail",
+      "nullable": false
+    },
+    {
+      "name": "BillingCity",
+      "example_value": "Bhubaneswar",
+      "nullable": false
+    },
+    {
+      "name": "BillingCountry",
+      "example_value": "India",
+      "nullable": false
+    },
+    {
+      "name": "Phone",
+      "example_value": "9000000001",
+      "nullable": true
+    },
+    {
+      "name": "Website",
+      "example_value": "https://org0001.example.test",
+      "nullable": true
+    },
+    {
+      "name": "CreatedDate",
+      "example_value": "2025-01-01T07:00:00Z",
+      "nullable": false
+    }
+  ]
+}

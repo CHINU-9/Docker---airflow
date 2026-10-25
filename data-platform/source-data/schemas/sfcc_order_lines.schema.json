@@ -1,0 +1,37 @@
+{
+  "dataset": "sfcc_order_lines",
+  "synthetic": true,
+  "row_count": 2000,
+  "fields": [
+    {
+      "name": "orderNo",
+      "example_value": "SFCC-ORDER-000001",
+      "nullable": false
+    },
+    {
+      "name": "lineNo",
+      "example_value": 1,
+      "nullable": false
+    },
+    {
+      "name": "productId",
+      "example_value": "PROD-00001",
+      "nullable": false
+    },
+    {
+      "name": "quantity",
+      "example_value": 2,
+      "nullable": false
+    },
+    {
+      "name": "unitPrice",
+      "example_value": 346.61,
+      "nullable": false
+    },
+    {
+      "name": "lineAmount",
+      "example_value": 693.22,
+      "nullable": false
+    }
+  ]
+}

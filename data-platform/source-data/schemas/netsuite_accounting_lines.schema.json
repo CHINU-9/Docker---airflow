@@ -1,0 +1,37 @@
+{
+  "dataset": "netsuite_accounting_lines",
+  "synthetic": true,
+  "row_count": 2000,
+  "fields": [
+    {
+      "name": "transactionId",
+      "example_value": "NS-TXN-000001",
+      "nullable": false
+    },
+    {
+      "name": "transactionLine",
+      "example_value": 1,
+      "nullable": false
+    },
+    {
+      "name": "account",
+      "example_value": "1200-Accounts Receivable",
+      "nullable": false
+    },
+    {
+      "name": "debit",
+      "example_value": 693.22,
+      "nullable": false
+    },
+    {
+      "name": "credit",
+      "example_value": 0.0,
+      "nullable": false
+    },
+    {
+      "name": "accountingBook",
+      "example_value": "PRIMARY",
+      "nullable": false
+    }
+  ]
+}

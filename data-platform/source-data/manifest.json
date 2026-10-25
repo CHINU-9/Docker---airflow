@@ -1,0 +1,24 @@
+{
+  "dataset_name": "Synthetic Multi-Source Data Engineering Practice Dataset",
+  "synthetic_only": true,
+  "generated_utc": "2026-10-25T13:21:02.639148+00:00",
+  "row_counts": {
+    "salesforce_crm_accounts": 1000,
+    "salesforce_crm_contacts": 1001,
+    "salesforce_crm_leads": 1000,
+    "salesforce_crm_opportunities": 1000,
+    "sfcc_customers": 1000,
+    "sfcc_products": 1000,
+    "sfcc_orders": 1000,
+    "sfcc_order_lines": 2000,
+    "netsuite_transactions": 1000,
+    "netsuite_transaction_lines": 2000,
+    "netsuite_accounting_lines": 2000,
+    "cybersource_payments": 1001
+  },
+  "files_per_dataset": [
+    "csv/<name>.csv",
+    "json/<name>.json",
+    "schemas/<name>.schema.json"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset": "salesforce_crm_leads",
+  "synthetic": true,
+  "row_count": 1000,
+  "fields": [
+    {
+      "name": "Id",
+      "example_value": "00QSYN000001",
+      "nullable": false
+    },
+    {
+      "name": "Company",
+      "example_value": "Lead Organization 0001",
+      "nullable": false
+    },
+    {
+      "name": "Status",
+      "example_value": "Qualified",
+      "nullable": false
+    },
+    {
+      "name": "LeadSource",
+      "example_value": "Partner",
+      "nullable": false
+    },
+    {
+      "name": "Email",
+      "example_value": "lead0001@example.test",
+      "nullable": false
+    },
+    {
+      "name": "CreatedDate",
+      "example_value": "2025-01-03T01:00:00Z",
+      "nullable": false
+    }
+  ]
+}

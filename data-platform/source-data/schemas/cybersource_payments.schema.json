@@ -1,0 +1,52 @@
+{
+  "dataset": "cybersource_payments",
+  "synthetic": true,
+  "row_count": 1001,
+  "fields": [
+    {
+      "name": "id",
+      "example_value": "CS-PAY-000001",
+      "nullable": false
+    },
+    {
+      "name": "clientReferenceInformation.code",
+      "example_value": "SFCC-ORDER-000001",
+      "nullable": false
+    },
+    {
+      "name": "orderInformation.amountDetails.totalAmount",
+      "example_value": "5310.80",
+      "nullable": false
+    },
+    {
+      "name": "orderInformation.amountDetails.currency",
+      "example_value": "INR",
+      "nullable": false
+    },
+    {
+      "name": "operation",
+      "example_value": "Sale",
+      "nullable": false
+    },
+    {
+      "name": "status",
+      "example_value": "DECLINED",
+      "nullable": false
+    },
+    {
+      "name": "processorInformation.responseCode",
+      "example_value": "REVIEW",
+      "nullable": false
+    },
+    {
+      "name": "reconciliationId",
+      "example_value": "RECON-000001",
+      "nullable": true
+    },
+    {
+      "name": "submitTimeUtc",
+      "example_value": "2025-01-10T01:00:00Z",
+      "nullable": false
+    }
+  ]
+}

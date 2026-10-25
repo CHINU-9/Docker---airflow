@@ -1,0 +1,42 @@
+{
+  "dataset": "sfcc_products",
+  "synthetic": true,
+  "row_count": 1000,
+  "fields": [
+    {
+      "name": "productId",
+      "example_value": "PROD-00001",
+      "nullable": false
+    },
+    {
+      "name": "name",
+      "example_value": "Running Shoes",
+      "nullable": false
+    },
+    {
+      "name": "sku",
+      "example_value": "SKU-00001",
+      "nullable": false
+    },
+    {
+      "name": "basePrice",
+      "example_value": 346.61,
+      "nullable": false
+    },
+    {
+      "name": "currency",
+      "example_value": "INR",
+      "nullable": false
+    },
+    {
+      "name": "online",
+      "example_value": true,
+      "nullable": false
+    },
+    {
+      "name": "inventory",
+      "example_value": 140,
+      "nullable": false
+    }
+  ]
+}

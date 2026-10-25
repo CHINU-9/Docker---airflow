@@ -1,0 +1,9002 @@
+[
+  {
+    "productId": "PROD-00001",
+    "name": "Running Shoes",
+    "sku": "SKU-00001",
+    "basePrice": 346.61,
+    "currency": "INR",
+    "online": true,
+    "inventory": 140
+  },
+  {
+    "productId": "PROD-00002",
+    "name": "Sports Socks",
+    "sku": "SKU-00002",
+    "basePrice": 2308.79,
+    "currency": "INR",
+    "online": true,
+    "inventory": 377
+  },
+  {
+    "productId": "PROD-00003",
+    "name": "Running Shoes",
+    "sku": "SKU-00003",
+    "basePrice": 6798.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 456
+  },
+  {
+    "productId": "PROD-00004",
+    "name": "Fitness Band",
+    "sku": "SKU-00004",
+    "basePrice": 959.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 216
+  },
+  {
+    "productId": "PROD-00005",
+    "name": "Running Shoes",
+    "sku": "SKU-00005",
+    "basePrice": 393.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 111
+  },
+  {
+    "productId": "PROD-00006",
+    "name": "Sports Socks",
+    "sku": "SKU-00006",
+    "basePrice": 5102.02,
+    "currency": "INR",
+    "online": true,
+    "inventory": 13
+  },
+  {
+    "productId": "PROD-00007",
+    "name": "Fitness Band",
+    "sku": "SKU-00007",
+    "basePrice": 2067.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 332
+  },
+  {
+    "productId": "PROD-00008",
+    "name": "Fitness Band",
+    "sku": "SKU-00008",
+    "basePrice": 4252.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 229
+  },
+  {
+    "productId": "PROD-00009",
+    "name": "Fitness Band",
+    "sku": "SKU-00009",
+    "basePrice": 2853.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 445
+  },
+  {
+    "productId": "PROD-00010",
+    "name": "Running Shoes",
+    "sku": "SKU-00010",
+    "basePrice": 7611.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 81
+  },
+  {
+    "productId": "PROD-00011",
+    "name": "Backpack",
+    "sku": "SKU-00011",
+    "basePrice": 3467.48,
+    "currency": "INR",
+    "online": true,
+    "inventory": 79
+  },
+  {
+    "productId": "PROD-00012",
+    "name": "Sports Socks",
+    "sku": "SKU-00012",
+    "basePrice": 9575.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 172
+  },
+  {
+    "productId": "PROD-00013",
+    "name": "Running Shoes",
+    "sku": "SKU-00013",
+    "basePrice": 1017.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 49
+  },
+  {
+    "productId": "PROD-00014",
+    "name": "Water Bottle",
+    "sku": "SKU-00014",
+    "basePrice": 8489.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 309
+  },
+  {
+    "productId": "PROD-00015",
+    "name": "Water Bottle",
+    "sku": "SKU-00015",
+    "basePrice": 8089.57,
+    "currency": "INR",
+    "online": true,
+    "inventory": 373
+  },
+  {
+    "productId": "PROD-00016",
+    "name": "Backpack",
+    "sku": "SKU-00016",
+    "basePrice": 5407.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 498
+  },
+  {
+    "productId": "PROD-00017",
+    "name": "Backpack",
+    "sku": "SKU-00017",
+    "basePrice": 879.12,
+    "currency": "INR",
+    "online": true,
+    "inventory": 150
+  },
+  {
+    "productId": "PROD-00018",
+    "name": "Fitness Band",
+    "sku": "SKU-00018",
+    "basePrice": 8864.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 185
+  },
+  {
+    "productId": "PROD-00019",
+    "name": "Fitness Band",
+    "sku": "SKU-00019",
+    "basePrice": 2002.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 35
+  },
+  {
+    "productId": "PROD-00020",
+    "name": "Running Shoes",
+    "sku": "SKU-00020",
+    "basePrice": 6645.51,
+    "currency": "INR",
+    "online": true,
+    "inventory": 395
+  },
+  {
+    "productId": "PROD-00021",
+    "name": "Water Bottle",
+    "sku": "SKU-00021",
+    "basePrice": 9852.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 437
+  },
+  {
+    "productId": "PROD-00022",
+    "name": "Sports Socks",
+    "sku": "SKU-00022",
+    "basePrice": 8677.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 194
+  },
+  {
+    "productId": "PROD-00023",
+    "name": "Water Bottle",
+    "sku": "SKU-00023",
+    "basePrice": 4587.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 427
+  },
+  {
+    "productId": "PROD-00024",
+    "name": "Water Bottle",
+    "sku": "SKU-00024",
+    "basePrice": 1709.28,
+    "currency": "INR",
+    "online": true,
+    "inventory": 181
+  },
+  {
+    "productId": "PROD-00025",
+    "name": "Sports Socks",
+    "sku": "SKU-00025",
+    "basePrice": 6733.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 359
+  },
+  {
+    "productId": "PROD-00026",
+    "name": "Running Shoes",
+    "sku": "SKU-00026",
+    "basePrice": 6129.4,
+    "currency": "INR",
+    "online": true,
+    "inventory": 87
+  },
+  {
+    "productId": "PROD-00027",
+    "name": "Fitness Band",
+    "sku": "SKU-00027",
+    "basePrice": 7317.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 83
+  },
+  {
+    "productId": "PROD-00028",
+    "name": "Backpack",
+    "sku": "SKU-00028",
+    "basePrice": 3855.61,
+    "currency": "INR",
+    "online": true,
+    "inventory": 473
+  },
+  {
+    "productId": "PROD-00029",
+    "name": "Fitness Band",
+    "sku": "SKU-00029",
+    "basePrice": 2273.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 166
+  },
+  {
+    "productId": "PROD-00030",
+    "name": "Running Shoes",
+    "sku": "SKU-00030",
+    "basePrice": 2366.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 16
+  },
+  {
+    "productId": "PROD-00031",
+    "name": "Water Bottle",
+    "sku": "SKU-00031",
+    "basePrice": 4070.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 33
+  },
+  {
+    "productId": "PROD-00032",
+    "name": "Sports Socks",
+    "sku": "SKU-00032",
+    "basePrice": 9139.05,
+    "currency": "INR",
+    "online": true,
+    "inventory": 290
+  },
+  {
+    "productId": "PROD-00033",
+    "name": "Water Bottle",
+    "sku": "SKU-00033",
+    "basePrice": 2204.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 255
+  },
+  {
+    "productId": "PROD-00034",
+    "name": "Backpack",
+    "sku": "SKU-00034",
+    "basePrice": 8857.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 329
+  },
+  {
+    "productId": "PROD-00035",
+    "name": "Backpack",
+    "sku": "SKU-00035",
+    "basePrice": 1513.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 71
+  },
+  {
+    "productId": "PROD-00036",
+    "name": "Sports Socks",
+    "sku": "SKU-00036",
+    "basePrice": 7474.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 275
+  },
+  {
+    "productId": "PROD-00037",
+    "name": "Water Bottle",
+    "sku": "SKU-00037",
+    "basePrice": 7494.44,
+    "currency": "INR",
+    "online": true,
+    "inventory": 219
+  },
+  {
+    "productId": "PROD-00038",
+    "name": "Fitness Band",
+    "sku": "SKU-00038",
+    "basePrice": 4053.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 112
+  },
+  {
+    "productId": "PROD-00039",
+    "name": "Sports Socks",
+    "sku": "SKU-00039",
+    "basePrice": 5143.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 46
+  },
+  {
+    "productId": "PROD-00040",
+    "name": "Running Shoes",
+    "sku": "SKU-00040",
+    "basePrice": 8623.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 78
+  },
+  {
+    "productId": "PROD-00041",
+    "name": "Sports Socks",
+    "sku": "SKU-00041",
+    "basePrice": 7940.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 216
+  },
+  {
+    "productId": "PROD-00042",
+    "name": "Fitness Band",
+    "sku": "SKU-00042",
+    "basePrice": 727.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 195
+  },
+  {
+    "productId": "PROD-00043",
+    "name": "Fitness Band",
+    "sku": "SKU-00043",
+    "basePrice": 9960.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 270
+  },
+  {
+    "productId": "PROD-00044",
+    "name": "Water Bottle",
+    "sku": "SKU-00044",
+    "basePrice": 9712.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 440
+  },
+  {
+    "productId": "PROD-00045",
+    "name": "Running Shoes",
+    "sku": "SKU-00045",
+    "basePrice": 6833.81,
+    "currency": "INR",
+    "online": true,
+    "inventory": 58
+  },
+  {
+    "productId": "PROD-00046",
+    "name": "Fitness Band",
+    "sku": "SKU-00046",
+    "basePrice": 7532.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 393
+  },
+  {
+    "productId": "PROD-00047",
+    "name": "Water Bottle",
+    "sku": "SKU-00047",
+    "basePrice": 1203.37,
+    "currency": "INR",
+    "online": true,
+    "inventory": 222
+  },
+  {
+    "productId": "PROD-00048",
+    "name": "Sports Socks",
+    "sku": "SKU-00048",
+    "basePrice": 4590.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 488
+  },
+  {
+    "productId": "PROD-00049",
+    "name": "Water Bottle",
+    "sku": "SKU-00049",
+    "basePrice": 9720.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 390
+  },
+  {
+    "productId": "PROD-00050",
+    "name": "Sports Socks",
+    "sku": "SKU-00050",
+    "basePrice": 5125.05,
+    "currency": "INR",
+    "online": true,
+    "inventory": 54
+  },
+  {
+    "productId": "PROD-00051",
+    "name": "Water Bottle",
+    "sku": "SKU-00051",
+    "basePrice": 8431.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 259
+  },
+  {
+    "productId": "PROD-00052",
+    "name": "Fitness Band",
+    "sku": "SKU-00052",
+    "basePrice": 2068.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 191
+  },
+  {
+    "productId": "PROD-00053",
+    "name": "Sports Socks",
+    "sku": "SKU-00053",
+    "basePrice": 5438.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 398
+  },
+  {
+    "productId": "PROD-00054",
+    "name": "Fitness Band",
+    "sku": "SKU-00054",
+    "basePrice": 9192.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 306
+  },
+  {
+    "productId": "PROD-00055",
+    "name": "Water Bottle",
+    "sku": "SKU-00055",
+    "basePrice": 4936.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 57
+  },
+  {
+    "productId": "PROD-00056",
+    "name": "Water Bottle",
+    "sku": "SKU-00056",
+    "basePrice": 8798.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 425
+  },
+  {
+    "productId": "PROD-00057",
+    "name": "Water Bottle",
+    "sku": "SKU-00057",
+    "basePrice": 2469.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 123
+  },
+  {
+    "productId": "PROD-00058",
+    "name": "Fitness Band",
+    "sku": "SKU-00058",
+    "basePrice": 9473.8,
+    "currency": "INR",
+    "online": true,
+    "inventory": 43
+  },
+  {
+    "productId": "PROD-00059",
+    "name": "Backpack",
+    "sku": "SKU-00059",
+    "basePrice": 8177.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 500
+  },
+  {
+    "productId": "PROD-00060",
+    "name": "Fitness Band",
+    "sku": "SKU-00060",
+    "basePrice": 7680.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 65
+  },
+  {
+    "productId": "PROD-00061",
+    "name": "Backpack",
+    "sku": "SKU-00061",
+    "basePrice": 9472.8,
+    "currency": "INR",
+    "online": true,
+    "inventory": 84
+  },
+  {
+    "productId": "PROD-00062",
+    "name": "Water Bottle",
+    "sku": "SKU-00062",
+    "basePrice": 5322.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 310
+  },
+  {
+    "productId": "PROD-00063",
+    "name": "Backpack",
+    "sku": "SKU-00063",
+    "basePrice": 9646.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 475
+  },
+  {
+    "productId": "PROD-00064",
+    "name": "Fitness Band",
+    "sku": "SKU-00064",
+    "basePrice": 7576.13,
+    "currency": "INR",
+    "online": true,
+    "inventory": 353
+  },
+  {
+    "productId": "PROD-00065",
+    "name": "Sports Socks",
+    "sku": "SKU-00065",
+    "basePrice": 7157.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 204
+  },
+  {
+    "productId": "PROD-00066",
+    "name": "Water Bottle",
+    "sku": "SKU-00066",
+    "basePrice": 4436.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 264
+  },
+  {
+    "productId": "PROD-00067",
+    "name": "Backpack",
+    "sku": "SKU-00067",
+    "basePrice": 1296.94,
+    "currency": "INR",
+    "online": true,
+    "inventory": 115
+  },
+  {
+    "productId": "PROD-00068",
+    "name": "Running Shoes",
+    "sku": "SKU-00068",
+    "basePrice": 3446.05,
+    "currency": "INR",
+    "online": true,
+    "inventory": 301
+  },
+  {
+    "productId": "PROD-00069",
+    "name": "Fitness Band",
+    "sku": "SKU-00069",
+    "basePrice": 2377.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 112
+  },
+  {
+    "productId": "PROD-00070",
+    "name": "Running Shoes",
+    "sku": "SKU-00070",
+    "basePrice": 801.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 323
+  },
+  {
+    "productId": "PROD-00071",
+    "name": "Running Shoes",
+    "sku": "SKU-00071",
+    "basePrice": 2365.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 463
+  },
+  {
+    "productId": "PROD-00072",
+    "name": "Running Shoes",
+    "sku": "SKU-00072",
+    "basePrice": 8609.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 36
+  },
+  {
+    "productId": "PROD-00073",
+    "name": "Fitness Band",
+    "sku": "SKU-00073",
+    "basePrice": 2455.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 342
+  },
+  {
+    "productId": "PROD-00074",
+    "name": "Backpack",
+    "sku": "SKU-00074",
+    "basePrice": 2219.94,
+    "currency": "INR",
+    "online": true,
+    "inventory": 67
+  },
+  {
+    "productId": "PROD-00075",
+    "name": "Fitness Band",
+    "sku": "SKU-00075",
+    "basePrice": 5803.5,
+    "currency": "INR",
+    "online": true,
+    "inventory": 124
+  },
+  {
+    "productId": "PROD-00076",
+    "name": "Backpack",
+    "sku": "SKU-00076",
+    "basePrice": 8093.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 97
+  },
+  {
+    "productId": "PROD-00077",
+    "name": "Running Shoes",
+    "sku": "SKU-00077",
+    "basePrice": 1058.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 220
+  },
+  {
+    "productId": "PROD-00078",
+    "name": "Water Bottle",
+    "sku": "SKU-00078",
+    "basePrice": 4292.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 239
+  },
+  {
+    "productId": "PROD-00079",
+    "name": "Running Shoes",
+    "sku": "SKU-00079",
+    "basePrice": 6765.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 330
+  },
+  {
+    "productId": "PROD-00080",
+    "name": "Running Shoes",
+    "sku": "SKU-00080",
+    "basePrice": 699.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 372
+  },
+  {
+    "productId": "PROD-00081",
+    "name": "Water Bottle",
+    "sku": "SKU-00081",
+    "basePrice": 8024.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 55
+  },
+  {
+    "productId": "PROD-00082",
+    "name": "Sports Socks",
+    "sku": "SKU-00082",
+    "basePrice": 1995.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 274
+  },
+  {
+    "productId": "PROD-00083",
+    "name": "Backpack",
+    "sku": "SKU-00083",
+    "basePrice": 1486.8,
+    "currency": "INR",
+    "online": true,
+    "inventory": 93
+  },
+  {
+    "productId": "PROD-00084",
+    "name": "Water Bottle",
+    "sku": "SKU-00084",
+    "basePrice": 4679.02,
+    "currency": "INR",
+    "online": true,
+    "inventory": 447
+  },
+  {
+    "productId": "PROD-00085",
+    "name": "Running Shoes",
+    "sku": "SKU-00085",
+    "basePrice": 4485.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 441
+  },
+  {
+    "productId": "PROD-00086",
+    "name": "Fitness Band",
+    "sku": "SKU-00086",
+    "basePrice": 1068.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 333
+  },
+  {
+    "productId": "PROD-00087",
+    "name": "Fitness Band",
+    "sku": "SKU-00087",
+    "basePrice": 8375.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 496
+  },
+  {
+    "productId": "PROD-00088",
+    "name": "Running Shoes",
+    "sku": "SKU-00088",
+    "basePrice": 9270.03,
+    "currency": "INR",
+    "online": true,
+    "inventory": 434
+  },
+  {
+    "productId": "PROD-00089",
+    "name": "Sports Socks",
+    "sku": "SKU-00089",
+    "basePrice": 1745.48,
+    "currency": "INR",
+    "online": true,
+    "inventory": 248
+  },
+  {
+    "productId": "PROD-00090",
+    "name": "Backpack",
+    "sku": "SKU-00090",
+    "basePrice": -5.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 205
+  },
+  {
+    "productId": "PROD-00091",
+    "name": "Running Shoes",
+    "sku": "SKU-00091",
+    "basePrice": 1728.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 1
+  },
+  {
+    "productId": "PROD-00092",
+    "name": "Backpack",
+    "sku": "SKU-00092",
+    "basePrice": 2724.51,
+    "currency": "INR",
+    "online": true,
+    "inventory": 401
+  },
+  {
+    "productId": "PROD-00093",
+    "name": "Backpack",
+    "sku": "SKU-00093",
+    "basePrice": 2922.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 356
+  },
+  {
+    "productId": "PROD-00094",
+    "name": "Fitness Band",
+    "sku": "SKU-00094",
+    "basePrice": 6651.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 249
+  },
+  {
+    "productId": "PROD-00095",
+    "name": "Sports Socks",
+    "sku": "SKU-00095",
+    "basePrice": 1978.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 111
+  },
+  {
+    "productId": "PROD-00096",
+    "name": "Running Shoes",
+    "sku": "SKU-00096",
+    "basePrice": 5832.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 277
+  },
+  {
+    "productId": "PROD-00097",
+    "name": "Running Shoes",
+    "sku": "SKU-00097",
+    "basePrice": 7503.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 29
+  },
+  {
+    "productId": "PROD-00098",
+    "name": "Running Shoes",
+    "sku": "SKU-00098",
+    "basePrice": 5882.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 257
+  },
+  {
+    "productId": "PROD-00099",
+    "name": "Fitness Band",
+    "sku": "SKU-00099",
+    "basePrice": 1657.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 491
+  },
+  {
+    "productId": "PROD-00100",
+    "name": "Fitness Band",
+    "sku": "SKU-00100",
+    "basePrice": 892.1,
+    "currency": "INR",
+    "online": true,
+    "inventory": 95
+  },
+  {
+    "productId": "PROD-00101",
+    "name": "Running Shoes",
+    "sku": "SKU-00101",
+    "basePrice": 5989.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 345
+  },
+  {
+    "productId": "PROD-00102",
+    "name": "Sports Socks",
+    "sku": "SKU-00102",
+    "basePrice": 4096.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 482
+  },
+  {
+    "productId": "PROD-00103",
+    "name": "Fitness Band",
+    "sku": "SKU-00103",
+    "basePrice": 2536.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 304
+  },
+  {
+    "productId": "PROD-00104",
+    "name": "Running Shoes",
+    "sku": "SKU-00104",
+    "basePrice": 6230.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 214
+  },
+  {
+    "productId": "PROD-00105",
+    "name": "Fitness Band",
+    "sku": "SKU-00105",
+    "basePrice": 5694.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 161
+  },
+  {
+    "productId": "PROD-00106",
+    "name": "Water Bottle",
+    "sku": "SKU-00106",
+    "basePrice": 2121.17,
+    "currency": "INR",
+    "online": true,
+    "inventory": 366
+  },
+  {
+    "productId": "PROD-00107",
+    "name": "Water Bottle",
+    "sku": "SKU-00107",
+    "basePrice": 2461.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 202
+  },
+  {
+    "productId": "PROD-00108",
+    "name": "Sports Socks",
+    "sku": "SKU-00108",
+    "basePrice": 6748.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 153
+  },
+  {
+    "productId": "PROD-00109",
+    "name": "Backpack",
+    "sku": "SKU-00109",
+    "basePrice": 3229.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 384
+  },
+  {
+    "productId": "PROD-00110",
+    "name": "Running Shoes",
+    "sku": "SKU-00110",
+    "basePrice": 191.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 318
+  },
+  {
+    "productId": "PROD-00111",
+    "name": "Fitness Band",
+    "sku": "SKU-00111",
+    "basePrice": 9960.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 37
+  },
+  {
+    "productId": "PROD-00112",
+    "name": "Fitness Band",
+    "sku": "SKU-00112",
+    "basePrice": 2209.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 135
+  },
+  {
+    "productId": "PROD-00113",
+    "name": "Sports Socks",
+    "sku": "SKU-00113",
+    "basePrice": 9338.27,
+    "currency": "INR",
+    "online": true,
+    "inventory": 451
+  },
+  {
+    "productId": "PROD-00114",
+    "name": "Running Shoes",
+    "sku": "SKU-00114",
+    "basePrice": 8803.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 189
+  },
+  {
+    "productId": "PROD-00115",
+    "name": "Water Bottle",
+    "sku": "SKU-00115",
+    "basePrice": 1660.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 426
+  },
+  {
+    "productId": "PROD-00116",
+    "name": "Fitness Band",
+    "sku": "SKU-00116",
+    "basePrice": 7064.05,
+    "currency": "INR",
+    "online": true,
+    "inventory": 313
+  },
+  {
+    "productId": "PROD-00117",
+    "name": "Fitness Band",
+    "sku": "SKU-00117",
+    "basePrice": 176.45,
+    "currency": "INR",
+    "online": true,
+    "inventory": 418
+  },
+  {
+    "productId": "PROD-00118",
+    "name": "Fitness Band",
+    "sku": "SKU-00118",
+    "basePrice": 3062.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 339
+  },
+  {
+    "productId": "PROD-00119",
+    "name": "Running Shoes",
+    "sku": "SKU-00119",
+    "basePrice": 9394.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 68
+  },
+  {
+    "productId": "PROD-00120",
+    "name": "Water Bottle",
+    "sku": "SKU-00120",
+    "basePrice": 1241.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 54
+  },
+  {
+    "productId": "PROD-00121",
+    "name": "Fitness Band",
+    "sku": "SKU-00121",
+    "basePrice": 1637.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 144
+  },
+  {
+    "productId": "PROD-00122",
+    "name": "Fitness Band",
+    "sku": "SKU-00122",
+    "basePrice": 2184.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 175
+  },
+  {
+    "productId": "PROD-00123",
+    "name": "Sports Socks",
+    "sku": "SKU-00123",
+    "basePrice": 6905.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 436
+  },
+  {
+    "productId": "PROD-00124",
+    "name": "Water Bottle",
+    "sku": "SKU-00124",
+    "basePrice": 5102.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 128
+  },
+  {
+    "productId": "PROD-00125",
+    "name": "Running Shoes",
+    "sku": "SKU-00125",
+    "basePrice": 1012.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 216
+  },
+  {
+    "productId": "PROD-00126",
+    "name": "Water Bottle",
+    "sku": "SKU-00126",
+    "basePrice": 535.46,
+    "currency": "INR",
+    "online": true,
+    "inventory": 170
+  },
+  {
+    "productId": "PROD-00127",
+    "name": "Sports Socks",
+    "sku": "SKU-00127",
+    "basePrice": 6406.42,
+    "currency": "INR",
+    "online": true,
+    "inventory": 134
+  },
+  {
+    "productId": "PROD-00128",
+    "name": "Sports Socks",
+    "sku": "SKU-00128",
+    "basePrice": 7437.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 282
+  },
+  {
+    "productId": "PROD-00129",
+    "name": "Backpack",
+    "sku": "SKU-00129",
+    "basePrice": 5651.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 57
+  },
+  {
+    "productId": "PROD-00130",
+    "name": "Running Shoes",
+    "sku": "SKU-00130",
+    "basePrice": 9455.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 353
+  },
+  {
+    "productId": "PROD-00131",
+    "name": "Sports Socks",
+    "sku": "SKU-00131",
+    "basePrice": 5500.34,
+    "currency": "INR",
+    "online": true,
+    "inventory": 427
+  },
+  {
+    "productId": "PROD-00132",
+    "name": "Water Bottle",
+    "sku": "SKU-00132",
+    "basePrice": 5865.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 75
+  },
+  {
+    "productId": "PROD-00133",
+    "name": "Backpack",
+    "sku": "SKU-00133",
+    "basePrice": 1360.71,
+    "currency": "INR",
+    "online": true,
+    "inventory": 157
+  },
+  {
+    "productId": "PROD-00134",
+    "name": "Water Bottle",
+    "sku": "SKU-00134",
+    "basePrice": 8998.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 407
+  },
+  {
+    "productId": "PROD-00135",
+    "name": "Running Shoes",
+    "sku": "SKU-00135",
+    "basePrice": 8998.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 107
+  },
+  {
+    "productId": "PROD-00136",
+    "name": "Sports Socks",
+    "sku": "SKU-00136",
+    "basePrice": 6701.64,
+    "currency": "INR",
+    "online": true,
+    "inventory": 181
+  },
+  {
+    "productId": "PROD-00137",
+    "name": "Fitness Band",
+    "sku": "SKU-00137",
+    "basePrice": 8851.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 208
+  },
+  {
+    "productId": "PROD-00138",
+    "name": "Fitness Band",
+    "sku": "SKU-00138",
+    "basePrice": 7518.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 473
+  },
+  {
+    "productId": "PROD-00139",
+    "name": "Sports Socks",
+    "sku": "SKU-00139",
+    "basePrice": 8658.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 499
+  },
+  {
+    "productId": "PROD-00140",
+    "name": "Sports Socks",
+    "sku": "SKU-00140",
+    "basePrice": 8825.02,
+    "currency": "INR",
+    "online": true,
+    "inventory": 12
+  },
+  {
+    "productId": "PROD-00141",
+    "name": "Sports Socks",
+    "sku": "SKU-00141",
+    "basePrice": 7390.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 170
+  },
+  {
+    "productId": "PROD-00142",
+    "name": "Backpack",
+    "sku": "SKU-00142",
+    "basePrice": 8041.13,
+    "currency": "INR",
+    "online": true,
+    "inventory": 442
+  },
+  {
+    "productId": "PROD-00143",
+    "name": "Sports Socks",
+    "sku": "SKU-00143",
+    "basePrice": 2740.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 403
+  },
+  {
+    "productId": "PROD-00144",
+    "name": "Running Shoes",
+    "sku": "SKU-00144",
+    "basePrice": 3886.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 19
+  },
+  {
+    "productId": "PROD-00145",
+    "name": "Backpack",
+    "sku": "SKU-00145",
+    "basePrice": 2301.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 418
+  },
+  {
+    "productId": "PROD-00146",
+    "name": "Backpack",
+    "sku": "SKU-00146",
+    "basePrice": 3560.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 420
+  },
+  {
+    "productId": "PROD-00147",
+    "name": "Sports Socks",
+    "sku": "SKU-00147",
+    "basePrice": 2305.94,
+    "currency": "INR",
+    "online": true,
+    "inventory": 337
+  },
+  {
+    "productId": "PROD-00148",
+    "name": "Sports Socks",
+    "sku": "SKU-00148",
+    "basePrice": 4043.81,
+    "currency": "INR",
+    "online": true,
+    "inventory": 142
+  },
+  {
+    "productId": "PROD-00149",
+    "name": "Running Shoes",
+    "sku": "SKU-00149",
+    "basePrice": 9671.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 142
+  },
+  {
+    "productId": "PROD-00150",
+    "name": "Water Bottle",
+    "sku": "SKU-00150",
+    "basePrice": 6449.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 204
+  },
+  {
+    "productId": "PROD-00151",
+    "name": "Fitness Band",
+    "sku": "SKU-00151",
+    "basePrice": 3377.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 14
+  },
+  {
+    "productId": "PROD-00152",
+    "name": "Running Shoes",
+    "sku": "SKU-00152",
+    "basePrice": 8781.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 133
+  },
+  {
+    "productId": "PROD-00153",
+    "name": "Sports Socks",
+    "sku": "SKU-00153",
+    "basePrice": 5846.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 135
+  },
+  {
+    "productId": "PROD-00154",
+    "name": "Running Shoes",
+    "sku": "SKU-00154",
+    "basePrice": 1172.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 222
+  },
+  {
+    "productId": "PROD-00155",
+    "name": "Water Bottle",
+    "sku": "SKU-00155",
+    "basePrice": 7311.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 160
+  },
+  {
+    "productId": "PROD-00156",
+    "name": "Backpack",
+    "sku": "SKU-00156",
+    "basePrice": 6100.47,
+    "currency": "INR",
+    "online": true,
+    "inventory": 261
+  },
+  {
+    "productId": "PROD-00157",
+    "name": "Running Shoes",
+    "sku": "SKU-00157",
+    "basePrice": 3912.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 295
+  },
+  {
+    "productId": "PROD-00158",
+    "name": "Sports Socks",
+    "sku": "SKU-00158",
+    "basePrice": 2620.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 362
+  },
+  {
+    "productId": "PROD-00159",
+    "name": "Backpack",
+    "sku": "SKU-00159",
+    "basePrice": 115.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 473
+  },
+  {
+    "productId": "PROD-00160",
+    "name": "Fitness Band",
+    "sku": "SKU-00160",
+    "basePrice": 6898.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 481
+  },
+  {
+    "productId": "PROD-00161",
+    "name": "Sports Socks",
+    "sku": "SKU-00161",
+    "basePrice": 3704.79,
+    "currency": "INR",
+    "online": true,
+    "inventory": 35
+  },
+  {
+    "productId": "PROD-00162",
+    "name": "Water Bottle",
+    "sku": "SKU-00162",
+    "basePrice": 6268.24,
+    "currency": "INR",
+    "online": true,
+    "inventory": 339
+  },
+  {
+    "productId": "PROD-00163",
+    "name": "Running Shoes",
+    "sku": "SKU-00163",
+    "basePrice": 7224.57,
+    "currency": "INR",
+    "online": true,
+    "inventory": 153
+  },
+  {
+    "productId": "PROD-00164",
+    "name": "Fitness Band",
+    "sku": "SKU-00164",
+    "basePrice": 3160.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 209
+  },
+  {
+    "productId": "PROD-00165",
+    "name": "Water Bottle",
+    "sku": "SKU-00165",
+    "basePrice": 4082.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 151
+  },
+  {
+    "productId": "PROD-00166",
+    "name": "Fitness Band",
+    "sku": "SKU-00166",
+    "basePrice": 1359.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 215
+  },
+  {
+    "productId": "PROD-00167",
+    "name": "Backpack",
+    "sku": "SKU-00167",
+    "basePrice": 6804.45,
+    "currency": "INR",
+    "online": true,
+    "inventory": 462
+  },
+  {
+    "productId": "PROD-00168",
+    "name": "Sports Socks",
+    "sku": "SKU-00168",
+    "basePrice": 6192.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 154
+  },
+  {
+    "productId": "PROD-00169",
+    "name": "Backpack",
+    "sku": "SKU-00169",
+    "basePrice": 5523.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 0
+  },
+  {
+    "productId": "PROD-00170",
+    "name": "Water Bottle",
+    "sku": "SKU-00170",
+    "basePrice": 2939.45,
+    "currency": "INR",
+    "online": true,
+    "inventory": 220
+  },
+  {
+    "productId": "PROD-00171",
+    "name": "Fitness Band",
+    "sku": "SKU-00171",
+    "basePrice": 6104.95,
+    "currency": "INR",
+    "online": true,
+    "inventory": 164
+  },
+  {
+    "productId": "PROD-00172",
+    "name": "Backpack",
+    "sku": "SKU-00172",
+    "basePrice": 4472.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 345
+  },
+  {
+    "productId": "PROD-00173",
+    "name": "Sports Socks",
+    "sku": "SKU-00173",
+    "basePrice": 5159.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 406
+  },
+  {
+    "productId": "PROD-00174",
+    "name": "Sports Socks",
+    "sku": "SKU-00174",
+    "basePrice": 6621.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 145
+  },
+  {
+    "productId": "PROD-00175",
+    "name": "Fitness Band",
+    "sku": "SKU-00175",
+    "basePrice": 6671.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 317
+  },
+  {
+    "productId": "PROD-00176",
+    "name": "Water Bottle",
+    "sku": "SKU-00176",
+    "basePrice": 1023.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 487
+  },
+  {
+    "productId": "PROD-00177",
+    "name": "Sports Socks",
+    "sku": "SKU-00177",
+    "basePrice": 6759.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 115
+  },
+  {
+    "productId": "PROD-00178",
+    "name": "Sports Socks",
+    "sku": "SKU-00178",
+    "basePrice": 1557.8,
+    "currency": "INR",
+    "online": true,
+    "inventory": 23
+  },
+  {
+    "productId": "PROD-00179",
+    "name": "Sports Socks",
+    "sku": "SKU-00179",
+    "basePrice": 9839.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 312
+  },
+  {
+    "productId": "PROD-00180",
+    "name": "Running Shoes",
+    "sku": "SKU-00180",
+    "basePrice": 4607.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 453
+  },
+  {
+    "productId": "PROD-00181",
+    "name": "Fitness Band",
+    "sku": "SKU-00181",
+    "basePrice": 2023.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 356
+  },
+  {
+    "productId": "PROD-00182",
+    "name": "Backpack",
+    "sku": "SKU-00182",
+    "basePrice": 4993.33,
+    "currency": "INR",
+    "online": true,
+    "inventory": 124
+  },
+  {
+    "productId": "PROD-00183",
+    "name": "Sports Socks",
+    "sku": "SKU-00183",
+    "basePrice": 6593.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 2
+  },
+  {
+    "productId": "PROD-00184",
+    "name": "Running Shoes",
+    "sku": "SKU-00184",
+    "basePrice": 7805.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 112
+  },
+  {
+    "productId": "PROD-00185",
+    "name": "Sports Socks",
+    "sku": "SKU-00185",
+    "basePrice": 8059.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 356
+  },
+  {
+    "productId": "PROD-00186",
+    "name": "Fitness Band",
+    "sku": "SKU-00186",
+    "basePrice": 4698.04,
+    "currency": "INR",
+    "online": true,
+    "inventory": 285
+  },
+  {
+    "productId": "PROD-00187",
+    "name": "Sports Socks",
+    "sku": "SKU-00187",
+    "basePrice": 9181.95,
+    "currency": "INR",
+    "online": true,
+    "inventory": 62
+  },
+  {
+    "productId": "PROD-00188",
+    "name": "Backpack",
+    "sku": "SKU-00188",
+    "basePrice": 1419.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 237
+  },
+  {
+    "productId": "PROD-00189",
+    "name": "Fitness Band",
+    "sku": "SKU-00189",
+    "basePrice": 9879.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 304
+  },
+  {
+    "productId": "PROD-00190",
+    "name": "Water Bottle",
+    "sku": "SKU-00190",
+    "basePrice": 9504.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 456
+  },
+  {
+    "productId": "PROD-00191",
+    "name": "Backpack",
+    "sku": "SKU-00191",
+    "basePrice": 6164.26,
+    "currency": "INR",
+    "online": true,
+    "inventory": 368
+  },
+  {
+    "productId": "PROD-00192",
+    "name": "Fitness Band",
+    "sku": "SKU-00192",
+    "basePrice": 4323.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 464
+  },
+  {
+    "productId": "PROD-00193",
+    "name": "Fitness Band",
+    "sku": "SKU-00193",
+    "basePrice": 4513.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 81
+  },
+  {
+    "productId": "PROD-00194",
+    "name": "Backpack",
+    "sku": "SKU-00194",
+    "basePrice": 4554.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 384
+  },
+  {
+    "productId": "PROD-00195",
+    "name": "Sports Socks",
+    "sku": "SKU-00195",
+    "basePrice": 8413.64,
+    "currency": "INR",
+    "online": true,
+    "inventory": 141
+  },
+  {
+    "productId": "PROD-00196",
+    "name": "Fitness Band",
+    "sku": "SKU-00196",
+    "basePrice": 4896.51,
+    "currency": "INR",
+    "online": true,
+    "inventory": 122
+  },
+  {
+    "productId": "PROD-00197",
+    "name": "Water Bottle",
+    "sku": "SKU-00197",
+    "basePrice": 4453.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 365
+  },
+  {
+    "productId": "PROD-00198",
+    "name": "Water Bottle",
+    "sku": "SKU-00198",
+    "basePrice": 2420.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 171
+  },
+  {
+    "productId": "PROD-00199",
+    "name": "Water Bottle",
+    "sku": "SKU-00199",
+    "basePrice": 8939.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 41
+  },
+  {
+    "productId": "PROD-00200",
+    "name": "Sports Socks",
+    "sku": "SKU-00200",
+    "basePrice": 1592.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 196
+  },
+  {
+    "productId": "PROD-00201",
+    "name": "Sports Socks",
+    "sku": "SKU-00201",
+    "basePrice": 7092.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 32
+  },
+  {
+    "productId": "PROD-00202",
+    "name": "Backpack",
+    "sku": "SKU-00202",
+    "basePrice": 4134.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 277
+  },
+  {
+    "productId": "PROD-00203",
+    "name": "Backpack",
+    "sku": "SKU-00203",
+    "basePrice": 4215.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 105
+  },
+  {
+    "productId": "PROD-00204",
+    "name": "Backpack",
+    "sku": "SKU-00204",
+    "basePrice": 3954.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 394
+  },
+  {
+    "productId": "PROD-00205",
+    "name": "Fitness Band",
+    "sku": "SKU-00205",
+    "basePrice": 9465.01,
+    "currency": "INR",
+    "online": true,
+    "inventory": 10
+  },
+  {
+    "productId": "PROD-00206",
+    "name": "Fitness Band",
+    "sku": "SKU-00206",
+    "basePrice": 3864.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 3
+  },
+  {
+    "productId": "PROD-00207",
+    "name": "Water Bottle",
+    "sku": "SKU-00207",
+    "basePrice": 3055.27,
+    "currency": "INR",
+    "online": true,
+    "inventory": 199
+  },
+  {
+    "productId": "PROD-00208",
+    "name": "Backpack",
+    "sku": "SKU-00208",
+    "basePrice": 5427.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 376
+  },
+  {
+    "productId": "PROD-00209",
+    "name": "Fitness Band",
+    "sku": "SKU-00209",
+    "basePrice": 8017.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 459
+  },
+  {
+    "productId": "PROD-00210",
+    "name": "Sports Socks",
+    "sku": "SKU-00210",
+    "basePrice": 4932.47,
+    "currency": "INR",
+    "online": true,
+    "inventory": 139
+  },
+  {
+    "productId": "PROD-00211",
+    "name": "Backpack",
+    "sku": "SKU-00211",
+    "basePrice": 4906.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 199
+  },
+  {
+    "productId": "PROD-00212",
+    "name": "Water Bottle",
+    "sku": "SKU-00212",
+    "basePrice": 6720.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 408
+  },
+  {
+    "productId": "PROD-00213",
+    "name": "Backpack",
+    "sku": "SKU-00213",
+    "basePrice": 7268.4,
+    "currency": "INR",
+    "online": true,
+    "inventory": 430
+  },
+  {
+    "productId": "PROD-00214",
+    "name": "Backpack",
+    "sku": "SKU-00214",
+    "basePrice": 9202.46,
+    "currency": "INR",
+    "online": true,
+    "inventory": 318
+  },
+  {
+    "productId": "PROD-00215",
+    "name": "Fitness Band",
+    "sku": "SKU-00215",
+    "basePrice": 365.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 201
+  },
+  {
+    "productId": "PROD-00216",
+    "name": "Fitness Band",
+    "sku": "SKU-00216",
+    "basePrice": 5686.48,
+    "currency": "INR",
+    "online": true,
+    "inventory": 13
+  },
+  {
+    "productId": "PROD-00217",
+    "name": "Running Shoes",
+    "sku": "SKU-00217",
+    "basePrice": 6462.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 69
+  },
+  {
+    "productId": "PROD-00218",
+    "name": "Backpack",
+    "sku": "SKU-00218",
+    "basePrice": 1898.12,
+    "currency": "INR",
+    "online": true,
+    "inventory": 133
+  },
+  {
+    "productId": "PROD-00219",
+    "name": "Backpack",
+    "sku": "SKU-00219",
+    "basePrice": 3339.79,
+    "currency": "INR",
+    "online": true,
+    "inventory": 232
+  },
+  {
+    "productId": "PROD-00220",
+    "name": "Water Bottle",
+    "sku": "SKU-00220",
+    "basePrice": 3440.26,
+    "currency": "INR",
+    "online": true,
+    "inventory": 450
+  },
+  {
+    "productId": "PROD-00221",
+    "name": "Backpack",
+    "sku": "SKU-00221",
+    "basePrice": 2853.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 487
+  },
+  {
+    "productId": "PROD-00222",
+    "name": "Backpack",
+    "sku": "SKU-00222",
+    "basePrice": 2596.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 41
+  },
+  {
+    "productId": "PROD-00223",
+    "name": "Backpack",
+    "sku": "SKU-00223",
+    "basePrice": 290.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 276
+  },
+  {
+    "productId": "PROD-00224",
+    "name": "Running Shoes",
+    "sku": "SKU-00224",
+    "basePrice": 9998.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 179
+  },
+  {
+    "productId": "PROD-00225",
+    "name": "Sports Socks",
+    "sku": "SKU-00225",
+    "basePrice": 6535.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 399
+  },
+  {
+    "productId": "PROD-00226",
+    "name": "Running Shoes",
+    "sku": "SKU-00226",
+    "basePrice": 7565.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 486
+  },
+  {
+    "productId": "PROD-00227",
+    "name": "Sports Socks",
+    "sku": "SKU-00227",
+    "basePrice": 2072.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 10
+  },
+  {
+    "productId": "PROD-00228",
+    "name": "Fitness Band",
+    "sku": "SKU-00228",
+    "basePrice": 1607.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 64
+  },
+  {
+    "productId": "PROD-00229",
+    "name": "Backpack",
+    "sku": "SKU-00229",
+    "basePrice": 6726.64,
+    "currency": "INR",
+    "online": true,
+    "inventory": 288
+  },
+  {
+    "productId": "PROD-00230",
+    "name": "Sports Socks",
+    "sku": "SKU-00230",
+    "basePrice": 4702.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 131
+  },
+  {
+    "productId": "PROD-00231",
+    "name": "Water Bottle",
+    "sku": "SKU-00231",
+    "basePrice": 1760.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 310
+  },
+  {
+    "productId": "PROD-00232",
+    "name": "Running Shoes",
+    "sku": "SKU-00232",
+    "basePrice": 7799.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 83
+  },
+  {
+    "productId": "PROD-00233",
+    "name": "Water Bottle",
+    "sku": "SKU-00233",
+    "basePrice": 1169.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 13
+  },
+  {
+    "productId": "PROD-00234",
+    "name": "Water Bottle",
+    "sku": "SKU-00234",
+    "basePrice": 5799.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 464
+  },
+  {
+    "productId": "PROD-00235",
+    "name": "Backpack",
+    "sku": "SKU-00235",
+    "basePrice": 4025.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 366
+  },
+  {
+    "productId": "PROD-00236",
+    "name": "Sports Socks",
+    "sku": "SKU-00236",
+    "basePrice": 851.37,
+    "currency": "INR",
+    "online": true,
+    "inventory": 353
+  },
+  {
+    "productId": "PROD-00237",
+    "name": "Sports Socks",
+    "sku": "SKU-00237",
+    "basePrice": 1107.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 395
+  },
+  {
+    "productId": "PROD-00238",
+    "name": "Water Bottle",
+    "sku": "SKU-00238",
+    "basePrice": 8516.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 307
+  },
+  {
+    "productId": "PROD-00239",
+    "name": "Running Shoes",
+    "sku": "SKU-00239",
+    "basePrice": 7981.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 289
+  },
+  {
+    "productId": "PROD-00240",
+    "name": "Running Shoes",
+    "sku": "SKU-00240",
+    "basePrice": 3536.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 219
+  },
+  {
+    "productId": "PROD-00241",
+    "name": "Water Bottle",
+    "sku": "SKU-00241",
+    "basePrice": 781.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 331
+  },
+  {
+    "productId": "PROD-00242",
+    "name": "Water Bottle",
+    "sku": "SKU-00242",
+    "basePrice": 224.26,
+    "currency": "INR",
+    "online": true,
+    "inventory": 215
+  },
+  {
+    "productId": "PROD-00243",
+    "name": "Backpack",
+    "sku": "SKU-00243",
+    "basePrice": 1143.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 491
+  },
+  {
+    "productId": "PROD-00244",
+    "name": "Water Bottle",
+    "sku": "SKU-00244",
+    "basePrice": 6391.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 424
+  },
+  {
+    "productId": "PROD-00245",
+    "name": "Backpack",
+    "sku": "SKU-00245",
+    "basePrice": 7101.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 222
+  },
+  {
+    "productId": "PROD-00246",
+    "name": "Sports Socks",
+    "sku": "SKU-00246",
+    "basePrice": 7363.57,
+    "currency": "INR",
+    "online": true,
+    "inventory": 494
+  },
+  {
+    "productId": "PROD-00247",
+    "name": "Water Bottle",
+    "sku": "SKU-00247",
+    "basePrice": 6196.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 470
+  },
+  {
+    "productId": "PROD-00248",
+    "name": "Fitness Band",
+    "sku": "SKU-00248",
+    "basePrice": 7767.95,
+    "currency": "INR",
+    "online": true,
+    "inventory": 238
+  },
+  {
+    "productId": "PROD-00249",
+    "name": "Backpack",
+    "sku": "SKU-00249",
+    "basePrice": 8273.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 303
+  },
+  {
+    "productId": "PROD-00250",
+    "name": "Water Bottle",
+    "sku": "SKU-00250",
+    "basePrice": 3289.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 125
+  },
+  {
+    "productId": "PROD-00251",
+    "name": "Running Shoes",
+    "sku": "SKU-00251",
+    "basePrice": 2860.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 230
+  },
+  {
+    "productId": "PROD-00252",
+    "name": "Sports Socks",
+    "sku": "SKU-00252",
+    "basePrice": 7528.72,
+    "currency": "INR",
+    "online": true,
+    "inventory": 291
+  },
+  {
+    "productId": "PROD-00253",
+    "name": "Fitness Band",
+    "sku": "SKU-00253",
+    "basePrice": 6714.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 172
+  },
+  {
+    "productId": "PROD-00254",
+    "name": "Running Shoes",
+    "sku": "SKU-00254",
+    "basePrice": 4992.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 166
+  },
+  {
+    "productId": "PROD-00255",
+    "name": "Sports Socks",
+    "sku": "SKU-00255",
+    "basePrice": 4925.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 181
+  },
+  {
+    "productId": "PROD-00256",
+    "name": "Water Bottle",
+    "sku": "SKU-00256",
+    "basePrice": 3468.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 450
+  },
+  {
+    "productId": "PROD-00257",
+    "name": "Fitness Band",
+    "sku": "SKU-00257",
+    "basePrice": 7040.72,
+    "currency": "INR",
+    "online": true,
+    "inventory": 141
+  },
+  {
+    "productId": "PROD-00258",
+    "name": "Fitness Band",
+    "sku": "SKU-00258",
+    "basePrice": 199.5,
+    "currency": "INR",
+    "online": true,
+    "inventory": 485
+  },
+  {
+    "productId": "PROD-00259",
+    "name": "Sports Socks",
+    "sku": "SKU-00259",
+    "basePrice": 946.57,
+    "currency": "INR",
+    "online": true,
+    "inventory": 368
+  },
+  {
+    "productId": "PROD-00260",
+    "name": "Backpack",
+    "sku": "SKU-00260",
+    "basePrice": 4935.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 388
+  },
+  {
+    "productId": "PROD-00261",
+    "name": "Sports Socks",
+    "sku": "SKU-00261",
+    "basePrice": 6936.03,
+    "currency": "INR",
+    "online": true,
+    "inventory": 330
+  },
+  {
+    "productId": "PROD-00262",
+    "name": "Backpack",
+    "sku": "SKU-00262",
+    "basePrice": 4535.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 8
+  },
+  {
+    "productId": "PROD-00263",
+    "name": "Running Shoes",
+    "sku": "SKU-00263",
+    "basePrice": 3011.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 207
+  },
+  {
+    "productId": "PROD-00264",
+    "name": "Sports Socks",
+    "sku": "SKU-00264",
+    "basePrice": 3130.44,
+    "currency": "INR",
+    "online": true,
+    "inventory": 297
+  },
+  {
+    "productId": "PROD-00265",
+    "name": "Water Bottle",
+    "sku": "SKU-00265",
+    "basePrice": 4784.28,
+    "currency": "INR",
+    "online": true,
+    "inventory": 271
+  },
+  {
+    "productId": "PROD-00266",
+    "name": "Water Bottle",
+    "sku": "SKU-00266",
+    "basePrice": 4311.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 381
+  },
+  {
+    "productId": "PROD-00267",
+    "name": "Fitness Band",
+    "sku": "SKU-00267",
+    "basePrice": 3373.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 359
+  },
+  {
+    "productId": "PROD-00268",
+    "name": "Backpack",
+    "sku": "SKU-00268",
+    "basePrice": 2781.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 128
+  },
+  {
+    "productId": "PROD-00269",
+    "name": "Sports Socks",
+    "sku": "SKU-00269",
+    "basePrice": 1293.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 98
+  },
+  {
+    "productId": "PROD-00270",
+    "name": "Water Bottle",
+    "sku": "SKU-00270",
+    "basePrice": 1282.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 274
+  },
+  {
+    "productId": "PROD-00271",
+    "name": "Sports Socks",
+    "sku": "SKU-00271",
+    "basePrice": 1995.26,
+    "currency": "INR",
+    "online": true,
+    "inventory": 378
+  },
+  {
+    "productId": "PROD-00272",
+    "name": "Backpack",
+    "sku": "SKU-00272",
+    "basePrice": 2836.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 301
+  },
+  {
+    "productId": "PROD-00273",
+    "name": "Fitness Band",
+    "sku": "SKU-00273",
+    "basePrice": 6007.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 51
+  },
+  {
+    "productId": "PROD-00274",
+    "name": "Sports Socks",
+    "sku": "SKU-00274",
+    "basePrice": 3031.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 184
+  },
+  {
+    "productId": "PROD-00275",
+    "name": "Sports Socks",
+    "sku": "SKU-00275",
+    "basePrice": 3091.45,
+    "currency": "INR",
+    "online": true,
+    "inventory": 362
+  },
+  {
+    "productId": "PROD-00276",
+    "name": "Fitness Band",
+    "sku": "SKU-00276",
+    "basePrice": 1352.17,
+    "currency": "INR",
+    "online": true,
+    "inventory": 23
+  },
+  {
+    "productId": "PROD-00277",
+    "name": "Running Shoes",
+    "sku": "SKU-00277",
+    "basePrice": 5577.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 357
+  },
+  {
+    "productId": "PROD-00278",
+    "name": "Sports Socks",
+    "sku": "SKU-00278",
+    "basePrice": 6413.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 385
+  },
+  {
+    "productId": "PROD-00279",
+    "name": "Backpack",
+    "sku": "SKU-00279",
+    "basePrice": 1114.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 6
+  },
+  {
+    "productId": "PROD-00280",
+    "name": "Fitness Band",
+    "sku": "SKU-00280",
+    "basePrice": 2913.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 245
+  },
+  {
+    "productId": "PROD-00281",
+    "name": "Backpack",
+    "sku": "SKU-00281",
+    "basePrice": 3471.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 494
+  },
+  {
+    "productId": "PROD-00282",
+    "name": "Running Shoes",
+    "sku": "SKU-00282",
+    "basePrice": 2598.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 441
+  },
+  {
+    "productId": "PROD-00283",
+    "name": "Backpack",
+    "sku": "SKU-00283",
+    "basePrice": 1228.46,
+    "currency": "INR",
+    "online": true,
+    "inventory": 33
+  },
+  {
+    "productId": "PROD-00284",
+    "name": "Backpack",
+    "sku": "SKU-00284",
+    "basePrice": 4967.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 295
+  },
+  {
+    "productId": "PROD-00285",
+    "name": "Running Shoes",
+    "sku": "SKU-00285",
+    "basePrice": 1601.1,
+    "currency": "INR",
+    "online": true,
+    "inventory": 415
+  },
+  {
+    "productId": "PROD-00286",
+    "name": "Fitness Band",
+    "sku": "SKU-00286",
+    "basePrice": 9495.34,
+    "currency": "INR",
+    "online": true,
+    "inventory": 43
+  },
+  {
+    "productId": "PROD-00287",
+    "name": "Sports Socks",
+    "sku": "SKU-00287",
+    "basePrice": 1271.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 391
+  },
+  {
+    "productId": "PROD-00288",
+    "name": "Backpack",
+    "sku": "SKU-00288",
+    "basePrice": 6101.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 404
+  },
+  {
+    "productId": "PROD-00289",
+    "name": "Fitness Band",
+    "sku": "SKU-00289",
+    "basePrice": 2333.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 267
+  },
+  {
+    "productId": "PROD-00290",
+    "name": "Backpack",
+    "sku": "SKU-00290",
+    "basePrice": 4559.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 226
+  },
+  {
+    "productId": "PROD-00291",
+    "name": "Water Bottle",
+    "sku": "SKU-00291",
+    "basePrice": 8614.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 219
+  },
+  {
+    "productId": "PROD-00292",
+    "name": "Water Bottle",
+    "sku": "SKU-00292",
+    "basePrice": 5728.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 30
+  },
+  {
+    "productId": "PROD-00293",
+    "name": "Fitness Band",
+    "sku": "SKU-00293",
+    "basePrice": 9604.08,
+    "currency": "INR",
+    "online": true,
+    "inventory": 50
+  },
+  {
+    "productId": "PROD-00294",
+    "name": "Sports Socks",
+    "sku": "SKU-00294",
+    "basePrice": 6291.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 135
+  },
+  {
+    "productId": "PROD-00295",
+    "name": "Running Shoes",
+    "sku": "SKU-00295",
+    "basePrice": 1653.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 88
+  },
+  {
+    "productId": "PROD-00296",
+    "name": "Fitness Band",
+    "sku": "SKU-00296",
+    "basePrice": 842.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 1
+  },
+  {
+    "productId": "PROD-00297",
+    "name": "Backpack",
+    "sku": "SKU-00297",
+    "basePrice": 4558.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 304
+  },
+  {
+    "productId": "PROD-00298",
+    "name": "Backpack",
+    "sku": "SKU-00298",
+    "basePrice": 2982.47,
+    "currency": "INR",
+    "online": true,
+    "inventory": 118
+  },
+  {
+    "productId": "PROD-00299",
+    "name": "Water Bottle",
+    "sku": "SKU-00299",
+    "basePrice": 7097.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 359
+  },
+  {
+    "productId": "PROD-00300",
+    "name": "Backpack",
+    "sku": "SKU-00300",
+    "basePrice": 803.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 119
+  },
+  {
+    "productId": "PROD-00301",
+    "name": "Water Bottle",
+    "sku": "SKU-00301",
+    "basePrice": 7898.5,
+    "currency": "INR",
+    "online": true,
+    "inventory": 320
+  },
+  {
+    "productId": "PROD-00302",
+    "name": "Fitness Band",
+    "sku": "SKU-00302",
+    "basePrice": 6644.71,
+    "currency": "INR",
+    "online": true,
+    "inventory": 478
+  },
+  {
+    "productId": "PROD-00303",
+    "name": "Sports Socks",
+    "sku": "SKU-00303",
+    "basePrice": 4307.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 278
+  },
+  {
+    "productId": "PROD-00304",
+    "name": "Sports Socks",
+    "sku": "SKU-00304",
+    "basePrice": 6510.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 465
+  },
+  {
+    "productId": "PROD-00305",
+    "name": "Water Bottle",
+    "sku": "SKU-00305",
+    "basePrice": 8282.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 36
+  },
+  {
+    "productId": "PROD-00306",
+    "name": "Running Shoes",
+    "sku": "SKU-00306",
+    "basePrice": 1741.64,
+    "currency": "INR",
+    "online": true,
+    "inventory": 157
+  },
+  {
+    "productId": "PROD-00307",
+    "name": "Fitness Band",
+    "sku": "SKU-00307",
+    "basePrice": 7513.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 291
+  },
+  {
+    "productId": "PROD-00308",
+    "name": "Water Bottle",
+    "sku": "SKU-00308",
+    "basePrice": 4446.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 239
+  },
+  {
+    "productId": "PROD-00309",
+    "name": "Water Bottle",
+    "sku": "SKU-00309",
+    "basePrice": 7026.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 482
+  },
+  {
+    "productId": "PROD-00310",
+    "name": "Water Bottle",
+    "sku": "SKU-00310",
+    "basePrice": 5053.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 252
+  },
+  {
+    "productId": "PROD-00311",
+    "name": "Backpack",
+    "sku": "SKU-00311",
+    "basePrice": 895.37,
+    "currency": "INR",
+    "online": true,
+    "inventory": 20
+  },
+  {
+    "productId": "PROD-00312",
+    "name": "Backpack",
+    "sku": "SKU-00312",
+    "basePrice": 7370.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 309
+  },
+  {
+    "productId": "PROD-00313",
+    "name": "Water Bottle",
+    "sku": "SKU-00313",
+    "basePrice": 355.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 117
+  },
+  {
+    "productId": "PROD-00314",
+    "name": "Fitness Band",
+    "sku": "SKU-00314",
+    "basePrice": 5911.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 10
+  },
+  {
+    "productId": "PROD-00315",
+    "name": "Water Bottle",
+    "sku": "SKU-00315",
+    "basePrice": 5803.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 390
+  },
+  {
+    "productId": "PROD-00316",
+    "name": "Sports Socks",
+    "sku": "SKU-00316",
+    "basePrice": 4756.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 333
+  },
+  {
+    "productId": "PROD-00317",
+    "name": "Backpack",
+    "sku": "SKU-00317",
+    "basePrice": 9168.12,
+    "currency": "INR",
+    "online": true,
+    "inventory": 92
+  },
+  {
+    "productId": "PROD-00318",
+    "name": "Fitness Band",
+    "sku": "SKU-00318",
+    "basePrice": 4414.26,
+    "currency": "INR",
+    "online": true,
+    "inventory": 416
+  },
+  {
+    "productId": "PROD-00319",
+    "name": "Backpack",
+    "sku": "SKU-00319",
+    "basePrice": 9692.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 240
+  },
+  {
+    "productId": "PROD-00320",
+    "name": "Water Bottle",
+    "sku": "SKU-00320",
+    "basePrice": 4141.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 164
+  },
+  {
+    "productId": "PROD-00321",
+    "name": "Running Shoes",
+    "sku": "SKU-00321",
+    "basePrice": 8590.56,
+    "currency": "INR",
+    "online": true,
+    "inventory": 168
+  },
+  {
+    "productId": "PROD-00322",
+    "name": "Backpack",
+    "sku": "SKU-00322",
+    "basePrice": 6966.37,
+    "currency": "INR",
+    "online": true,
+    "inventory": 147
+  },
+  {
+    "productId": "PROD-00323",
+    "name": "Backpack",
+    "sku": "SKU-00323",
+    "basePrice": 8153.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 281
+  },
+  {
+    "productId": "PROD-00324",
+    "name": "Running Shoes",
+    "sku": "SKU-00324",
+    "basePrice": 4601.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 161
+  },
+  {
+    "productId": "PROD-00325",
+    "name": "Water Bottle",
+    "sku": "SKU-00325",
+    "basePrice": 3299.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 496
+  },
+  {
+    "productId": "PROD-00326",
+    "name": "Backpack",
+    "sku": "SKU-00326",
+    "basePrice": 8661.61,
+    "currency": "INR",
+    "online": true,
+    "inventory": 422
+  },
+  {
+    "productId": "PROD-00327",
+    "name": "Running Shoes",
+    "sku": "SKU-00327",
+    "basePrice": 6609.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 277
+  },
+  {
+    "productId": "PROD-00328",
+    "name": "Backpack",
+    "sku": "SKU-00328",
+    "basePrice": 4190.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 96
+  },
+  {
+    "productId": "PROD-00329",
+    "name": "Fitness Band",
+    "sku": "SKU-00329",
+    "basePrice": 3680.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 387
+  },
+  {
+    "productId": "PROD-00330",
+    "name": "Backpack",
+    "sku": "SKU-00330",
+    "basePrice": 6290.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 389
+  },
+  {
+    "productId": "PROD-00331",
+    "name": "Running Shoes",
+    "sku": "SKU-00331",
+    "basePrice": 2114.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 281
+  },
+  {
+    "productId": "PROD-00332",
+    "name": "Sports Socks",
+    "sku": "SKU-00332",
+    "basePrice": 9282.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 224
+  },
+  {
+    "productId": "PROD-00333",
+    "name": "Backpack",
+    "sku": "SKU-00333",
+    "basePrice": 1301.12,
+    "currency": "INR",
+    "online": true,
+    "inventory": 498
+  },
+  {
+    "productId": "PROD-00334",
+    "name": "Fitness Band",
+    "sku": "SKU-00334",
+    "basePrice": 8012.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 363
+  },
+  {
+    "productId": "PROD-00335",
+    "name": "Sports Socks",
+    "sku": "SKU-00335",
+    "basePrice": 3175.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 7
+  },
+  {
+    "productId": "PROD-00336",
+    "name": "Fitness Band",
+    "sku": "SKU-00336",
+    "basePrice": 4138.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 115
+  },
+  {
+    "productId": "PROD-00337",
+    "name": "Running Shoes",
+    "sku": "SKU-00337",
+    "basePrice": 4667.33,
+    "currency": "INR",
+    "online": true,
+    "inventory": 60
+  },
+  {
+    "productId": "PROD-00338",
+    "name": "Sports Socks",
+    "sku": "SKU-00338",
+    "basePrice": 5032.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 366
+  },
+  {
+    "productId": "PROD-00339",
+    "name": "Water Bottle",
+    "sku": "SKU-00339",
+    "basePrice": 5136.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 139
+  },
+  {
+    "productId": "PROD-00340",
+    "name": "Backpack",
+    "sku": "SKU-00340",
+    "basePrice": 8362.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 241
+  },
+  {
+    "productId": "PROD-00341",
+    "name": "Sports Socks",
+    "sku": "SKU-00341",
+    "basePrice": 4621.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 74
+  },
+  {
+    "productId": "PROD-00342",
+    "name": "Backpack",
+    "sku": "SKU-00342",
+    "basePrice": 1986.04,
+    "currency": "INR",
+    "online": true,
+    "inventory": 306
+  },
+  {
+    "productId": "PROD-00343",
+    "name": "Fitness Band",
+    "sku": "SKU-00343",
+    "basePrice": 7487.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 69
+  },
+  {
+    "productId": "PROD-00344",
+    "name": "Running Shoes",
+    "sku": "SKU-00344",
+    "basePrice": 2833.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 404
+  },
+  {
+    "productId": "PROD-00345",
+    "name": "Backpack",
+    "sku": "SKU-00345",
+    "basePrice": 3463.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 403
+  },
+  {
+    "productId": "PROD-00346",
+    "name": "Fitness Band",
+    "sku": "SKU-00346",
+    "basePrice": 2744.01,
+    "currency": "INR",
+    "online": true,
+    "inventory": 1
+  },
+  {
+    "productId": "PROD-00347",
+    "name": "Water Bottle",
+    "sku": "SKU-00347",
+    "basePrice": 7286.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 428
+  },
+  {
+    "productId": "PROD-00348",
+    "name": "Fitness Band",
+    "sku": "SKU-00348",
+    "basePrice": 5840.24,
+    "currency": "INR",
+    "online": true,
+    "inventory": 337
+  },
+  {
+    "productId": "PROD-00349",
+    "name": "Backpack",
+    "sku": "SKU-00349",
+    "basePrice": 8665.08,
+    "currency": "INR",
+    "online": true,
+    "inventory": 228
+  },
+  {
+    "productId": "PROD-00350",
+    "name": "Fitness Band",
+    "sku": "SKU-00350",
+    "basePrice": 4893.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 170
+  },
+  {
+    "productId": "PROD-00351",
+    "name": "Fitness Band",
+    "sku": "SKU-00351",
+    "basePrice": 7651.44,
+    "currency": "INR",
+    "online": true,
+    "inventory": 193
+  },
+  {
+    "productId": "PROD-00352",
+    "name": "Backpack",
+    "sku": "SKU-00352",
+    "basePrice": 9334.24,
+    "currency": "INR",
+    "online": true,
+    "inventory": 445
+  },
+  {
+    "productId": "PROD-00353",
+    "name": "Sports Socks",
+    "sku": "SKU-00353",
+    "basePrice": 9808.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 122
+  },
+  {
+    "productId": "PROD-00354",
+    "name": "Fitness Band",
+    "sku": "SKU-00354",
+    "basePrice": 3890.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 438
+  },
+  {
+    "productId": "PROD-00355",
+    "name": "Backpack",
+    "sku": "SKU-00355",
+    "basePrice": 531.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 381
+  },
+  {
+    "productId": "PROD-00356",
+    "name": "Backpack",
+    "sku": "SKU-00356",
+    "basePrice": 7080.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 415
+  },
+  {
+    "productId": "PROD-00357",
+    "name": "Backpack",
+    "sku": "SKU-00357",
+    "basePrice": 3921.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 339
+  },
+  {
+    "productId": "PROD-00358",
+    "name": "Sports Socks",
+    "sku": "SKU-00358",
+    "basePrice": 5002.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 18
+  },
+  {
+    "productId": "PROD-00359",
+    "name": "Sports Socks",
+    "sku": "SKU-00359",
+    "basePrice": 5071.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 302
+  },
+  {
+    "productId": "PROD-00360",
+    "name": "Water Bottle",
+    "sku": "SKU-00360",
+    "basePrice": 8709.03,
+    "currency": "INR",
+    "online": true,
+    "inventory": 447
+  },
+  {
+    "productId": "PROD-00361",
+    "name": "Backpack",
+    "sku": "SKU-00361",
+    "basePrice": 1086.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 466
+  },
+  {
+    "productId": "PROD-00362",
+    "name": "Backpack",
+    "sku": "SKU-00362",
+    "basePrice": 250.94,
+    "currency": "INR",
+    "online": true,
+    "inventory": 73
+  },
+  {
+    "productId": "PROD-00363",
+    "name": "Backpack",
+    "sku": "SKU-00363",
+    "basePrice": 8721.24,
+    "currency": "INR",
+    "online": true,
+    "inventory": 496
+  },
+  {
+    "productId": "PROD-00364",
+    "name": "Sports Socks",
+    "sku": "SKU-00364",
+    "basePrice": 839.8,
+    "currency": "INR",
+    "online": true,
+    "inventory": 400
+  },
+  {
+    "productId": "PROD-00365",
+    "name": "Water Bottle",
+    "sku": "SKU-00365",
+    "basePrice": 3450.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 354
+  },
+  {
+    "productId": "PROD-00366",
+    "name": "Backpack",
+    "sku": "SKU-00366",
+    "basePrice": 6532.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 436
+  },
+  {
+    "productId": "PROD-00367",
+    "name": "Water Bottle",
+    "sku": "SKU-00367",
+    "basePrice": 8537.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 439
+  },
+  {
+    "productId": "PROD-00368",
+    "name": "Fitness Band",
+    "sku": "SKU-00368",
+    "basePrice": 3861.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 162
+  },
+  {
+    "productId": "PROD-00369",
+    "name": "Backpack",
+    "sku": "SKU-00369",
+    "basePrice": 8735.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 18
+  },
+  {
+    "productId": "PROD-00370",
+    "name": "Fitness Band",
+    "sku": "SKU-00370",
+    "basePrice": 776.37,
+    "currency": "INR",
+    "online": true,
+    "inventory": 323
+  },
+  {
+    "productId": "PROD-00371",
+    "name": "Water Bottle",
+    "sku": "SKU-00371",
+    "basePrice": 9973.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 382
+  },
+  {
+    "productId": "PROD-00372",
+    "name": "Running Shoes",
+    "sku": "SKU-00372",
+    "basePrice": 4395.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 50
+  },
+  {
+    "productId": "PROD-00373",
+    "name": "Running Shoes",
+    "sku": "SKU-00373",
+    "basePrice": 4491.42,
+    "currency": "INR",
+    "online": true,
+    "inventory": 355
+  },
+  {
+    "productId": "PROD-00374",
+    "name": "Water Bottle",
+    "sku": "SKU-00374",
+    "basePrice": 9042.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 23
+  },
+  {
+    "productId": "PROD-00375",
+    "name": "Water Bottle",
+    "sku": "SKU-00375",
+    "basePrice": 7980.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 150
+  },
+  {
+    "productId": "PROD-00376",
+    "name": "Water Bottle",
+    "sku": "SKU-00376",
+    "basePrice": 3809.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 74
+  },
+  {
+    "productId": "PROD-00377",
+    "name": "Sports Socks",
+    "sku": "SKU-00377",
+    "basePrice": 5357.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 289
+  },
+  {
+    "productId": "PROD-00378",
+    "name": "Sports Socks",
+    "sku": "SKU-00378",
+    "basePrice": 1781.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 40
+  },
+  {
+    "productId": "PROD-00379",
+    "name": "Fitness Band",
+    "sku": "SKU-00379",
+    "basePrice": 8720.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 317
+  },
+  {
+    "productId": "PROD-00380",
+    "name": "Sports Socks",
+    "sku": "SKU-00380",
+    "basePrice": 5025.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 298
+  },
+  {
+    "productId": "PROD-00381",
+    "name": "Sports Socks",
+    "sku": "SKU-00381",
+    "basePrice": 2397.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 326
+  },
+  {
+    "productId": "PROD-00382",
+    "name": "Water Bottle",
+    "sku": "SKU-00382",
+    "basePrice": 4648.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 341
+  },
+  {
+    "productId": "PROD-00383",
+    "name": "Running Shoes",
+    "sku": "SKU-00383",
+    "basePrice": 8998.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 238
+  },
+  {
+    "productId": "PROD-00384",
+    "name": "Water Bottle",
+    "sku": "SKU-00384",
+    "basePrice": 6807.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 80
+  },
+  {
+    "productId": "PROD-00385",
+    "name": "Running Shoes",
+    "sku": "SKU-00385",
+    "basePrice": 4472.12,
+    "currency": "INR",
+    "online": true,
+    "inventory": 176
+  },
+  {
+    "productId": "PROD-00386",
+    "name": "Fitness Band",
+    "sku": "SKU-00386",
+    "basePrice": 3060.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 492
+  },
+  {
+    "productId": "PROD-00387",
+    "name": "Backpack",
+    "sku": "SKU-00387",
+    "basePrice": 6933.1,
+    "currency": "INR",
+    "online": true,
+    "inventory": 233
+  },
+  {
+    "productId": "PROD-00388",
+    "name": "Water Bottle",
+    "sku": "SKU-00388",
+    "basePrice": 2071.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 196
+  },
+  {
+    "productId": "PROD-00389",
+    "name": "Backpack",
+    "sku": "SKU-00389",
+    "basePrice": 1154.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 195
+  },
+  {
+    "productId": "PROD-00390",
+    "name": "Fitness Band",
+    "sku": "SKU-00390",
+    "basePrice": 3652.7,
+    "currency": "INR",
+    "online": true,
+    "inventory": 151
+  },
+  {
+    "productId": "PROD-00391",
+    "name": "Water Bottle",
+    "sku": "SKU-00391",
+    "basePrice": 316.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 424
+  },
+  {
+    "productId": "PROD-00392",
+    "name": "Backpack",
+    "sku": "SKU-00392",
+    "basePrice": 2816.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 289
+  },
+  {
+    "productId": "PROD-00393",
+    "name": "Running Shoes",
+    "sku": "SKU-00393",
+    "basePrice": 9114.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 381
+  },
+  {
+    "productId": "PROD-00394",
+    "name": "Backpack",
+    "sku": "SKU-00394",
+    "basePrice": 8344.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 462
+  },
+  {
+    "productId": "PROD-00395",
+    "name": "Water Bottle",
+    "sku": "SKU-00395",
+    "basePrice": 7778.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 117
+  },
+  {
+    "productId": "PROD-00396",
+    "name": "Fitness Band",
+    "sku": "SKU-00396",
+    "basePrice": 8038.13,
+    "currency": "INR",
+    "online": true,
+    "inventory": 112
+  },
+  {
+    "productId": "PROD-00397",
+    "name": "Sports Socks",
+    "sku": "SKU-00397",
+    "basePrice": 6245.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 347
+  },
+  {
+    "productId": "PROD-00398",
+    "name": "Sports Socks",
+    "sku": "SKU-00398",
+    "basePrice": 6318.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 462
+  },
+  {
+    "productId": "PROD-00399",
+    "name": "Running Shoes",
+    "sku": "SKU-00399",
+    "basePrice": 3157.44,
+    "currency": "INR",
+    "online": true,
+    "inventory": 225
+  },
+  {
+    "productId": "PROD-00400",
+    "name": "Running Shoes",
+    "sku": "SKU-00400",
+    "basePrice": 5836.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 374
+  },
+  {
+    "productId": "PROD-00401",
+    "name": "Sports Socks",
+    "sku": "SKU-00401",
+    "basePrice": 991.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 151
+  },
+  {
+    "productId": "PROD-00402",
+    "name": "Water Bottle",
+    "sku": "SKU-00402",
+    "basePrice": 7499.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 89
+  },
+  {
+    "productId": "PROD-00403",
+    "name": "Sports Socks",
+    "sku": "SKU-00403",
+    "basePrice": 1407.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 276
+  },
+  {
+    "productId": "PROD-00404",
+    "name": "Water Bottle",
+    "sku": "SKU-00404",
+    "basePrice": 5354.44,
+    "currency": "INR",
+    "online": true,
+    "inventory": 467
+  },
+  {
+    "productId": "PROD-00405",
+    "name": "Water Bottle",
+    "sku": "SKU-00405",
+    "basePrice": 8320.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 131
+  },
+  {
+    "productId": "PROD-00406",
+    "name": "Backpack",
+    "sku": "SKU-00406",
+    "basePrice": 9676.1,
+    "currency": "INR",
+    "online": true,
+    "inventory": 151
+  },
+  {
+    "productId": "PROD-00407",
+    "name": "Water Bottle",
+    "sku": "SKU-00407",
+    "basePrice": 8060.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 239
+  },
+  {
+    "productId": "PROD-00408",
+    "name": "Running Shoes",
+    "sku": "SKU-00408",
+    "basePrice": 1492.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 494
+  },
+  {
+    "productId": "PROD-00409",
+    "name": "Sports Socks",
+    "sku": "SKU-00409",
+    "basePrice": 8614.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 370
+  },
+  {
+    "productId": "PROD-00410",
+    "name": "Backpack",
+    "sku": "SKU-00410",
+    "basePrice": 9674.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 411
+  },
+  {
+    "productId": "PROD-00411",
+    "name": "Fitness Band",
+    "sku": "SKU-00411",
+    "basePrice": 3720.17,
+    "currency": "INR",
+    "online": true,
+    "inventory": 404
+  },
+  {
+    "productId": "PROD-00412",
+    "name": "Backpack",
+    "sku": "SKU-00412",
+    "basePrice": 236.79,
+    "currency": "INR",
+    "online": true,
+    "inventory": 274
+  },
+  {
+    "productId": "PROD-00413",
+    "name": "Running Shoes",
+    "sku": "SKU-00413",
+    "basePrice": 4601.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 344
+  },
+  {
+    "productId": "PROD-00414",
+    "name": "Water Bottle",
+    "sku": "SKU-00414",
+    "basePrice": 5886.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 421
+  },
+  {
+    "productId": "PROD-00415",
+    "name": "Water Bottle",
+    "sku": "SKU-00415",
+    "basePrice": 1171.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 119
+  },
+  {
+    "productId": "PROD-00416",
+    "name": "Backpack",
+    "sku": "SKU-00416",
+    "basePrice": 346.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 452
+  },
+  {
+    "productId": "PROD-00417",
+    "name": "Fitness Band",
+    "sku": "SKU-00417",
+    "basePrice": 3346.26,
+    "currency": "INR",
+    "online": true,
+    "inventory": 312
+  },
+  {
+    "productId": "PROD-00418",
+    "name": "Sports Socks",
+    "sku": "SKU-00418",
+    "basePrice": 6510.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 325
+  },
+  {
+    "productId": "PROD-00419",
+    "name": "Backpack",
+    "sku": "SKU-00419",
+    "basePrice": 9101.94,
+    "currency": "INR",
+    "online": true,
+    "inventory": 154
+  },
+  {
+    "productId": "PROD-00420",
+    "name": "Backpack",
+    "sku": "SKU-00420",
+    "basePrice": 1254.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 23
+  },
+  {
+    "productId": "PROD-00421",
+    "name": "Running Shoes",
+    "sku": "SKU-00421",
+    "basePrice": 3112.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 252
+  },
+  {
+    "productId": "PROD-00422",
+    "name": "Running Shoes",
+    "sku": "SKU-00422",
+    "basePrice": 1061.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 454
+  },
+  {
+    "productId": "PROD-00423",
+    "name": "Fitness Band",
+    "sku": "SKU-00423",
+    "basePrice": 1442.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 232
+  },
+  {
+    "productId": "PROD-00424",
+    "name": "Water Bottle",
+    "sku": "SKU-00424",
+    "basePrice": 6736.81,
+    "currency": "INR",
+    "online": true,
+    "inventory": 380
+  },
+  {
+    "productId": "PROD-00425",
+    "name": "Fitness Band",
+    "sku": "SKU-00425",
+    "basePrice": 4248.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 380
+  },
+  {
+    "productId": "PROD-00426",
+    "name": "Sports Socks",
+    "sku": "SKU-00426",
+    "basePrice": 8864.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 335
+  },
+  {
+    "productId": "PROD-00427",
+    "name": "Running Shoes",
+    "sku": "SKU-00427",
+    "basePrice": 8352.56,
+    "currency": "INR",
+    "online": true,
+    "inventory": 315
+  },
+  {
+    "productId": "PROD-00428",
+    "name": "Backpack",
+    "sku": "SKU-00428",
+    "basePrice": 9395.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 143
+  },
+  {
+    "productId": "PROD-00429",
+    "name": "Running Shoes",
+    "sku": "SKU-00429",
+    "basePrice": 6932.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 111
+  },
+  {
+    "productId": "PROD-00430",
+    "name": "Backpack",
+    "sku": "SKU-00430",
+    "basePrice": 4501.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 120
+  },
+  {
+    "productId": "PROD-00431",
+    "name": "Water Bottle",
+    "sku": "SKU-00431",
+    "basePrice": 1082.61,
+    "currency": "INR",
+    "online": true,
+    "inventory": 351
+  },
+  {
+    "productId": "PROD-00432",
+    "name": "Water Bottle",
+    "sku": "SKU-00432",
+    "basePrice": 5489.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 500
+  },
+  {
+    "productId": "PROD-00433",
+    "name": "Water Bottle",
+    "sku": "SKU-00433",
+    "basePrice": 698.45,
+    "currency": "INR",
+    "online": true,
+    "inventory": 141
+  },
+  {
+    "productId": "PROD-00434",
+    "name": "Sports Socks",
+    "sku": "SKU-00434",
+    "basePrice": 9684.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 485
+  },
+  {
+    "productId": "PROD-00435",
+    "name": "Backpack",
+    "sku": "SKU-00435",
+    "basePrice": 1006.57,
+    "currency": "INR",
+    "online": true,
+    "inventory": 108
+  },
+  {
+    "productId": "PROD-00436",
+    "name": "Fitness Band",
+    "sku": "SKU-00436",
+    "basePrice": 9712.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 25
+  },
+  {
+    "productId": "PROD-00437",
+    "name": "Water Bottle",
+    "sku": "SKU-00437",
+    "basePrice": 2510.33,
+    "currency": "INR",
+    "online": true,
+    "inventory": 64
+  },
+  {
+    "productId": "PROD-00438",
+    "name": "Fitness Band",
+    "sku": "SKU-00438",
+    "basePrice": 2130.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 424
+  },
+  {
+    "productId": "PROD-00439",
+    "name": "Fitness Band",
+    "sku": "SKU-00439",
+    "basePrice": 2149.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 110
+  },
+  {
+    "productId": "PROD-00440",
+    "name": "Sports Socks",
+    "sku": "SKU-00440",
+    "basePrice": 3351.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 75
+  },
+  {
+    "productId": "PROD-00441",
+    "name": "Fitness Band",
+    "sku": "SKU-00441",
+    "basePrice": 127.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 439
+  },
+  {
+    "productId": "PROD-00442",
+    "name": "Sports Socks",
+    "sku": "SKU-00442",
+    "basePrice": 9875.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 276
+  },
+  {
+    "productId": "PROD-00443",
+    "name": "Water Bottle",
+    "sku": "SKU-00443",
+    "basePrice": 8004.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 56
+  },
+  {
+    "productId": "PROD-00444",
+    "name": "Running Shoes",
+    "sku": "SKU-00444",
+    "basePrice": 1403.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 183
+  },
+  {
+    "productId": "PROD-00445",
+    "name": "Sports Socks",
+    "sku": "SKU-00445",
+    "basePrice": 5928.64,
+    "currency": "INR",
+    "online": true,
+    "inventory": 8
+  },
+  {
+    "productId": "PROD-00446",
+    "name": "Sports Socks",
+    "sku": "SKU-00446",
+    "basePrice": 2726.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 64
+  },
+  {
+    "productId": "PROD-00447",
+    "name": "Backpack",
+    "sku": "SKU-00447",
+    "basePrice": 5307.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 381
+  },
+  {
+    "productId": "PROD-00448",
+    "name": "Running Shoes",
+    "sku": "SKU-00448",
+    "basePrice": 4813.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 398
+  },
+  {
+    "productId": "PROD-00449",
+    "name": "Water Bottle",
+    "sku": "SKU-00449",
+    "basePrice": 5180.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 55
+  },
+  {
+    "productId": "PROD-00450",
+    "name": "Backpack",
+    "sku": "SKU-00450",
+    "basePrice": 5087.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 484
+  },
+  {
+    "productId": "PROD-00451",
+    "name": "Fitness Band",
+    "sku": "SKU-00451",
+    "basePrice": 528.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 401
+  },
+  {
+    "productId": "PROD-00452",
+    "name": "Fitness Band",
+    "sku": "SKU-00452",
+    "basePrice": 3085.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 329
+  },
+  {
+    "productId": "PROD-00453",
+    "name": "Running Shoes",
+    "sku": "SKU-00453",
+    "basePrice": 701.17,
+    "currency": "INR",
+    "online": true,
+    "inventory": 245
+  },
+  {
+    "productId": "PROD-00454",
+    "name": "Backpack",
+    "sku": "SKU-00454",
+    "basePrice": 4319.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 55
+  },
+  {
+    "productId": "PROD-00455",
+    "name": "Backpack",
+    "sku": "SKU-00455",
+    "basePrice": 7151.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 227
+  },
+  {
+    "productId": "PROD-00456",
+    "name": "Running Shoes",
+    "sku": "SKU-00456",
+    "basePrice": 9001.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 164
+  },
+  {
+    "productId": "PROD-00457",
+    "name": "Fitness Band",
+    "sku": "SKU-00457",
+    "basePrice": 1567.5,
+    "currency": "INR",
+    "online": true,
+    "inventory": 64
+  },
+  {
+    "productId": "PROD-00458",
+    "name": "Water Bottle",
+    "sku": "SKU-00458",
+    "basePrice": 6279.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 299
+  },
+  {
+    "productId": "PROD-00459",
+    "name": "Fitness Band",
+    "sku": "SKU-00459",
+    "basePrice": 7149.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 195
+  },
+  {
+    "productId": "PROD-00460",
+    "name": "Fitness Band",
+    "sku": "SKU-00460",
+    "basePrice": 5351.51,
+    "currency": "INR",
+    "online": true,
+    "inventory": 232
+  },
+  {
+    "productId": "PROD-00461",
+    "name": "Fitness Band",
+    "sku": "SKU-00461",
+    "basePrice": 6092.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 50
+  },
+  {
+    "productId": "PROD-00462",
+    "name": "Running Shoes",
+    "sku": "SKU-00462",
+    "basePrice": 8541.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 333
+  },
+  {
+    "productId": "PROD-00463",
+    "name": "Fitness Band",
+    "sku": "SKU-00463",
+    "basePrice": 7235.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 110
+  },
+  {
+    "productId": "PROD-00464",
+    "name": "Backpack",
+    "sku": "SKU-00464",
+    "basePrice": 4569.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 116
+  },
+  {
+    "productId": "PROD-00465",
+    "name": "Backpack",
+    "sku": "SKU-00465",
+    "basePrice": 3454.42,
+    "currency": "INR",
+    "online": true,
+    "inventory": 232
+  },
+  {
+    "productId": "PROD-00466",
+    "name": "Backpack",
+    "sku": "SKU-00466",
+    "basePrice": 4217.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 48
+  },
+  {
+    "productId": "PROD-00467",
+    "name": "Water Bottle",
+    "sku": "SKU-00467",
+    "basePrice": 4323.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 340
+  },
+  {
+    "productId": "PROD-00468",
+    "name": "Water Bottle",
+    "sku": "SKU-00468",
+    "basePrice": 3804.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 78
+  },
+  {
+    "productId": "PROD-00469",
+    "name": "Backpack",
+    "sku": "SKU-00469",
+    "basePrice": 763.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 425
+  },
+  {
+    "productId": "PROD-00470",
+    "name": "Running Shoes",
+    "sku": "SKU-00470",
+    "basePrice": 1021.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 49
+  },
+  {
+    "productId": "PROD-00471",
+    "name": "Water Bottle",
+    "sku": "SKU-00471",
+    "basePrice": 8135.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 284
+  },
+  {
+    "productId": "PROD-00472",
+    "name": "Running Shoes",
+    "sku": "SKU-00472",
+    "basePrice": 5905.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 287
+  },
+  {
+    "productId": "PROD-00473",
+    "name": "Fitness Band",
+    "sku": "SKU-00473",
+    "basePrice": 3362.5,
+    "currency": "INR",
+    "online": true,
+    "inventory": 62
+  },
+  {
+    "productId": "PROD-00474",
+    "name": "Backpack",
+    "sku": "SKU-00474",
+    "basePrice": 3599.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 340
+  },
+  {
+    "productId": "PROD-00475",
+    "name": "Backpack",
+    "sku": "SKU-00475",
+    "basePrice": 8693.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 369
+  },
+  {
+    "productId": "PROD-00476",
+    "name": "Running Shoes",
+    "sku": "SKU-00476",
+    "basePrice": 9686.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 307
+  },
+  {
+    "productId": "PROD-00477",
+    "name": "Water Bottle",
+    "sku": "SKU-00477",
+    "basePrice": 3580.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 295
+  },
+  {
+    "productId": "PROD-00478",
+    "name": "Fitness Band",
+    "sku": "SKU-00478",
+    "basePrice": 2205.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 336
+  },
+  {
+    "productId": "PROD-00479",
+    "name": "Backpack",
+    "sku": "SKU-00479",
+    "basePrice": 2319.02,
+    "currency": "INR",
+    "online": true,
+    "inventory": 55
+  },
+  {
+    "productId": "PROD-00480",
+    "name": "Water Bottle",
+    "sku": "SKU-00480",
+    "basePrice": 8468.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 188
+  },
+  {
+    "productId": "PROD-00481",
+    "name": "Running Shoes",
+    "sku": "SKU-00481",
+    "basePrice": 7648.8,
+    "currency": "INR",
+    "online": true,
+    "inventory": 293
+  },
+  {
+    "productId": "PROD-00482",
+    "name": "Sports Socks",
+    "sku": "SKU-00482",
+    "basePrice": 8090.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 432
+  },
+  {
+    "productId": "PROD-00483",
+    "name": "Fitness Band",
+    "sku": "SKU-00483",
+    "basePrice": 9747.01,
+    "currency": "INR",
+    "online": true,
+    "inventory": 419
+  },
+  {
+    "productId": "PROD-00484",
+    "name": "Fitness Band",
+    "sku": "SKU-00484",
+    "basePrice": 6173.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 329
+  },
+  {
+    "productId": "PROD-00485",
+    "name": "Fitness Band",
+    "sku": "SKU-00485",
+    "basePrice": 358.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 475
+  },
+  {
+    "productId": "PROD-00486",
+    "name": "Water Bottle",
+    "sku": "SKU-00486",
+    "basePrice": 385.64,
+    "currency": "INR",
+    "online": true,
+    "inventory": 139
+  },
+  {
+    "productId": "PROD-00487",
+    "name": "Water Bottle",
+    "sku": "SKU-00487",
+    "basePrice": 9222.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 179
+  },
+  {
+    "productId": "PROD-00488",
+    "name": "Running Shoes",
+    "sku": "SKU-00488",
+    "basePrice": 1894.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 73
+  },
+  {
+    "productId": "PROD-00489",
+    "name": "Fitness Band",
+    "sku": "SKU-00489",
+    "basePrice": 6606.71,
+    "currency": "INR",
+    "online": true,
+    "inventory": 35
+  },
+  {
+    "productId": "PROD-00490",
+    "name": "Sports Socks",
+    "sku": "SKU-00490",
+    "basePrice": 7434.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 497
+  },
+  {
+    "productId": "PROD-00491",
+    "name": "Running Shoes",
+    "sku": "SKU-00491",
+    "basePrice": 1007.4,
+    "currency": "INR",
+    "online": true,
+    "inventory": 271
+  },
+  {
+    "productId": "PROD-00492",
+    "name": "Sports Socks",
+    "sku": "SKU-00492",
+    "basePrice": 3823.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 232
+  },
+  {
+    "productId": "PROD-00493",
+    "name": "Water Bottle",
+    "sku": "SKU-00493",
+    "basePrice": 1657.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 159
+  },
+  {
+    "productId": "PROD-00494",
+    "name": "Water Bottle",
+    "sku": "SKU-00494",
+    "basePrice": 7789.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 290
+  },
+  {
+    "productId": "PROD-00495",
+    "name": "Fitness Band",
+    "sku": "SKU-00495",
+    "basePrice": 940.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 26
+  },
+  {
+    "productId": "PROD-00496",
+    "name": "Sports Socks",
+    "sku": "SKU-00496",
+    "basePrice": 1657.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 316
+  },
+  {
+    "productId": "PROD-00497",
+    "name": "Running Shoes",
+    "sku": "SKU-00497",
+    "basePrice": 6771.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 139
+  },
+  {
+    "productId": "PROD-00498",
+    "name": "Backpack",
+    "sku": "SKU-00498",
+    "basePrice": 6652.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 248
+  },
+  {
+    "productId": "PROD-00499",
+    "name": "Fitness Band",
+    "sku": "SKU-00499",
+    "basePrice": 4475.24,
+    "currency": "INR",
+    "online": true,
+    "inventory": 139
+  },
+  {
+    "productId": "PROD-00500",
+    "name": "Sports Socks",
+    "sku": "SKU-00500",
+    "basePrice": 7572.94,
+    "currency": "INR",
+    "online": true,
+    "inventory": 58
+  },
+  {
+    "productId": "PROD-00501",
+    "name": "Water Bottle",
+    "sku": "SKU-00501",
+    "basePrice": 4355.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 145
+  },
+  {
+    "productId": "PROD-00502",
+    "name": "Fitness Band",
+    "sku": "SKU-00502",
+    "basePrice": 4916.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 341
+  },
+  {
+    "productId": "PROD-00503",
+    "name": "Water Bottle",
+    "sku": "SKU-00503",
+    "basePrice": 548.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 202
+  },
+  {
+    "productId": "PROD-00504",
+    "name": "Fitness Band",
+    "sku": "SKU-00504",
+    "basePrice": 641.34,
+    "currency": "INR",
+    "online": true,
+    "inventory": 104
+  },
+  {
+    "productId": "PROD-00505",
+    "name": "Water Bottle",
+    "sku": "SKU-00505",
+    "basePrice": 9457.71,
+    "currency": "INR",
+    "online": true,
+    "inventory": 392
+  },
+  {
+    "productId": "PROD-00506",
+    "name": "Sports Socks",
+    "sku": "SKU-00506",
+    "basePrice": 7664.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 148
+  },
+  {
+    "productId": "PROD-00507",
+    "name": "Water Bottle",
+    "sku": "SKU-00507",
+    "basePrice": 1286.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 254
+  },
+  {
+    "productId": "PROD-00508",
+    "name": "Backpack",
+    "sku": "SKU-00508",
+    "basePrice": 1838.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 194
+  },
+  {
+    "productId": "PROD-00509",
+    "name": "Fitness Band",
+    "sku": "SKU-00509",
+    "basePrice": 7065.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 256
+  },
+  {
+    "productId": "PROD-00510",
+    "name": "Fitness Band",
+    "sku": "SKU-00510",
+    "basePrice": 8349.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 412
+  },
+  {
+    "productId": "PROD-00511",
+    "name": "Water Bottle",
+    "sku": "SKU-00511",
+    "basePrice": 812.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 441
+  },
+  {
+    "productId": "PROD-00512",
+    "name": "Running Shoes",
+    "sku": "SKU-00512",
+    "basePrice": 4417.57,
+    "currency": "INR",
+    "online": true,
+    "inventory": 235
+  },
+  {
+    "productId": "PROD-00513",
+    "name": "Running Shoes",
+    "sku": "SKU-00513",
+    "basePrice": 8633.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 294
+  },
+  {
+    "productId": "PROD-00514",
+    "name": "Backpack",
+    "sku": "SKU-00514",
+    "basePrice": 5775.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 363
+  },
+  {
+    "productId": "PROD-00515",
+    "name": "Backpack",
+    "sku": "SKU-00515",
+    "basePrice": 2965.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 207
+  },
+  {
+    "productId": "PROD-00516",
+    "name": "Running Shoes",
+    "sku": "SKU-00516",
+    "basePrice": 9664.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 87
+  },
+  {
+    "productId": "PROD-00517",
+    "name": "Fitness Band",
+    "sku": "SKU-00517",
+    "basePrice": 4653.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 353
+  },
+  {
+    "productId": "PROD-00518",
+    "name": "Water Bottle",
+    "sku": "SKU-00518",
+    "basePrice": 971.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 432
+  },
+  {
+    "productId": "PROD-00519",
+    "name": "Running Shoes",
+    "sku": "SKU-00519",
+    "basePrice": 2507.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 301
+  },
+  {
+    "productId": "PROD-00520",
+    "name": "Backpack",
+    "sku": "SKU-00520",
+    "basePrice": 5286.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 202
+  },
+  {
+    "productId": "PROD-00521",
+    "name": "Water Bottle",
+    "sku": "SKU-00521",
+    "basePrice": 7482.47,
+    "currency": "INR",
+    "online": true,
+    "inventory": 113
+  },
+  {
+    "productId": "PROD-00522",
+    "name": "Water Bottle",
+    "sku": "SKU-00522",
+    "basePrice": 7812.27,
+    "currency": "INR",
+    "online": true,
+    "inventory": 39
+  },
+  {
+    "productId": "PROD-00523",
+    "name": "Fitness Band",
+    "sku": "SKU-00523",
+    "basePrice": 6367.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 271
+  },
+  {
+    "productId": "PROD-00524",
+    "name": "Fitness Band",
+    "sku": "SKU-00524",
+    "basePrice": 2018.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 397
+  },
+  {
+    "productId": "PROD-00525",
+    "name": "Water Bottle",
+    "sku": "SKU-00525",
+    "basePrice": 3574.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 490
+  },
+  {
+    "productId": "PROD-00526",
+    "name": "Sports Socks",
+    "sku": "SKU-00526",
+    "basePrice": 2438.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 74
+  },
+  {
+    "productId": "PROD-00527",
+    "name": "Water Bottle",
+    "sku": "SKU-00527",
+    "basePrice": 2051.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 308
+  },
+  {
+    "productId": "PROD-00528",
+    "name": "Sports Socks",
+    "sku": "SKU-00528",
+    "basePrice": 7625.13,
+    "currency": "INR",
+    "online": true,
+    "inventory": 335
+  },
+  {
+    "productId": "PROD-00529",
+    "name": "Running Shoes",
+    "sku": "SKU-00529",
+    "basePrice": 1852.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 395
+  },
+  {
+    "productId": "PROD-00530",
+    "name": "Backpack",
+    "sku": "SKU-00530",
+    "basePrice": 4692.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 288
+  },
+  {
+    "productId": "PROD-00531",
+    "name": "Fitness Band",
+    "sku": "SKU-00531",
+    "basePrice": 4543.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 473
+  },
+  {
+    "productId": "PROD-00532",
+    "name": "Fitness Band",
+    "sku": "SKU-00532",
+    "basePrice": 6464.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 319
+  },
+  {
+    "productId": "PROD-00533",
+    "name": "Water Bottle",
+    "sku": "SKU-00533",
+    "basePrice": 8655.04,
+    "currency": "INR",
+    "online": true,
+    "inventory": 321
+  },
+  {
+    "productId": "PROD-00534",
+    "name": "Water Bottle",
+    "sku": "SKU-00534",
+    "basePrice": 1593.48,
+    "currency": "INR",
+    "online": true,
+    "inventory": 34
+  },
+  {
+    "productId": "PROD-00535",
+    "name": "Backpack",
+    "sku": "SKU-00535",
+    "basePrice": 4476.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 155
+  },
+  {
+    "productId": "PROD-00536",
+    "name": "Water Bottle",
+    "sku": "SKU-00536",
+    "basePrice": 5954.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 180
+  },
+  {
+    "productId": "PROD-00537",
+    "name": "Fitness Band",
+    "sku": "SKU-00537",
+    "basePrice": 833.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 236
+  },
+  {
+    "productId": "PROD-00538",
+    "name": "Backpack",
+    "sku": "SKU-00538",
+    "basePrice": 471.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 188
+  },
+  {
+    "productId": "PROD-00539",
+    "name": "Water Bottle",
+    "sku": "SKU-00539",
+    "basePrice": 858.64,
+    "currency": "INR",
+    "online": true,
+    "inventory": 442
+  },
+  {
+    "productId": "PROD-00540",
+    "name": "Running Shoes",
+    "sku": "SKU-00540",
+    "basePrice": 6187.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 259
+  },
+  {
+    "productId": "PROD-00541",
+    "name": "Backpack",
+    "sku": "SKU-00541",
+    "basePrice": 4679.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 283
+  },
+  {
+    "productId": "PROD-00542",
+    "name": "Running Shoes",
+    "sku": "SKU-00542",
+    "basePrice": 4551.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 414
+  },
+  {
+    "productId": "PROD-00543",
+    "name": "Fitness Band",
+    "sku": "SKU-00543",
+    "basePrice": 6552.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 164
+  },
+  {
+    "productId": "PROD-00544",
+    "name": "Fitness Band",
+    "sku": "SKU-00544",
+    "basePrice": 4807.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 77
+  },
+  {
+    "productId": "PROD-00545",
+    "name": "Running Shoes",
+    "sku": "SKU-00545",
+    "basePrice": 4559.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 415
+  },
+  {
+    "productId": "PROD-00546",
+    "name": "Water Bottle",
+    "sku": "SKU-00546",
+    "basePrice": 9824.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 43
+  },
+  {
+    "productId": "PROD-00547",
+    "name": "Fitness Band",
+    "sku": "SKU-00547",
+    "basePrice": 6495.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 20
+  },
+  {
+    "productId": "PROD-00548",
+    "name": "Sports Socks",
+    "sku": "SKU-00548",
+    "basePrice": 7104.45,
+    "currency": "INR",
+    "online": true,
+    "inventory": 224
+  },
+  {
+    "productId": "PROD-00549",
+    "name": "Fitness Band",
+    "sku": "SKU-00549",
+    "basePrice": 5274.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 81
+  },
+  {
+    "productId": "PROD-00550",
+    "name": "Water Bottle",
+    "sku": "SKU-00550",
+    "basePrice": 3790.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 144
+  },
+  {
+    "productId": "PROD-00551",
+    "name": "Backpack",
+    "sku": "SKU-00551",
+    "basePrice": 4145.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 173
+  },
+  {
+    "productId": "PROD-00552",
+    "name": "Fitness Band",
+    "sku": "SKU-00552",
+    "basePrice": 617.42,
+    "currency": "INR",
+    "online": true,
+    "inventory": 323
+  },
+  {
+    "productId": "PROD-00553",
+    "name": "Water Bottle",
+    "sku": "SKU-00553",
+    "basePrice": 751.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 48
+  },
+  {
+    "productId": "PROD-00554",
+    "name": "Fitness Band",
+    "sku": "SKU-00554",
+    "basePrice": 6814.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 145
+  },
+  {
+    "productId": "PROD-00555",
+    "name": "Water Bottle",
+    "sku": "SKU-00555",
+    "basePrice": 7263.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 336
+  },
+  {
+    "productId": "PROD-00556",
+    "name": "Fitness Band",
+    "sku": "SKU-00556",
+    "basePrice": 8744.47,
+    "currency": "INR",
+    "online": true,
+    "inventory": 170
+  },
+  {
+    "productId": "PROD-00557",
+    "name": "Running Shoes",
+    "sku": "SKU-00557",
+    "basePrice": 5868.12,
+    "currency": "INR",
+    "online": true,
+    "inventory": 72
+  },
+  {
+    "productId": "PROD-00558",
+    "name": "Water Bottle",
+    "sku": "SKU-00558",
+    "basePrice": 3170.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 335
+  },
+  {
+    "productId": "PROD-00559",
+    "name": "Backpack",
+    "sku": "SKU-00559",
+    "basePrice": 1375.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 362
+  },
+  {
+    "productId": "PROD-00560",
+    "name": "Running Shoes",
+    "sku": "SKU-00560",
+    "basePrice": 3163.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 192
+  },
+  {
+    "productId": "PROD-00561",
+    "name": "Water Bottle",
+    "sku": "SKU-00561",
+    "basePrice": 8149.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 343
+  },
+  {
+    "productId": "PROD-00562",
+    "name": "Fitness Band",
+    "sku": "SKU-00562",
+    "basePrice": 1024.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 343
+  },
+  {
+    "productId": "PROD-00563",
+    "name": "Backpack",
+    "sku": "SKU-00563",
+    "basePrice": 5133.04,
+    "currency": "INR",
+    "online": true,
+    "inventory": 9
+  },
+  {
+    "productId": "PROD-00564",
+    "name": "Water Bottle",
+    "sku": "SKU-00564",
+    "basePrice": 3156.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 486
+  },
+  {
+    "productId": "PROD-00565",
+    "name": "Sports Socks",
+    "sku": "SKU-00565",
+    "basePrice": 3482.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 392
+  },
+  {
+    "productId": "PROD-00566",
+    "name": "Backpack",
+    "sku": "SKU-00566",
+    "basePrice": 1999.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 70
+  },
+  {
+    "productId": "PROD-00567",
+    "name": "Sports Socks",
+    "sku": "SKU-00567",
+    "basePrice": 862.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 432
+  },
+  {
+    "productId": "PROD-00568",
+    "name": "Running Shoes",
+    "sku": "SKU-00568",
+    "basePrice": 5125.13,
+    "currency": "INR",
+    "online": true,
+    "inventory": 276
+  },
+  {
+    "productId": "PROD-00569",
+    "name": "Fitness Band",
+    "sku": "SKU-00569",
+    "basePrice": 472.7,
+    "currency": "INR",
+    "online": true,
+    "inventory": 172
+  },
+  {
+    "productId": "PROD-00570",
+    "name": "Fitness Band",
+    "sku": "SKU-00570",
+    "basePrice": 1396.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 192
+  },
+  {
+    "productId": "PROD-00571",
+    "name": "Sports Socks",
+    "sku": "SKU-00571",
+    "basePrice": 1705.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 425
+  },
+  {
+    "productId": "PROD-00572",
+    "name": "Fitness Band",
+    "sku": "SKU-00572",
+    "basePrice": 8108.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 84
+  },
+  {
+    "productId": "PROD-00573",
+    "name": "Backpack",
+    "sku": "SKU-00573",
+    "basePrice": 531.56,
+    "currency": "INR",
+    "online": true,
+    "inventory": 186
+  },
+  {
+    "productId": "PROD-00574",
+    "name": "Sports Socks",
+    "sku": "SKU-00574",
+    "basePrice": 9697.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 312
+  },
+  {
+    "productId": "PROD-00575",
+    "name": "Water Bottle",
+    "sku": "SKU-00575",
+    "basePrice": 7547.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 401
+  },
+  {
+    "productId": "PROD-00576",
+    "name": "Backpack",
+    "sku": "SKU-00576",
+    "basePrice": 2415.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 122
+  },
+  {
+    "productId": "PROD-00577",
+    "name": "Water Bottle",
+    "sku": "SKU-00577",
+    "basePrice": 9658.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 401
+  },
+  {
+    "productId": "PROD-00578",
+    "name": "Backpack",
+    "sku": "SKU-00578",
+    "basePrice": 9048.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 99
+  },
+  {
+    "productId": "PROD-00579",
+    "name": "Water Bottle",
+    "sku": "SKU-00579",
+    "basePrice": 6814.24,
+    "currency": "INR",
+    "online": true,
+    "inventory": 292
+  },
+  {
+    "productId": "PROD-00580",
+    "name": "Backpack",
+    "sku": "SKU-00580",
+    "basePrice": 4669.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 144
+  },
+  {
+    "productId": "PROD-00581",
+    "name": "Backpack",
+    "sku": "SKU-00581",
+    "basePrice": 5077.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 214
+  },
+  {
+    "productId": "PROD-00582",
+    "name": "Sports Socks",
+    "sku": "SKU-00582",
+    "basePrice": 8186.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 410
+  },
+  {
+    "productId": "PROD-00583",
+    "name": "Fitness Band",
+    "sku": "SKU-00583",
+    "basePrice": 1469.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 128
+  },
+  {
+    "productId": "PROD-00584",
+    "name": "Running Shoes",
+    "sku": "SKU-00584",
+    "basePrice": 6446.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 447
+  },
+  {
+    "productId": "PROD-00585",
+    "name": "Water Bottle",
+    "sku": "SKU-00585",
+    "basePrice": 5588.95,
+    "currency": "INR",
+    "online": true,
+    "inventory": 52
+  },
+  {
+    "productId": "PROD-00586",
+    "name": "Fitness Band",
+    "sku": "SKU-00586",
+    "basePrice": 8525.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 145
+  },
+  {
+    "productId": "PROD-00587",
+    "name": "Running Shoes",
+    "sku": "SKU-00587",
+    "basePrice": 7653.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 139
+  },
+  {
+    "productId": "PROD-00588",
+    "name": "Backpack",
+    "sku": "SKU-00588",
+    "basePrice": 9061.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 75
+  },
+  {
+    "productId": "PROD-00589",
+    "name": "Backpack",
+    "sku": "SKU-00589",
+    "basePrice": 1006.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 466
+  },
+  {
+    "productId": "PROD-00590",
+    "name": "Sports Socks",
+    "sku": "SKU-00590",
+    "basePrice": 8184.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 452
+  },
+  {
+    "productId": "PROD-00591",
+    "name": "Water Bottle",
+    "sku": "SKU-00591",
+    "basePrice": 9310.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 212
+  },
+  {
+    "productId": "PROD-00592",
+    "name": "Running Shoes",
+    "sku": "SKU-00592",
+    "basePrice": 4023.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 191
+  },
+  {
+    "productId": "PROD-00593",
+    "name": "Sports Socks",
+    "sku": "SKU-00593",
+    "basePrice": 3922.04,
+    "currency": "INR",
+    "online": true,
+    "inventory": 41
+  },
+  {
+    "productId": "PROD-00594",
+    "name": "Water Bottle",
+    "sku": "SKU-00594",
+    "basePrice": 2321.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 163
+  },
+  {
+    "productId": "PROD-00595",
+    "name": "Running Shoes",
+    "sku": "SKU-00595",
+    "basePrice": 8406.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 332
+  },
+  {
+    "productId": "PROD-00596",
+    "name": "Water Bottle",
+    "sku": "SKU-00596",
+    "basePrice": 7933.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 70
+  },
+  {
+    "productId": "PROD-00597",
+    "name": "Running Shoes",
+    "sku": "SKU-00597",
+    "basePrice": 2939.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 424
+  },
+  {
+    "productId": "PROD-00598",
+    "name": "Backpack",
+    "sku": "SKU-00598",
+    "basePrice": 6990.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 71
+  },
+  {
+    "productId": "PROD-00599",
+    "name": "Backpack",
+    "sku": "SKU-00599",
+    "basePrice": 4540.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 2
+  },
+  {
+    "productId": "PROD-00600",
+    "name": "Running Shoes",
+    "sku": "SKU-00600",
+    "basePrice": 287.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 110
+  },
+  {
+    "productId": "PROD-00601",
+    "name": "Sports Socks",
+    "sku": "SKU-00601",
+    "basePrice": 5532.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 372
+  },
+  {
+    "productId": "PROD-00602",
+    "name": "Fitness Band",
+    "sku": "SKU-00602",
+    "basePrice": 5323.94,
+    "currency": "INR",
+    "online": true,
+    "inventory": 56
+  },
+  {
+    "productId": "PROD-00603",
+    "name": "Water Bottle",
+    "sku": "SKU-00603",
+    "basePrice": 2451.64,
+    "currency": "INR",
+    "online": true,
+    "inventory": 62
+  },
+  {
+    "productId": "PROD-00604",
+    "name": "Running Shoes",
+    "sku": "SKU-00604",
+    "basePrice": 2459.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 327
+  },
+  {
+    "productId": "PROD-00605",
+    "name": "Fitness Band",
+    "sku": "SKU-00605",
+    "basePrice": 4624.42,
+    "currency": "INR",
+    "online": true,
+    "inventory": 56
+  },
+  {
+    "productId": "PROD-00606",
+    "name": "Backpack",
+    "sku": "SKU-00606",
+    "basePrice": 6006.72,
+    "currency": "INR",
+    "online": true,
+    "inventory": 8
+  },
+  {
+    "productId": "PROD-00607",
+    "name": "Fitness Band",
+    "sku": "SKU-00607",
+    "basePrice": 5791.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 367
+  },
+  {
+    "productId": "PROD-00608",
+    "name": "Sports Socks",
+    "sku": "SKU-00608",
+    "basePrice": 2982.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 0
+  },
+  {
+    "productId": "PROD-00609",
+    "name": "Fitness Band",
+    "sku": "SKU-00609",
+    "basePrice": 3591.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 292
+  },
+  {
+    "productId": "PROD-00610",
+    "name": "Backpack",
+    "sku": "SKU-00610",
+    "basePrice": 1953.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 342
+  },
+  {
+    "productId": "PROD-00611",
+    "name": "Running Shoes",
+    "sku": "SKU-00611",
+    "basePrice": 5281.5,
+    "currency": "INR",
+    "online": true,
+    "inventory": 184
+  },
+  {
+    "productId": "PROD-00612",
+    "name": "Running Shoes",
+    "sku": "SKU-00612",
+    "basePrice": 9537.7,
+    "currency": "INR",
+    "online": true,
+    "inventory": 278
+  },
+  {
+    "productId": "PROD-00613",
+    "name": "Fitness Band",
+    "sku": "SKU-00613",
+    "basePrice": 7884.48,
+    "currency": "INR",
+    "online": true,
+    "inventory": 259
+  },
+  {
+    "productId": "PROD-00614",
+    "name": "Fitness Band",
+    "sku": "SKU-00614",
+    "basePrice": 300.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 447
+  },
+  {
+    "productId": "PROD-00615",
+    "name": "Backpack",
+    "sku": "SKU-00615",
+    "basePrice": 529.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 198
+  },
+  {
+    "productId": "PROD-00616",
+    "name": "Water Bottle",
+    "sku": "SKU-00616",
+    "basePrice": 2610.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 8
+  },
+  {
+    "productId": "PROD-00617",
+    "name": "Water Bottle",
+    "sku": "SKU-00617",
+    "basePrice": 7905.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 176
+  },
+  {
+    "productId": "PROD-00618",
+    "name": "Sports Socks",
+    "sku": "SKU-00618",
+    "basePrice": 7355.12,
+    "currency": "INR",
+    "online": true,
+    "inventory": 321
+  },
+  {
+    "productId": "PROD-00619",
+    "name": "Running Shoes",
+    "sku": "SKU-00619",
+    "basePrice": 7736.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 376
+  },
+  {
+    "productId": "PROD-00620",
+    "name": "Water Bottle",
+    "sku": "SKU-00620",
+    "basePrice": 1419.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 180
+  },
+  {
+    "productId": "PROD-00621",
+    "name": "Fitness Band",
+    "sku": "SKU-00621",
+    "basePrice": 3450.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 329
+  },
+  {
+    "productId": "PROD-00622",
+    "name": "Sports Socks",
+    "sku": "SKU-00622",
+    "basePrice": 8319.8,
+    "currency": "INR",
+    "online": true,
+    "inventory": 350
+  },
+  {
+    "productId": "PROD-00623",
+    "name": "Backpack",
+    "sku": "SKU-00623",
+    "basePrice": 9809.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 245
+  },
+  {
+    "productId": "PROD-00624",
+    "name": "Sports Socks",
+    "sku": "SKU-00624",
+    "basePrice": 8132.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 32
+  },
+  {
+    "productId": "PROD-00625",
+    "name": "Backpack",
+    "sku": "SKU-00625",
+    "basePrice": 465.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 103
+  },
+  {
+    "productId": "PROD-00626",
+    "name": "Running Shoes",
+    "sku": "SKU-00626",
+    "basePrice": 7930.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 453
+  },
+  {
+    "productId": "PROD-00627",
+    "name": "Running Shoes",
+    "sku": "SKU-00627",
+    "basePrice": 3223.4,
+    "currency": "INR",
+    "online": true,
+    "inventory": 158
+  },
+  {
+    "productId": "PROD-00628",
+    "name": "Fitness Band",
+    "sku": "SKU-00628",
+    "basePrice": 4041.42,
+    "currency": "INR",
+    "online": true,
+    "inventory": 417
+  },
+  {
+    "productId": "PROD-00629",
+    "name": "Fitness Band",
+    "sku": "SKU-00629",
+    "basePrice": 4785.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 18
+  },
+  {
+    "productId": "PROD-00630",
+    "name": "Sports Socks",
+    "sku": "SKU-00630",
+    "basePrice": 2931.5,
+    "currency": "INR",
+    "online": true,
+    "inventory": 441
+  },
+  {
+    "productId": "PROD-00631",
+    "name": "Running Shoes",
+    "sku": "SKU-00631",
+    "basePrice": 8670.4,
+    "currency": "INR",
+    "online": true,
+    "inventory": 169
+  },
+  {
+    "productId": "PROD-00632",
+    "name": "Water Bottle",
+    "sku": "SKU-00632",
+    "basePrice": 1331.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 188
+  },
+  {
+    "productId": "PROD-00633",
+    "name": "Backpack",
+    "sku": "SKU-00633",
+    "basePrice": 8904.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 380
+  },
+  {
+    "productId": "PROD-00634",
+    "name": "Backpack",
+    "sku": "SKU-00634",
+    "basePrice": 8955.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 197
+  },
+  {
+    "productId": "PROD-00635",
+    "name": "Water Bottle",
+    "sku": "SKU-00635",
+    "basePrice": 9738.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 254
+  },
+  {
+    "productId": "PROD-00636",
+    "name": "Backpack",
+    "sku": "SKU-00636",
+    "basePrice": 3735.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 408
+  },
+  {
+    "productId": "PROD-00637",
+    "name": "Fitness Band",
+    "sku": "SKU-00637",
+    "basePrice": 2739.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 42
+  },
+  {
+    "productId": "PROD-00638",
+    "name": "Backpack",
+    "sku": "SKU-00638",
+    "basePrice": 880.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 308
+  },
+  {
+    "productId": "PROD-00639",
+    "name": "Sports Socks",
+    "sku": "SKU-00639",
+    "basePrice": 5499.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 164
+  },
+  {
+    "productId": "PROD-00640",
+    "name": "Running Shoes",
+    "sku": "SKU-00640",
+    "basePrice": 891.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 338
+  },
+  {
+    "productId": "PROD-00641",
+    "name": "Water Bottle",
+    "sku": "SKU-00641",
+    "basePrice": 3133.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 308
+  },
+  {
+    "productId": "PROD-00642",
+    "name": "Backpack",
+    "sku": "SKU-00642",
+    "basePrice": 1748.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 227
+  },
+  {
+    "productId": "PROD-00643",
+    "name": "Water Bottle",
+    "sku": "SKU-00643",
+    "basePrice": 4525.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 372
+  },
+  {
+    "productId": "PROD-00644",
+    "name": "Water Bottle",
+    "sku": "SKU-00644",
+    "basePrice": 6186.03,
+    "currency": "INR",
+    "online": true,
+    "inventory": 222
+  },
+  {
+    "productId": "PROD-00645",
+    "name": "Water Bottle",
+    "sku": "SKU-00645",
+    "basePrice": 6429.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 405
+  },
+  {
+    "productId": "PROD-00646",
+    "name": "Running Shoes",
+    "sku": "SKU-00646",
+    "basePrice": 841.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 326
+  },
+  {
+    "productId": "PROD-00647",
+    "name": "Backpack",
+    "sku": "SKU-00647",
+    "basePrice": 3695.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 410
+  },
+  {
+    "productId": "PROD-00648",
+    "name": "Sports Socks",
+    "sku": "SKU-00648",
+    "basePrice": 9531.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 73
+  },
+  {
+    "productId": "PROD-00649",
+    "name": "Fitness Band",
+    "sku": "SKU-00649",
+    "basePrice": 6812.08,
+    "currency": "INR",
+    "online": true,
+    "inventory": 224
+  },
+  {
+    "productId": "PROD-00650",
+    "name": "Running Shoes",
+    "sku": "SKU-00650",
+    "basePrice": 1348.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 120
+  },
+  {
+    "productId": "PROD-00651",
+    "name": "Water Bottle",
+    "sku": "SKU-00651",
+    "basePrice": 3684.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 486
+  },
+  {
+    "productId": "PROD-00652",
+    "name": "Fitness Band",
+    "sku": "SKU-00652",
+    "basePrice": 419.61,
+    "currency": "INR",
+    "online": true,
+    "inventory": 78
+  },
+  {
+    "productId": "PROD-00653",
+    "name": "Backpack",
+    "sku": "SKU-00653",
+    "basePrice": 9492.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 190
+  },
+  {
+    "productId": "PROD-00654",
+    "name": "Backpack",
+    "sku": "SKU-00654",
+    "basePrice": 7653.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 293
+  },
+  {
+    "productId": "PROD-00655",
+    "name": "Sports Socks",
+    "sku": "SKU-00655",
+    "basePrice": 5340.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 203
+  },
+  {
+    "productId": "PROD-00656",
+    "name": "Water Bottle",
+    "sku": "SKU-00656",
+    "basePrice": 6529.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 127
+  },
+  {
+    "productId": "PROD-00657",
+    "name": "Running Shoes",
+    "sku": "SKU-00657",
+    "basePrice": 355.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 95
+  },
+  {
+    "productId": "PROD-00658",
+    "name": "Backpack",
+    "sku": "SKU-00658",
+    "basePrice": 5224.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 467
+  },
+  {
+    "productId": "PROD-00659",
+    "name": "Fitness Band",
+    "sku": "SKU-00659",
+    "basePrice": 1264.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 396
+  },
+  {
+    "productId": "PROD-00660",
+    "name": "Water Bottle",
+    "sku": "SKU-00660",
+    "basePrice": 7068.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 109
+  },
+  {
+    "productId": "PROD-00661",
+    "name": "Fitness Band",
+    "sku": "SKU-00661",
+    "basePrice": 2926.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 469
+  },
+  {
+    "productId": "PROD-00662",
+    "name": "Backpack",
+    "sku": "SKU-00662",
+    "basePrice": 2080.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 69
+  },
+  {
+    "productId": "PROD-00663",
+    "name": "Running Shoes",
+    "sku": "SKU-00663",
+    "basePrice": 4574.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 460
+  },
+  {
+    "productId": "PROD-00664",
+    "name": "Backpack",
+    "sku": "SKU-00664",
+    "basePrice": 9971.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 414
+  },
+  {
+    "productId": "PROD-00665",
+    "name": "Water Bottle",
+    "sku": "SKU-00665",
+    "basePrice": 6710.61,
+    "currency": "INR",
+    "online": true,
+    "inventory": 363
+  },
+  {
+    "productId": "PROD-00666",
+    "name": "Running Shoes",
+    "sku": "SKU-00666",
+    "basePrice": 5543.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 148
+  },
+  {
+    "productId": "PROD-00667",
+    "name": "Water Bottle",
+    "sku": "SKU-00667",
+    "basePrice": 8527.48,
+    "currency": "INR",
+    "online": true,
+    "inventory": 364
+  },
+  {
+    "productId": "PROD-00668",
+    "name": "Sports Socks",
+    "sku": "SKU-00668",
+    "basePrice": 7956.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 260
+  },
+  {
+    "productId": "PROD-00669",
+    "name": "Sports Socks",
+    "sku": "SKU-00669",
+    "basePrice": 1300.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 102
+  },
+  {
+    "productId": "PROD-00670",
+    "name": "Sports Socks",
+    "sku": "SKU-00670",
+    "basePrice": 2442.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 252
+  },
+  {
+    "productId": "PROD-00671",
+    "name": "Running Shoes",
+    "sku": "SKU-00671",
+    "basePrice": 3671.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 293
+  },
+  {
+    "productId": "PROD-00672",
+    "name": "Water Bottle",
+    "sku": "SKU-00672",
+    "basePrice": 4726.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 282
+  },
+  {
+    "productId": "PROD-00673",
+    "name": "Sports Socks",
+    "sku": "SKU-00673",
+    "basePrice": 6157.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 44
+  },
+  {
+    "productId": "PROD-00674",
+    "name": "Running Shoes",
+    "sku": "SKU-00674",
+    "basePrice": 3160.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 367
+  },
+  {
+    "productId": "PROD-00675",
+    "name": "Backpack",
+    "sku": "SKU-00675",
+    "basePrice": 5303.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 393
+  },
+  {
+    "productId": "PROD-00676",
+    "name": "Backpack",
+    "sku": "SKU-00676",
+    "basePrice": 8250.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 37
+  },
+  {
+    "productId": "PROD-00677",
+    "name": "Sports Socks",
+    "sku": "SKU-00677",
+    "basePrice": 9725.56,
+    "currency": "INR",
+    "online": true,
+    "inventory": 328
+  },
+  {
+    "productId": "PROD-00678",
+    "name": "Running Shoes",
+    "sku": "SKU-00678",
+    "basePrice": 4553.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 348
+  },
+  {
+    "productId": "PROD-00679",
+    "name": "Fitness Band",
+    "sku": "SKU-00679",
+    "basePrice": 3509.7,
+    "currency": "INR",
+    "online": true,
+    "inventory": 449
+  },
+  {
+    "productId": "PROD-00680",
+    "name": "Fitness Band",
+    "sku": "SKU-00680",
+    "basePrice": 6432.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 93
+  },
+  {
+    "productId": "PROD-00681",
+    "name": "Sports Socks",
+    "sku": "SKU-00681",
+    "basePrice": 4381.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 466
+  },
+  {
+    "productId": "PROD-00682",
+    "name": "Running Shoes",
+    "sku": "SKU-00682",
+    "basePrice": 8329.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 265
+  },
+  {
+    "productId": "PROD-00683",
+    "name": "Sports Socks",
+    "sku": "SKU-00683",
+    "basePrice": 3109.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 82
+  },
+  {
+    "productId": "PROD-00684",
+    "name": "Water Bottle",
+    "sku": "SKU-00684",
+    "basePrice": 9352.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 115
+  },
+  {
+    "productId": "PROD-00685",
+    "name": "Water Bottle",
+    "sku": "SKU-00685",
+    "basePrice": 9479.08,
+    "currency": "INR",
+    "online": true,
+    "inventory": 265
+  },
+  {
+    "productId": "PROD-00686",
+    "name": "Water Bottle",
+    "sku": "SKU-00686",
+    "basePrice": 8473.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 128
+  },
+  {
+    "productId": "PROD-00687",
+    "name": "Sports Socks",
+    "sku": "SKU-00687",
+    "basePrice": 6386.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 282
+  },
+  {
+    "productId": "PROD-00688",
+    "name": "Water Bottle",
+    "sku": "SKU-00688",
+    "basePrice": 1338.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 155
+  },
+  {
+    "productId": "PROD-00689",
+    "name": "Fitness Band",
+    "sku": "SKU-00689",
+    "basePrice": 5380.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 257
+  },
+  {
+    "productId": "PROD-00690",
+    "name": "Sports Socks",
+    "sku": "SKU-00690",
+    "basePrice": 5957.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 297
+  },
+  {
+    "productId": "PROD-00691",
+    "name": "Sports Socks",
+    "sku": "SKU-00691",
+    "basePrice": 1793.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 319
+  },
+  {
+    "productId": "PROD-00692",
+    "name": "Fitness Band",
+    "sku": "SKU-00692",
+    "basePrice": 3441.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 473
+  },
+  {
+    "productId": "PROD-00693",
+    "name": "Fitness Band",
+    "sku": "SKU-00693",
+    "basePrice": 506.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 442
+  },
+  {
+    "productId": "PROD-00694",
+    "name": "Running Shoes",
+    "sku": "SKU-00694",
+    "basePrice": 903.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 485
+  },
+  {
+    "productId": "PROD-00695",
+    "name": "Fitness Band",
+    "sku": "SKU-00695",
+    "basePrice": 2719.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 107
+  },
+  {
+    "productId": "PROD-00696",
+    "name": "Fitness Band",
+    "sku": "SKU-00696",
+    "basePrice": 4223.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 327
+  },
+  {
+    "productId": "PROD-00697",
+    "name": "Running Shoes",
+    "sku": "SKU-00697",
+    "basePrice": 5029.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 321
+  },
+  {
+    "productId": "PROD-00698",
+    "name": "Fitness Band",
+    "sku": "SKU-00698",
+    "basePrice": 2966.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 489
+  },
+  {
+    "productId": "PROD-00699",
+    "name": "Water Bottle",
+    "sku": "SKU-00699",
+    "basePrice": 4880.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 412
+  },
+  {
+    "productId": "PROD-00700",
+    "name": "Backpack",
+    "sku": "SKU-00700",
+    "basePrice": 3043.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 37
+  },
+  {
+    "productId": "PROD-00701",
+    "name": "Running Shoes",
+    "sku": "SKU-00701",
+    "basePrice": 1664.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 212
+  },
+  {
+    "productId": "PROD-00702",
+    "name": "Backpack",
+    "sku": "SKU-00702",
+    "basePrice": 4696.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 174
+  },
+  {
+    "productId": "PROD-00703",
+    "name": "Fitness Band",
+    "sku": "SKU-00703",
+    "basePrice": 1521.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 441
+  },
+  {
+    "productId": "PROD-00704",
+    "name": "Water Bottle",
+    "sku": "SKU-00704",
+    "basePrice": 7367.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 440
+  },
+  {
+    "productId": "PROD-00705",
+    "name": "Water Bottle",
+    "sku": "SKU-00705",
+    "basePrice": 9755.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 66
+  },
+  {
+    "productId": "PROD-00706",
+    "name": "Water Bottle",
+    "sku": "SKU-00706",
+    "basePrice": 5197.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 54
+  },
+  {
+    "productId": "PROD-00707",
+    "name": "Water Bottle",
+    "sku": "SKU-00707",
+    "basePrice": 2492.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 62
+  },
+  {
+    "productId": "PROD-00708",
+    "name": "Water Bottle",
+    "sku": "SKU-00708",
+    "basePrice": 4550.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 72
+  },
+  {
+    "productId": "PROD-00709",
+    "name": "Running Shoes",
+    "sku": "SKU-00709",
+    "basePrice": 599.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 484
+  },
+  {
+    "productId": "PROD-00710",
+    "name": "Backpack",
+    "sku": "SKU-00710",
+    "basePrice": 8654.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 214
+  },
+  {
+    "productId": "PROD-00711",
+    "name": "Sports Socks",
+    "sku": "SKU-00711",
+    "basePrice": 9629.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 461
+  },
+  {
+    "productId": "PROD-00712",
+    "name": "Sports Socks",
+    "sku": "SKU-00712",
+    "basePrice": 8152.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 478
+  },
+  {
+    "productId": "PROD-00713",
+    "name": "Fitness Band",
+    "sku": "SKU-00713",
+    "basePrice": 7238.17,
+    "currency": "INR",
+    "online": true,
+    "inventory": 97
+  },
+  {
+    "productId": "PROD-00714",
+    "name": "Sports Socks",
+    "sku": "SKU-00714",
+    "basePrice": 5031.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 263
+  },
+  {
+    "productId": "PROD-00715",
+    "name": "Backpack",
+    "sku": "SKU-00715",
+    "basePrice": 5036.72,
+    "currency": "INR",
+    "online": true,
+    "inventory": 157
+  },
+  {
+    "productId": "PROD-00716",
+    "name": "Backpack",
+    "sku": "SKU-00716",
+    "basePrice": 328.45,
+    "currency": "INR",
+    "online": true,
+    "inventory": 483
+  },
+  {
+    "productId": "PROD-00717",
+    "name": "Backpack",
+    "sku": "SKU-00717",
+    "basePrice": 5102.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 494
+  },
+  {
+    "productId": "PROD-00718",
+    "name": "Sports Socks",
+    "sku": "SKU-00718",
+    "basePrice": 2228.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 180
+  },
+  {
+    "productId": "PROD-00719",
+    "name": "Running Shoes",
+    "sku": "SKU-00719",
+    "basePrice": 599.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 253
+  },
+  {
+    "productId": "PROD-00720",
+    "name": "Fitness Band",
+    "sku": "SKU-00720",
+    "basePrice": 8834.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 334
+  },
+  {
+    "productId": "PROD-00721",
+    "name": "Backpack",
+    "sku": "SKU-00721",
+    "basePrice": 2927.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 4
+  },
+  {
+    "productId": "PROD-00722",
+    "name": "Running Shoes",
+    "sku": "SKU-00722",
+    "basePrice": 4365.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 451
+  },
+  {
+    "productId": "PROD-00723",
+    "name": "Water Bottle",
+    "sku": "SKU-00723",
+    "basePrice": 7301.33,
+    "currency": "INR",
+    "online": true,
+    "inventory": 391
+  },
+  {
+    "productId": "PROD-00724",
+    "name": "Backpack",
+    "sku": "SKU-00724",
+    "basePrice": 3721.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 205
+  },
+  {
+    "productId": "PROD-00725",
+    "name": "Running Shoes",
+    "sku": "SKU-00725",
+    "basePrice": 5744.79,
+    "currency": "INR",
+    "online": true,
+    "inventory": 99
+  },
+  {
+    "productId": "PROD-00726",
+    "name": "Water Bottle",
+    "sku": "SKU-00726",
+    "basePrice": 5575.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 37
+  },
+  {
+    "productId": "PROD-00727",
+    "name": "Backpack",
+    "sku": "SKU-00727",
+    "basePrice": 5091.13,
+    "currency": "INR",
+    "online": true,
+    "inventory": 391
+  },
+  {
+    "productId": "PROD-00728",
+    "name": "Fitness Band",
+    "sku": "SKU-00728",
+    "basePrice": 2868.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 319
+  },
+  {
+    "productId": "PROD-00729",
+    "name": "Fitness Band",
+    "sku": "SKU-00729",
+    "basePrice": 1275.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 499
+  },
+  {
+    "productId": "PROD-00730",
+    "name": "Running Shoes",
+    "sku": "SKU-00730",
+    "basePrice": 3998.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 406
+  },
+  {
+    "productId": "PROD-00731",
+    "name": "Water Bottle",
+    "sku": "SKU-00731",
+    "basePrice": 5621.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 187
+  },
+  {
+    "productId": "PROD-00732",
+    "name": "Sports Socks",
+    "sku": "SKU-00732",
+    "basePrice": 2069.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 260
+  },
+  {
+    "productId": "PROD-00733",
+    "name": "Backpack",
+    "sku": "SKU-00733",
+    "basePrice": 5049.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 23
+  },
+  {
+    "productId": "PROD-00734",
+    "name": "Running Shoes",
+    "sku": "SKU-00734",
+    "basePrice": 1455.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 170
+  },
+  {
+    "productId": "PROD-00735",
+    "name": "Backpack",
+    "sku": "SKU-00735",
+    "basePrice": 5240.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 76
+  },
+  {
+    "productId": "PROD-00736",
+    "name": "Fitness Band",
+    "sku": "SKU-00736",
+    "basePrice": 8941.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 71
+  },
+  {
+    "productId": "PROD-00737",
+    "name": "Water Bottle",
+    "sku": "SKU-00737",
+    "basePrice": 9319.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 163
+  },
+  {
+    "productId": "PROD-00738",
+    "name": "Sports Socks",
+    "sku": "SKU-00738",
+    "basePrice": 3989.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 315
+  },
+  {
+    "productId": "PROD-00739",
+    "name": "Water Bottle",
+    "sku": "SKU-00739",
+    "basePrice": 5976.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 259
+  },
+  {
+    "productId": "PROD-00740",
+    "name": "Fitness Band",
+    "sku": "SKU-00740",
+    "basePrice": 5369.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 362
+  },
+  {
+    "productId": "PROD-00741",
+    "name": "Fitness Band",
+    "sku": "SKU-00741",
+    "basePrice": 3066.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 417
+  },
+  {
+    "productId": "PROD-00742",
+    "name": "Running Shoes",
+    "sku": "SKU-00742",
+    "basePrice": 3745.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 344
+  },
+  {
+    "productId": "PROD-00743",
+    "name": "Running Shoes",
+    "sku": "SKU-00743",
+    "basePrice": 9799.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 298
+  },
+  {
+    "productId": "PROD-00744",
+    "name": "Water Bottle",
+    "sku": "SKU-00744",
+    "basePrice": 7986.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 371
+  },
+  {
+    "productId": "PROD-00745",
+    "name": "Running Shoes",
+    "sku": "SKU-00745",
+    "basePrice": 6008.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 135
+  },
+  {
+    "productId": "PROD-00746",
+    "name": "Fitness Band",
+    "sku": "SKU-00746",
+    "basePrice": 5817.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 369
+  },
+  {
+    "productId": "PROD-00747",
+    "name": "Running Shoes",
+    "sku": "SKU-00747",
+    "basePrice": 5875.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 87
+  },
+  {
+    "productId": "PROD-00748",
+    "name": "Fitness Band",
+    "sku": "SKU-00748",
+    "basePrice": 6326.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 317
+  },
+  {
+    "productId": "PROD-00749",
+    "name": "Backpack",
+    "sku": "SKU-00749",
+    "basePrice": 1561.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 348
+  },
+  {
+    "productId": "PROD-00750",
+    "name": "Sports Socks",
+    "sku": "SKU-00750",
+    "basePrice": 411.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 485
+  },
+  {
+    "productId": "PROD-00751",
+    "name": "Running Shoes",
+    "sku": "SKU-00751",
+    "basePrice": 1987.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 225
+  },
+  {
+    "productId": "PROD-00752",
+    "name": "Water Bottle",
+    "sku": "SKU-00752",
+    "basePrice": 4244.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 211
+  },
+  {
+    "productId": "PROD-00753",
+    "name": "Sports Socks",
+    "sku": "SKU-00753",
+    "basePrice": 4161.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 396
+  },
+  {
+    "productId": "PROD-00754",
+    "name": "Fitness Band",
+    "sku": "SKU-00754",
+    "basePrice": 9212.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 446
+  },
+  {
+    "productId": "PROD-00755",
+    "name": "Running Shoes",
+    "sku": "SKU-00755",
+    "basePrice": 7086.17,
+    "currency": "INR",
+    "online": true,
+    "inventory": 265
+  },
+  {
+    "productId": "PROD-00756",
+    "name": "Sports Socks",
+    "sku": "SKU-00756",
+    "basePrice": 5651.78,
+    "currency": "INR",
+    "online": true,
+    "inventory": 339
+  },
+  {
+    "productId": "PROD-00757",
+    "name": "Backpack",
+    "sku": "SKU-00757",
+    "basePrice": 5301.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 160
+  },
+  {
+    "productId": "PROD-00758",
+    "name": "Sports Socks",
+    "sku": "SKU-00758",
+    "basePrice": 4649.67,
+    "currency": "INR",
+    "online": true,
+    "inventory": 272
+  },
+  {
+    "productId": "PROD-00759",
+    "name": "Water Bottle",
+    "sku": "SKU-00759",
+    "basePrice": 5507.1,
+    "currency": "INR",
+    "online": true,
+    "inventory": 346
+  },
+  {
+    "productId": "PROD-00760",
+    "name": "Water Bottle",
+    "sku": "SKU-00760",
+    "basePrice": 6138.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 98
+  },
+  {
+    "productId": "PROD-00761",
+    "name": "Sports Socks",
+    "sku": "SKU-00761",
+    "basePrice": 2861.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 152
+  },
+  {
+    "productId": "PROD-00762",
+    "name": "Sports Socks",
+    "sku": "SKU-00762",
+    "basePrice": 9419.71,
+    "currency": "INR",
+    "online": true,
+    "inventory": 152
+  },
+  {
+    "productId": "PROD-00763",
+    "name": "Water Bottle",
+    "sku": "SKU-00763",
+    "basePrice": 7077.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 353
+  },
+  {
+    "productId": "PROD-00764",
+    "name": "Backpack",
+    "sku": "SKU-00764",
+    "basePrice": 3237.7,
+    "currency": "INR",
+    "online": true,
+    "inventory": 178
+  },
+  {
+    "productId": "PROD-00765",
+    "name": "Fitness Band",
+    "sku": "SKU-00765",
+    "basePrice": 9342.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 407
+  },
+  {
+    "productId": "PROD-00766",
+    "name": "Water Bottle",
+    "sku": "SKU-00766",
+    "basePrice": 2948.11,
+    "currency": "INR",
+    "online": true,
+    "inventory": 293
+  },
+  {
+    "productId": "PROD-00767",
+    "name": "Fitness Band",
+    "sku": "SKU-00767",
+    "basePrice": 3857.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 202
+  },
+  {
+    "productId": "PROD-00768",
+    "name": "Water Bottle",
+    "sku": "SKU-00768",
+    "basePrice": 9549.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 411
+  },
+  {
+    "productId": "PROD-00769",
+    "name": "Sports Socks",
+    "sku": "SKU-00769",
+    "basePrice": 2974.48,
+    "currency": "INR",
+    "online": true,
+    "inventory": 147
+  },
+  {
+    "productId": "PROD-00770",
+    "name": "Running Shoes",
+    "sku": "SKU-00770",
+    "basePrice": 3528.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 226
+  },
+  {
+    "productId": "PROD-00771",
+    "name": "Water Bottle",
+    "sku": "SKU-00771",
+    "basePrice": 7497.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 109
+  },
+  {
+    "productId": "PROD-00772",
+    "name": "Sports Socks",
+    "sku": "SKU-00772",
+    "basePrice": 8295.72,
+    "currency": "INR",
+    "online": true,
+    "inventory": 138
+  },
+  {
+    "productId": "PROD-00773",
+    "name": "Fitness Band",
+    "sku": "SKU-00773",
+    "basePrice": 6991.1,
+    "currency": "INR",
+    "online": true,
+    "inventory": 70
+  },
+  {
+    "productId": "PROD-00774",
+    "name": "Running Shoes",
+    "sku": "SKU-00774",
+    "basePrice": 6194.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 300
+  },
+  {
+    "productId": "PROD-00775",
+    "name": "Sports Socks",
+    "sku": "SKU-00775",
+    "basePrice": 2499.33,
+    "currency": "INR",
+    "online": true,
+    "inventory": 342
+  },
+  {
+    "productId": "PROD-00776",
+    "name": "Fitness Band",
+    "sku": "SKU-00776",
+    "basePrice": 2333.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 119
+  },
+  {
+    "productId": "PROD-00777",
+    "name": "Running Shoes",
+    "sku": "SKU-00777",
+    "basePrice": 1090.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 169
+  },
+  {
+    "productId": "PROD-00778",
+    "name": "Backpack",
+    "sku": "SKU-00778",
+    "basePrice": 1094.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 394
+  },
+  {
+    "productId": "PROD-00779",
+    "name": "Sports Socks",
+    "sku": "SKU-00779",
+    "basePrice": 150.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 281
+  },
+  {
+    "productId": "PROD-00780",
+    "name": "Sports Socks",
+    "sku": "SKU-00780",
+    "basePrice": 4127.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 478
+  },
+  {
+    "productId": "PROD-00781",
+    "name": "Backpack",
+    "sku": "SKU-00781",
+    "basePrice": 4825.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 102
+  },
+  {
+    "productId": "PROD-00782",
+    "name": "Water Bottle",
+    "sku": "SKU-00782",
+    "basePrice": 3278.56,
+    "currency": "INR",
+    "online": true,
+    "inventory": 330
+  },
+  {
+    "productId": "PROD-00783",
+    "name": "Running Shoes",
+    "sku": "SKU-00783",
+    "basePrice": 9087.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 45
+  },
+  {
+    "productId": "PROD-00784",
+    "name": "Fitness Band",
+    "sku": "SKU-00784",
+    "basePrice": 2397.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 378
+  },
+  {
+    "productId": "PROD-00785",
+    "name": "Running Shoes",
+    "sku": "SKU-00785",
+    "basePrice": 9139.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 89
+  },
+  {
+    "productId": "PROD-00786",
+    "name": "Backpack",
+    "sku": "SKU-00786",
+    "basePrice": 8833.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 90
+  },
+  {
+    "productId": "PROD-00787",
+    "name": "Running Shoes",
+    "sku": "SKU-00787",
+    "basePrice": 9971.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 203
+  },
+  {
+    "productId": "PROD-00788",
+    "name": "Backpack",
+    "sku": "SKU-00788",
+    "basePrice": 1943.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 383
+  },
+  {
+    "productId": "PROD-00789",
+    "name": "Water Bottle",
+    "sku": "SKU-00789",
+    "basePrice": 8778.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 4
+  },
+  {
+    "productId": "PROD-00790",
+    "name": "Water Bottle",
+    "sku": "SKU-00790",
+    "basePrice": 5721.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 54
+  },
+  {
+    "productId": "PROD-00791",
+    "name": "Water Bottle",
+    "sku": "SKU-00791",
+    "basePrice": 2916.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 328
+  },
+  {
+    "productId": "PROD-00792",
+    "name": "Fitness Band",
+    "sku": "SKU-00792",
+    "basePrice": 5289.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 455
+  },
+  {
+    "productId": "PROD-00793",
+    "name": "Sports Socks",
+    "sku": "SKU-00793",
+    "basePrice": 8524.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 239
+  },
+  {
+    "productId": "PROD-00794",
+    "name": "Water Bottle",
+    "sku": "SKU-00794",
+    "basePrice": 2007.83,
+    "currency": "INR",
+    "online": true,
+    "inventory": 57
+  },
+  {
+    "productId": "PROD-00795",
+    "name": "Water Bottle",
+    "sku": "SKU-00795",
+    "basePrice": 1707.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 234
+  },
+  {
+    "productId": "PROD-00796",
+    "name": "Water Bottle",
+    "sku": "SKU-00796",
+    "basePrice": 7213.12,
+    "currency": "INR",
+    "online": true,
+    "inventory": 7
+  },
+  {
+    "productId": "PROD-00797",
+    "name": "Water Bottle",
+    "sku": "SKU-00797",
+    "basePrice": 7927.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 290
+  },
+  {
+    "productId": "PROD-00798",
+    "name": "Sports Socks",
+    "sku": "SKU-00798",
+    "basePrice": 1836.4,
+    "currency": "INR",
+    "online": true,
+    "inventory": 438
+  },
+  {
+    "productId": "PROD-00799",
+    "name": "Backpack",
+    "sku": "SKU-00799",
+    "basePrice": 8286.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 263
+  },
+  {
+    "productId": "PROD-00800",
+    "name": "Water Bottle",
+    "sku": "SKU-00800",
+    "basePrice": 957.7,
+    "currency": "INR",
+    "online": true,
+    "inventory": 342
+  },
+  {
+    "productId": "PROD-00801",
+    "name": "Running Shoes",
+    "sku": "SKU-00801",
+    "basePrice": 1928.33,
+    "currency": "INR",
+    "online": true,
+    "inventory": 71
+  },
+  {
+    "productId": "PROD-00802",
+    "name": "Backpack",
+    "sku": "SKU-00802",
+    "basePrice": 3302.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 127
+  },
+  {
+    "productId": "PROD-00803",
+    "name": "Running Shoes",
+    "sku": "SKU-00803",
+    "basePrice": 2680.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 120
+  },
+  {
+    "productId": "PROD-00804",
+    "name": "Backpack",
+    "sku": "SKU-00804",
+    "basePrice": 7561.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 488
+  },
+  {
+    "productId": "PROD-00805",
+    "name": "Water Bottle",
+    "sku": "SKU-00805",
+    "basePrice": 3088.26,
+    "currency": "INR",
+    "online": true,
+    "inventory": 370
+  },
+  {
+    "productId": "PROD-00806",
+    "name": "Fitness Band",
+    "sku": "SKU-00806",
+    "basePrice": 212.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 334
+  },
+  {
+    "productId": "PROD-00807",
+    "name": "Water Bottle",
+    "sku": "SKU-00807",
+    "basePrice": 6957.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 31
+  },
+  {
+    "productId": "PROD-00808",
+    "name": "Running Shoes",
+    "sku": "SKU-00808",
+    "basePrice": 4706.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 81
+  },
+  {
+    "productId": "PROD-00809",
+    "name": "Backpack",
+    "sku": "SKU-00809",
+    "basePrice": 6891.13,
+    "currency": "INR",
+    "online": true,
+    "inventory": 472
+  },
+  {
+    "productId": "PROD-00810",
+    "name": "Water Bottle",
+    "sku": "SKU-00810",
+    "basePrice": 6932.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 327
+  },
+  {
+    "productId": "PROD-00811",
+    "name": "Water Bottle",
+    "sku": "SKU-00811",
+    "basePrice": 3737.68,
+    "currency": "INR",
+    "online": true,
+    "inventory": 113
+  },
+  {
+    "productId": "PROD-00812",
+    "name": "Sports Socks",
+    "sku": "SKU-00812",
+    "basePrice": 9576.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 244
+  },
+  {
+    "productId": "PROD-00813",
+    "name": "Sports Socks",
+    "sku": "SKU-00813",
+    "basePrice": 4603.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 310
+  },
+  {
+    "productId": "PROD-00814",
+    "name": "Water Bottle",
+    "sku": "SKU-00814",
+    "basePrice": 4215.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 281
+  },
+  {
+    "productId": "PROD-00815",
+    "name": "Backpack",
+    "sku": "SKU-00815",
+    "basePrice": 7596.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 410
+  },
+  {
+    "productId": "PROD-00816",
+    "name": "Sports Socks",
+    "sku": "SKU-00816",
+    "basePrice": 7641.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 348
+  },
+  {
+    "productId": "PROD-00817",
+    "name": "Fitness Band",
+    "sku": "SKU-00817",
+    "basePrice": 8743.04,
+    "currency": "INR",
+    "online": true,
+    "inventory": 41
+  },
+  {
+    "productId": "PROD-00818",
+    "name": "Fitness Band",
+    "sku": "SKU-00818",
+    "basePrice": 4521.8,
+    "currency": "INR",
+    "online": true,
+    "inventory": 360
+  },
+  {
+    "productId": "PROD-00819",
+    "name": "Water Bottle",
+    "sku": "SKU-00819",
+    "basePrice": 872.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 288
+  },
+  {
+    "productId": "PROD-00820",
+    "name": "Running Shoes",
+    "sku": "SKU-00820",
+    "basePrice": 710.4,
+    "currency": "INR",
+    "online": true,
+    "inventory": 280
+  },
+  {
+    "productId": "PROD-00821",
+    "name": "Fitness Band",
+    "sku": "SKU-00821",
+    "basePrice": 2100.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 274
+  },
+  {
+    "productId": "PROD-00822",
+    "name": "Sports Socks",
+    "sku": "SKU-00822",
+    "basePrice": 1727.92,
+    "currency": "INR",
+    "online": true,
+    "inventory": 437
+  },
+  {
+    "productId": "PROD-00823",
+    "name": "Fitness Band",
+    "sku": "SKU-00823",
+    "basePrice": 4473.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 348
+  },
+  {
+    "productId": "PROD-00824",
+    "name": "Sports Socks",
+    "sku": "SKU-00824",
+    "basePrice": 7196.49,
+    "currency": "INR",
+    "online": true,
+    "inventory": 250
+  },
+  {
+    "productId": "PROD-00825",
+    "name": "Running Shoes",
+    "sku": "SKU-00825",
+    "basePrice": 8998.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 228
+  },
+  {
+    "productId": "PROD-00826",
+    "name": "Running Shoes",
+    "sku": "SKU-00826",
+    "basePrice": 4587.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 262
+  },
+  {
+    "productId": "PROD-00827",
+    "name": "Backpack",
+    "sku": "SKU-00827",
+    "basePrice": 4621.3,
+    "currency": "INR",
+    "online": true,
+    "inventory": 29
+  },
+  {
+    "productId": "PROD-00828",
+    "name": "Fitness Band",
+    "sku": "SKU-00828",
+    "basePrice": 4676.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 413
+  },
+  {
+    "productId": "PROD-00829",
+    "name": "Water Bottle",
+    "sku": "SKU-00829",
+    "basePrice": 7259.47,
+    "currency": "INR",
+    "online": true,
+    "inventory": 202
+  },
+  {
+    "productId": "PROD-00830",
+    "name": "Water Bottle",
+    "sku": "SKU-00830",
+    "basePrice": 8181.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 381
+  },
+  {
+    "productId": "PROD-00831",
+    "name": "Sports Socks",
+    "sku": "SKU-00831",
+    "basePrice": 5824.28,
+    "currency": "INR",
+    "online": true,
+    "inventory": 23
+  },
+  {
+    "productId": "PROD-00832",
+    "name": "Backpack",
+    "sku": "SKU-00832",
+    "basePrice": 3509.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 32
+  },
+  {
+    "productId": "PROD-00833",
+    "name": "Fitness Band",
+    "sku": "SKU-00833",
+    "basePrice": 9940.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 478
+  },
+  {
+    "productId": "PROD-00834",
+    "name": "Running Shoes",
+    "sku": "SKU-00834",
+    "basePrice": 9861.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 241
+  },
+  {
+    "productId": "PROD-00835",
+    "name": "Running Shoes",
+    "sku": "SKU-00835",
+    "basePrice": 2941.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 92
+  },
+  {
+    "productId": "PROD-00836",
+    "name": "Sports Socks",
+    "sku": "SKU-00836",
+    "basePrice": 7680.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 500
+  },
+  {
+    "productId": "PROD-00837",
+    "name": "Backpack",
+    "sku": "SKU-00837",
+    "basePrice": 3806.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 456
+  },
+  {
+    "productId": "PROD-00838",
+    "name": "Backpack",
+    "sku": "SKU-00838",
+    "basePrice": 4539.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 469
+  },
+  {
+    "productId": "PROD-00839",
+    "name": "Backpack",
+    "sku": "SKU-00839",
+    "basePrice": 3817.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 349
+  },
+  {
+    "productId": "PROD-00840",
+    "name": "Fitness Band",
+    "sku": "SKU-00840",
+    "basePrice": 1415.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 440
+  },
+  {
+    "productId": "PROD-00841",
+    "name": "Water Bottle",
+    "sku": "SKU-00841",
+    "basePrice": 1273.47,
+    "currency": "INR",
+    "online": true,
+    "inventory": 275
+  },
+  {
+    "productId": "PROD-00842",
+    "name": "Backpack",
+    "sku": "SKU-00842",
+    "basePrice": 5334.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 372
+  },
+  {
+    "productId": "PROD-00843",
+    "name": "Sports Socks",
+    "sku": "SKU-00843",
+    "basePrice": 8363.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 387
+  },
+  {
+    "productId": "PROD-00844",
+    "name": "Running Shoes",
+    "sku": "SKU-00844",
+    "basePrice": 9786.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 237
+  },
+  {
+    "productId": "PROD-00845",
+    "name": "Fitness Band",
+    "sku": "SKU-00845",
+    "basePrice": 4297.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 194
+  },
+  {
+    "productId": "PROD-00846",
+    "name": "Sports Socks",
+    "sku": "SKU-00846",
+    "basePrice": 2549.37,
+    "currency": "INR",
+    "online": true,
+    "inventory": 177
+  },
+  {
+    "productId": "PROD-00847",
+    "name": "Sports Socks",
+    "sku": "SKU-00847",
+    "basePrice": 2827.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 479
+  },
+  {
+    "productId": "PROD-00848",
+    "name": "Running Shoes",
+    "sku": "SKU-00848",
+    "basePrice": 417.95,
+    "currency": "INR",
+    "online": true,
+    "inventory": 338
+  },
+  {
+    "productId": "PROD-00849",
+    "name": "Backpack",
+    "sku": "SKU-00849",
+    "basePrice": 6186.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 479
+  },
+  {
+    "productId": "PROD-00850",
+    "name": "Running Shoes",
+    "sku": "SKU-00850",
+    "basePrice": 2481.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 34
+  },
+  {
+    "productId": "PROD-00851",
+    "name": "Running Shoes",
+    "sku": "SKU-00851",
+    "basePrice": 5979.05,
+    "currency": "INR",
+    "online": true,
+    "inventory": 228
+  },
+  {
+    "productId": "PROD-00852",
+    "name": "Fitness Band",
+    "sku": "SKU-00852",
+    "basePrice": 6752.03,
+    "currency": "INR",
+    "online": true,
+    "inventory": 446
+  },
+  {
+    "productId": "PROD-00853",
+    "name": "Running Shoes",
+    "sku": "SKU-00853",
+    "basePrice": 2521.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 22
+  },
+  {
+    "productId": "PROD-00854",
+    "name": "Backpack",
+    "sku": "SKU-00854",
+    "basePrice": 4444.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 276
+  },
+  {
+    "productId": "PROD-00855",
+    "name": "Sports Socks",
+    "sku": "SKU-00855",
+    "basePrice": 7567.42,
+    "currency": "INR",
+    "online": true,
+    "inventory": 397
+  },
+  {
+    "productId": "PROD-00856",
+    "name": "Running Shoes",
+    "sku": "SKU-00856",
+    "basePrice": 1486.34,
+    "currency": "INR",
+    "online": true,
+    "inventory": 148
+  },
+  {
+    "productId": "PROD-00857",
+    "name": "Sports Socks",
+    "sku": "SKU-00857",
+    "basePrice": 8175.28,
+    "currency": "INR",
+    "online": true,
+    "inventory": 374
+  },
+  {
+    "productId": "PROD-00858",
+    "name": "Fitness Band",
+    "sku": "SKU-00858",
+    "basePrice": 3256.15,
+    "currency": "INR",
+    "online": true,
+    "inventory": 306
+  },
+  {
+    "productId": "PROD-00859",
+    "name": "Water Bottle",
+    "sku": "SKU-00859",
+    "basePrice": 2444.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 448
+  },
+  {
+    "productId": "PROD-00860",
+    "name": "Sports Socks",
+    "sku": "SKU-00860",
+    "basePrice": 9857.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 266
+  },
+  {
+    "productId": "PROD-00861",
+    "name": "Sports Socks",
+    "sku": "SKU-00861",
+    "basePrice": 4193.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 140
+  },
+  {
+    "productId": "PROD-00862",
+    "name": "Running Shoes",
+    "sku": "SKU-00862",
+    "basePrice": 5610.51,
+    "currency": "INR",
+    "online": true,
+    "inventory": 302
+  },
+  {
+    "productId": "PROD-00863",
+    "name": "Sports Socks",
+    "sku": "SKU-00863",
+    "basePrice": 6296.33,
+    "currency": "INR",
+    "online": true,
+    "inventory": 218
+  },
+  {
+    "productId": "PROD-00864",
+    "name": "Fitness Band",
+    "sku": "SKU-00864",
+    "basePrice": 5005.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 497
+  },
+  {
+    "productId": "PROD-00865",
+    "name": "Water Bottle",
+    "sku": "SKU-00865",
+    "basePrice": 9420.71,
+    "currency": "INR",
+    "online": true,
+    "inventory": 343
+  },
+  {
+    "productId": "PROD-00866",
+    "name": "Backpack",
+    "sku": "SKU-00866",
+    "basePrice": 7878.47,
+    "currency": "INR",
+    "online": true,
+    "inventory": 163
+  },
+  {
+    "productId": "PROD-00867",
+    "name": "Backpack",
+    "sku": "SKU-00867",
+    "basePrice": 4140.77,
+    "currency": "INR",
+    "online": true,
+    "inventory": 153
+  },
+  {
+    "productId": "PROD-00868",
+    "name": "Backpack",
+    "sku": "SKU-00868",
+    "basePrice": 1919.4,
+    "currency": "INR",
+    "online": true,
+    "inventory": 275
+  },
+  {
+    "productId": "PROD-00869",
+    "name": "Backpack",
+    "sku": "SKU-00869",
+    "basePrice": 2484.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 115
+  },
+  {
+    "productId": "PROD-00870",
+    "name": "Water Bottle",
+    "sku": "SKU-00870",
+    "basePrice": 8588.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 73
+  },
+  {
+    "productId": "PROD-00871",
+    "name": "Backpack",
+    "sku": "SKU-00871",
+    "basePrice": 9154.94,
+    "currency": "INR",
+    "online": true,
+    "inventory": 287
+  },
+  {
+    "productId": "PROD-00872",
+    "name": "Backpack",
+    "sku": "SKU-00872",
+    "basePrice": 9680.08,
+    "currency": "INR",
+    "online": true,
+    "inventory": 285
+  },
+  {
+    "productId": "PROD-00873",
+    "name": "Fitness Band",
+    "sku": "SKU-00873",
+    "basePrice": 1426.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 124
+  },
+  {
+    "productId": "PROD-00874",
+    "name": "Water Bottle",
+    "sku": "SKU-00874",
+    "basePrice": 2112.03,
+    "currency": "INR",
+    "online": true,
+    "inventory": 331
+  },
+  {
+    "productId": "PROD-00875",
+    "name": "Running Shoes",
+    "sku": "SKU-00875",
+    "basePrice": 9229.04,
+    "currency": "INR",
+    "online": true,
+    "inventory": 433
+  },
+  {
+    "productId": "PROD-00876",
+    "name": "Water Bottle",
+    "sku": "SKU-00876",
+    "basePrice": 1014.39,
+    "currency": "INR",
+    "online": true,
+    "inventory": 370
+  },
+  {
+    "productId": "PROD-00877",
+    "name": "Sports Socks",
+    "sku": "SKU-00877",
+    "basePrice": 609.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 193
+  },
+  {
+    "productId": "PROD-00878",
+    "name": "Fitness Band",
+    "sku": "SKU-00878",
+    "basePrice": 6067.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 447
+  },
+  {
+    "productId": "PROD-00879",
+    "name": "Running Shoes",
+    "sku": "SKU-00879",
+    "basePrice": 1961.82,
+    "currency": "INR",
+    "online": true,
+    "inventory": 389
+  },
+  {
+    "productId": "PROD-00880",
+    "name": "Fitness Band",
+    "sku": "SKU-00880",
+    "basePrice": 7269.62,
+    "currency": "INR",
+    "online": true,
+    "inventory": 286
+  },
+  {
+    "productId": "PROD-00881",
+    "name": "Sports Socks",
+    "sku": "SKU-00881",
+    "basePrice": 4845.0,
+    "currency": "INR",
+    "online": true,
+    "inventory": 445
+  },
+  {
+    "productId": "PROD-00882",
+    "name": "Water Bottle",
+    "sku": "SKU-00882",
+    "basePrice": 3100.56,
+    "currency": "INR",
+    "online": true,
+    "inventory": 465
+  },
+  {
+    "productId": "PROD-00883",
+    "name": "Running Shoes",
+    "sku": "SKU-00883",
+    "basePrice": 2195.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 97
+  },
+  {
+    "productId": "PROD-00884",
+    "name": "Running Shoes",
+    "sku": "SKU-00884",
+    "basePrice": 7493.1,
+    "currency": "INR",
+    "online": true,
+    "inventory": 386
+  },
+  {
+    "productId": "PROD-00885",
+    "name": "Backpack",
+    "sku": "SKU-00885",
+    "basePrice": 9151.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 356
+  },
+  {
+    "productId": "PROD-00886",
+    "name": "Fitness Band",
+    "sku": "SKU-00886",
+    "basePrice": 7066.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 203
+  },
+  {
+    "productId": "PROD-00887",
+    "name": "Sports Socks",
+    "sku": "SKU-00887",
+    "basePrice": 5564.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 397
+  },
+  {
+    "productId": "PROD-00888",
+    "name": "Water Bottle",
+    "sku": "SKU-00888",
+    "basePrice": 3867.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 273
+  },
+  {
+    "productId": "PROD-00889",
+    "name": "Water Bottle",
+    "sku": "SKU-00889",
+    "basePrice": 3152.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 184
+  },
+  {
+    "productId": "PROD-00890",
+    "name": "Fitness Band",
+    "sku": "SKU-00890",
+    "basePrice": 8838.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 238
+  },
+  {
+    "productId": "PROD-00891",
+    "name": "Running Shoes",
+    "sku": "SKU-00891",
+    "basePrice": 8046.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 369
+  },
+  {
+    "productId": "PROD-00892",
+    "name": "Backpack",
+    "sku": "SKU-00892",
+    "basePrice": 7639.13,
+    "currency": "INR",
+    "online": true,
+    "inventory": 163
+  },
+  {
+    "productId": "PROD-00893",
+    "name": "Sports Socks",
+    "sku": "SKU-00893",
+    "basePrice": 3768.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 211
+  },
+  {
+    "productId": "PROD-00894",
+    "name": "Running Shoes",
+    "sku": "SKU-00894",
+    "basePrice": 5667.99,
+    "currency": "INR",
+    "online": true,
+    "inventory": 113
+  },
+  {
+    "productId": "PROD-00895",
+    "name": "Sports Socks",
+    "sku": "SKU-00895",
+    "basePrice": 259.58,
+    "currency": "INR",
+    "online": true,
+    "inventory": 283
+  },
+  {
+    "productId": "PROD-00896",
+    "name": "Fitness Band",
+    "sku": "SKU-00896",
+    "basePrice": 5832.51,
+    "currency": "INR",
+    "online": true,
+    "inventory": 213
+  },
+  {
+    "productId": "PROD-00897",
+    "name": "Water Bottle",
+    "sku": "SKU-00897",
+    "basePrice": 1607.87,
+    "currency": "INR",
+    "online": true,
+    "inventory": 168
+  },
+  {
+    "productId": "PROD-00898",
+    "name": "Sports Socks",
+    "sku": "SKU-00898",
+    "basePrice": 3859.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 426
+  },
+  {
+    "productId": "PROD-00899",
+    "name": "Sports Socks",
+    "sku": "SKU-00899",
+    "basePrice": 5042.08,
+    "currency": "INR",
+    "online": true,
+    "inventory": 335
+  },
+  {
+    "productId": "PROD-00900",
+    "name": "Water Bottle",
+    "sku": "SKU-00900",
+    "basePrice": 2646.53,
+    "currency": "INR",
+    "online": true,
+    "inventory": 420
+  },
+  {
+    "productId": "PROD-00901",
+    "name": "Backpack",
+    "sku": "SKU-00901",
+    "basePrice": 9667.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 328
+  },
+  {
+    "productId": "PROD-00902",
+    "name": "Backpack",
+    "sku": "SKU-00902",
+    "basePrice": 4661.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 375
+  },
+  {
+    "productId": "PROD-00903",
+    "name": "Water Bottle",
+    "sku": "SKU-00903",
+    "basePrice": 1774.73,
+    "currency": "INR",
+    "online": true,
+    "inventory": 368
+  },
+  {
+    "productId": "PROD-00904",
+    "name": "Fitness Band",
+    "sku": "SKU-00904",
+    "basePrice": 4933.33,
+    "currency": "INR",
+    "online": true,
+    "inventory": 469
+  },
+  {
+    "productId": "PROD-00905",
+    "name": "Fitness Band",
+    "sku": "SKU-00905",
+    "basePrice": 9903.2,
+    "currency": "INR",
+    "online": true,
+    "inventory": 490
+  },
+  {
+    "productId": "PROD-00906",
+    "name": "Running Shoes",
+    "sku": "SKU-00906",
+    "basePrice": 5286.05,
+    "currency": "INR",
+    "online": true,
+    "inventory": 429
+  },
+  {
+    "productId": "PROD-00907",
+    "name": "Running Shoes",
+    "sku": "SKU-00907",
+    "basePrice": 9456.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 342
+  },
+  {
+    "productId": "PROD-00908",
+    "name": "Running Shoes",
+    "sku": "SKU-00908",
+    "basePrice": 7665.95,
+    "currency": "INR",
+    "online": true,
+    "inventory": 211
+  },
+  {
+    "productId": "PROD-00909",
+    "name": "Sports Socks",
+    "sku": "SKU-00909",
+    "basePrice": 8440.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 118
+  },
+  {
+    "productId": "PROD-00910",
+    "name": "Running Shoes",
+    "sku": "SKU-00910",
+    "basePrice": 7099.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 4
+  },
+  {
+    "productId": "PROD-00911",
+    "name": "Sports Socks",
+    "sku": "SKU-00911",
+    "basePrice": 5105.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 191
+  },
+  {
+    "productId": "PROD-00912",
+    "name": "Running Shoes",
+    "sku": "SKU-00912",
+    "basePrice": 6215.57,
+    "currency": "INR",
+    "online": true,
+    "inventory": 341
+  },
+  {
+    "productId": "PROD-00913",
+    "name": "Fitness Band",
+    "sku": "SKU-00913",
+    "basePrice": 9135.24,
+    "currency": "INR",
+    "online": true,
+    "inventory": 337
+  },
+  {
+    "productId": "PROD-00914",
+    "name": "Backpack",
+    "sku": "SKU-00914",
+    "basePrice": 254.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 272
+  },
+  {
+    "productId": "PROD-00915",
+    "name": "Fitness Band",
+    "sku": "SKU-00915",
+    "basePrice": 4171.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 8
+  },
+  {
+    "productId": "PROD-00916",
+    "name": "Fitness Band",
+    "sku": "SKU-00916",
+    "basePrice": 7248.71,
+    "currency": "INR",
+    "online": true,
+    "inventory": 274
+  },
+  {
+    "productId": "PROD-00917",
+    "name": "Water Bottle",
+    "sku": "SKU-00917",
+    "basePrice": 268.71,
+    "currency": "INR",
+    "online": true,
+    "inventory": 416
+  },
+  {
+    "productId": "PROD-00918",
+    "name": "Backpack",
+    "sku": "SKU-00918",
+    "basePrice": 8080.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 465
+  },
+  {
+    "productId": "PROD-00919",
+    "name": "Sports Socks",
+    "sku": "SKU-00919",
+    "basePrice": 1158.46,
+    "currency": "INR",
+    "online": true,
+    "inventory": 49
+  },
+  {
+    "productId": "PROD-00920",
+    "name": "Fitness Band",
+    "sku": "SKU-00920",
+    "basePrice": 1573.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 98
+  },
+  {
+    "productId": "PROD-00921",
+    "name": "Fitness Band",
+    "sku": "SKU-00921",
+    "basePrice": 5310.91,
+    "currency": "INR",
+    "online": true,
+    "inventory": 417
+  },
+  {
+    "productId": "PROD-00922",
+    "name": "Water Bottle",
+    "sku": "SKU-00922",
+    "basePrice": 2745.51,
+    "currency": "INR",
+    "online": true,
+    "inventory": 203
+  },
+  {
+    "productId": "PROD-00923",
+    "name": "Running Shoes",
+    "sku": "SKU-00923",
+    "basePrice": 3792.21,
+    "currency": "INR",
+    "online": true,
+    "inventory": 207
+  },
+  {
+    "productId": "PROD-00924",
+    "name": "Backpack",
+    "sku": "SKU-00924",
+    "basePrice": 5692.52,
+    "currency": "INR",
+    "online": true,
+    "inventory": 356
+  },
+  {
+    "productId": "PROD-00925",
+    "name": "Sports Socks",
+    "sku": "SKU-00925",
+    "basePrice": 3068.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 423
+  },
+  {
+    "productId": "PROD-00926",
+    "name": "Running Shoes",
+    "sku": "SKU-00926",
+    "basePrice": 6570.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 439
+  },
+  {
+    "productId": "PROD-00927",
+    "name": "Running Shoes",
+    "sku": "SKU-00927",
+    "basePrice": 1024.66,
+    "currency": "INR",
+    "online": true,
+    "inventory": 194
+  },
+  {
+    "productId": "PROD-00928",
+    "name": "Backpack",
+    "sku": "SKU-00928",
+    "basePrice": 5570.74,
+    "currency": "INR",
+    "online": true,
+    "inventory": 28
+  },
+  {
+    "productId": "PROD-00929",
+    "name": "Running Shoes",
+    "sku": "SKU-00929",
+    "basePrice": 7057.17,
+    "currency": "INR",
+    "online": true,
+    "inventory": 42
+  },
+  {
+    "productId": "PROD-00930",
+    "name": "Backpack",
+    "sku": "SKU-00930",
+    "basePrice": 8467.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 330
+  },
+  {
+    "productId": "PROD-00931",
+    "name": "Water Bottle",
+    "sku": "SKU-00931",
+    "basePrice": 5700.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 439
+  },
+  {
+    "productId": "PROD-00932",
+    "name": "Running Shoes",
+    "sku": "SKU-00932",
+    "basePrice": 8957.43,
+    "currency": "INR",
+    "online": true,
+    "inventory": 470
+  },
+  {
+    "productId": "PROD-00933",
+    "name": "Running Shoes",
+    "sku": "SKU-00933",
+    "basePrice": 2373.69,
+    "currency": "INR",
+    "online": true,
+    "inventory": 461
+  },
+  {
+    "productId": "PROD-00934",
+    "name": "Fitness Band",
+    "sku": "SKU-00934",
+    "basePrice": 4806.45,
+    "currency": "INR",
+    "online": true,
+    "inventory": 23
+  },
+  {
+    "productId": "PROD-00935",
+    "name": "Running Shoes",
+    "sku": "SKU-00935",
+    "basePrice": 6874.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 143
+  },
+  {
+    "productId": "PROD-00936",
+    "name": "Fitness Band",
+    "sku": "SKU-00936",
+    "basePrice": 5677.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 16
+  },
+  {
+    "productId": "PROD-00937",
+    "name": "Sports Socks",
+    "sku": "SKU-00937",
+    "basePrice": 9293.79,
+    "currency": "INR",
+    "online": true,
+    "inventory": 161
+  },
+  {
+    "productId": "PROD-00938",
+    "name": "Running Shoes",
+    "sku": "SKU-00938",
+    "basePrice": 9617.54,
+    "currency": "INR",
+    "online": true,
+    "inventory": 300
+  },
+  {
+    "productId": "PROD-00939",
+    "name": "Sports Socks",
+    "sku": "SKU-00939",
+    "basePrice": 7546.32,
+    "currency": "INR",
+    "online": true,
+    "inventory": 364
+  },
+  {
+    "productId": "PROD-00940",
+    "name": "Backpack",
+    "sku": "SKU-00940",
+    "basePrice": 9294.86,
+    "currency": "INR",
+    "online": true,
+    "inventory": 153
+  },
+  {
+    "productId": "PROD-00941",
+    "name": "Sports Socks",
+    "sku": "SKU-00941",
+    "basePrice": 5682.19,
+    "currency": "INR",
+    "online": true,
+    "inventory": 290
+  },
+  {
+    "productId": "PROD-00942",
+    "name": "Backpack",
+    "sku": "SKU-00942",
+    "basePrice": 6801.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 276
+  },
+  {
+    "productId": "PROD-00943",
+    "name": "Water Bottle",
+    "sku": "SKU-00943",
+    "basePrice": 3899.08,
+    "currency": "INR",
+    "online": true,
+    "inventory": 378
+  },
+  {
+    "productId": "PROD-00944",
+    "name": "Sports Socks",
+    "sku": "SKU-00944",
+    "basePrice": 7924.93,
+    "currency": "INR",
+    "online": true,
+    "inventory": 352
+  },
+  {
+    "productId": "PROD-00945",
+    "name": "Running Shoes",
+    "sku": "SKU-00945",
+    "basePrice": 5056.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 498
+  },
+  {
+    "productId": "PROD-00946",
+    "name": "Water Bottle",
+    "sku": "SKU-00946",
+    "basePrice": 630.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 223
+  },
+  {
+    "productId": "PROD-00947",
+    "name": "Sports Socks",
+    "sku": "SKU-00947",
+    "basePrice": 8401.88,
+    "currency": "INR",
+    "online": true,
+    "inventory": 174
+  },
+  {
+    "productId": "PROD-00948",
+    "name": "Fitness Band",
+    "sku": "SKU-00948",
+    "basePrice": 7712.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 488
+  },
+  {
+    "productId": "PROD-00949",
+    "name": "Fitness Band",
+    "sku": "SKU-00949",
+    "basePrice": 4026.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 396
+  },
+  {
+    "productId": "PROD-00950",
+    "name": "Water Bottle",
+    "sku": "SKU-00950",
+    "basePrice": 392.29,
+    "currency": "INR",
+    "online": true,
+    "inventory": 139
+  },
+  {
+    "productId": "PROD-00951",
+    "name": "Backpack",
+    "sku": "SKU-00951",
+    "basePrice": 4955.97,
+    "currency": "INR",
+    "online": true,
+    "inventory": 182
+  },
+  {
+    "productId": "PROD-00952",
+    "name": "Fitness Band",
+    "sku": "SKU-00952",
+    "basePrice": 9416.31,
+    "currency": "INR",
+    "online": true,
+    "inventory": 221
+  },
+  {
+    "productId": "PROD-00953",
+    "name": "Sports Socks",
+    "sku": "SKU-00953",
+    "basePrice": 6827.98,
+    "currency": "INR",
+    "online": true,
+    "inventory": 338
+  },
+  {
+    "productId": "PROD-00954",
+    "name": "Backpack",
+    "sku": "SKU-00954",
+    "basePrice": 947.37,
+    "currency": "INR",
+    "online": true,
+    "inventory": 316
+  },
+  {
+    "productId": "PROD-00955",
+    "name": "Water Bottle",
+    "sku": "SKU-00955",
+    "basePrice": 7999.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 365
+  },
+  {
+    "productId": "PROD-00956",
+    "name": "Running Shoes",
+    "sku": "SKU-00956",
+    "basePrice": 911.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 78
+  },
+  {
+    "productId": "PROD-00957",
+    "name": "Backpack",
+    "sku": "SKU-00957",
+    "basePrice": 7144.6,
+    "currency": "INR",
+    "online": true,
+    "inventory": 324
+  },
+  {
+    "productId": "PROD-00958",
+    "name": "Sports Socks",
+    "sku": "SKU-00958",
+    "basePrice": 7421.59,
+    "currency": "INR",
+    "online": true,
+    "inventory": 162
+  },
+  {
+    "productId": "PROD-00959",
+    "name": "Water Bottle",
+    "sku": "SKU-00959",
+    "basePrice": 1153.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 2
+  },
+  {
+    "productId": "PROD-00960",
+    "name": "Water Bottle",
+    "sku": "SKU-00960",
+    "basePrice": 4501.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 389
+  },
+  {
+    "productId": "PROD-00961",
+    "name": "Water Bottle",
+    "sku": "SKU-00961",
+    "basePrice": 1111.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 44
+  },
+  {
+    "productId": "PROD-00962",
+    "name": "Sports Socks",
+    "sku": "SKU-00962",
+    "basePrice": 4365.7,
+    "currency": "INR",
+    "online": true,
+    "inventory": 285
+  },
+  {
+    "productId": "PROD-00963",
+    "name": "Fitness Band",
+    "sku": "SKU-00963",
+    "basePrice": 5172.16,
+    "currency": "INR",
+    "online": true,
+    "inventory": 52
+  },
+  {
+    "productId": "PROD-00964",
+    "name": "Running Shoes",
+    "sku": "SKU-00964",
+    "basePrice": 986.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 283
+  },
+  {
+    "productId": "PROD-00965",
+    "name": "Running Shoes",
+    "sku": "SKU-00965",
+    "basePrice": 6008.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 401
+  },
+  {
+    "productId": "PROD-00966",
+    "name": "Water Bottle",
+    "sku": "SKU-00966",
+    "basePrice": 8649.81,
+    "currency": "INR",
+    "online": true,
+    "inventory": 6
+  },
+  {
+    "productId": "PROD-00967",
+    "name": "Water Bottle",
+    "sku": "SKU-00967",
+    "basePrice": 4195.72,
+    "currency": "INR",
+    "online": true,
+    "inventory": 398
+  },
+  {
+    "productId": "PROD-00968",
+    "name": "Running Shoes",
+    "sku": "SKU-00968",
+    "basePrice": 7274.95,
+    "currency": "INR",
+    "online": true,
+    "inventory": 286
+  },
+  {
+    "productId": "PROD-00969",
+    "name": "Sports Socks",
+    "sku": "SKU-00969",
+    "basePrice": 5761.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 86
+  },
+  {
+    "productId": "PROD-00970",
+    "name": "Backpack",
+    "sku": "SKU-00970",
+    "basePrice": 1777.07,
+    "currency": "INR",
+    "online": true,
+    "inventory": 137
+  },
+  {
+    "productId": "PROD-00971",
+    "name": "Water Bottle",
+    "sku": "SKU-00971",
+    "basePrice": 2756.23,
+    "currency": "INR",
+    "online": true,
+    "inventory": 74
+  },
+  {
+    "productId": "PROD-00972",
+    "name": "Running Shoes",
+    "sku": "SKU-00972",
+    "basePrice": 1754.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 141
+  },
+  {
+    "productId": "PROD-00973",
+    "name": "Backpack",
+    "sku": "SKU-00973",
+    "basePrice": 3066.55,
+    "currency": "INR",
+    "online": true,
+    "inventory": 400
+  },
+  {
+    "productId": "PROD-00974",
+    "name": "Running Shoes",
+    "sku": "SKU-00974",
+    "basePrice": 3674.14,
+    "currency": "INR",
+    "online": true,
+    "inventory": 483
+  },
+  {
+    "productId": "PROD-00975",
+    "name": "Sports Socks",
+    "sku": "SKU-00975",
+    "basePrice": 7235.9,
+    "currency": "INR",
+    "online": true,
+    "inventory": 253
+  },
+  {
+    "productId": "PROD-00976",
+    "name": "Fitness Band",
+    "sku": "SKU-00976",
+    "basePrice": 6204.02,
+    "currency": "INR",
+    "online": true,
+    "inventory": 234
+  },
+  {
+    "productId": "PROD-00977",
+    "name": "Running Shoes",
+    "sku": "SKU-00977",
+    "basePrice": 1440.35,
+    "currency": "INR",
+    "online": true,
+    "inventory": 3
+  },
+  {
+    "productId": "PROD-00978",
+    "name": "Backpack",
+    "sku": "SKU-00978",
+    "basePrice": 3387.95,
+    "currency": "INR",
+    "online": true,
+    "inventory": 317
+  },
+  {
+    "productId": "PROD-00979",
+    "name": "Backpack",
+    "sku": "SKU-00979",
+    "basePrice": 8059.36,
+    "currency": "INR",
+    "online": true,
+    "inventory": 168
+  },
+  {
+    "productId": "PROD-00980",
+    "name": "Backpack",
+    "sku": "SKU-00980",
+    "basePrice": 3412.89,
+    "currency": "INR",
+    "online": true,
+    "inventory": 417
+  },
+  {
+    "productId": "PROD-00981",
+    "name": "Fitness Band",
+    "sku": "SKU-00981",
+    "basePrice": 1446.63,
+    "currency": "INR",
+    "online": true,
+    "inventory": 164
+  },
+  {
+    "productId": "PROD-00982",
+    "name": "Fitness Band",
+    "sku": "SKU-00982",
+    "basePrice": 9477.06,
+    "currency": "INR",
+    "online": true,
+    "inventory": 102
+  },
+  {
+    "productId": "PROD-00983",
+    "name": "Backpack",
+    "sku": "SKU-00983",
+    "basePrice": 3209.41,
+    "currency": "INR",
+    "online": true,
+    "inventory": 493
+  },
+  {
+    "productId": "PROD-00984",
+    "name": "Backpack",
+    "sku": "SKU-00984",
+    "basePrice": 9689.38,
+    "currency": "INR",
+    "online": true,
+    "inventory": 149
+  },
+  {
+    "productId": "PROD-00985",
+    "name": "Backpack",
+    "sku": "SKU-00985",
+    "basePrice": 9679.85,
+    "currency": "INR",
+    "online": true,
+    "inventory": 400
+  },
+  {
+    "productId": "PROD-00986",
+    "name": "Sports Socks",
+    "sku": "SKU-00986",
+    "basePrice": 3325.27,
+    "currency": "INR",
+    "online": true,
+    "inventory": 143
+  },
+  {
+    "productId": "PROD-00987",
+    "name": "Backpack",
+    "sku": "SKU-00987",
+    "basePrice": 3712.65,
+    "currency": "INR",
+    "online": true,
+    "inventory": 477
+  },
+  {
+    "productId": "PROD-00988",
+    "name": "Fitness Band",
+    "sku": "SKU-00988",
+    "basePrice": 2077.02,
+    "currency": "INR",
+    "online": true,
+    "inventory": 279
+  },
+  {
+    "productId": "PROD-00989",
+    "name": "Sports Socks",
+    "sku": "SKU-00989",
+    "basePrice": 6847.96,
+    "currency": "INR",
+    "online": true,
+    "inventory": 281
+  },
+  {
+    "productId": "PROD-00990",
+    "name": "Running Shoes",
+    "sku": "SKU-00990",
+    "basePrice": 9533.75,
+    "currency": "INR",
+    "online": true,
+    "inventory": 236
+  },
+  {
+    "productId": "PROD-00991",
+    "name": "Sports Socks",
+    "sku": "SKU-00991",
+    "basePrice": 4439.7,
+    "currency": "INR",
+    "online": true,
+    "inventory": 149
+  },
+  {
+    "productId": "PROD-00992",
+    "name": "Running Shoes",
+    "sku": "SKU-00992",
+    "basePrice": 8206.76,
+    "currency": "INR",
+    "online": true,
+    "inventory": 407
+  },
+  {
+    "productId": "PROD-00993",
+    "name": "Backpack",
+    "sku": "SKU-00993",
+    "basePrice": 6761.48,
+    "currency": "INR",
+    "online": true,
+    "inventory": 71
+  },
+  {
+    "productId": "PROD-00994",
+    "name": "Water Bottle",
+    "sku": "SKU-00994",
+    "basePrice": 2495.01,
+    "currency": "INR",
+    "online": true,
+    "inventory": 337
+  },
+  {
+    "productId": "PROD-00995",
+    "name": "Sports Socks",
+    "sku": "SKU-00995",
+    "basePrice": 7179.84,
+    "currency": "INR",
+    "online": true,
+    "inventory": 404
+  },
+  {
+    "productId": "PROD-00996",
+    "name": "Backpack",
+    "sku": "SKU-00996",
+    "basePrice": 831.25,
+    "currency": "INR",
+    "online": true,
+    "inventory": 306
+  },
+  {
+    "productId": "PROD-00997",
+    "name": "Backpack",
+    "sku": "SKU-00997",
+    "basePrice": 5863.22,
+    "currency": "INR",
+    "online": true,
+    "inventory": 273
+  },
+  {
+    "productId": "PROD-00998",
+    "name": "Fitness Band",
+    "sku": "SKU-00998",
+    "basePrice": 9241.61,
+    "currency": "INR",
+    "online": true,
+    "inventory": 445
+  },
+  {
+    "productId": "PROD-00999",
+    "name": "Backpack",
+    "sku": "SKU-00999",
+    "basePrice": 5481.09,
+    "currency": "INR",
+    "online": true,
+    "inventory": 404
+  },
+  {
+    "productId": "PROD-01000",
+    "name": "Water Bottle",
+    "sku": "SKU-01000",
+    "basePrice": 7045.18,
+    "currency": "INR",
+    "online": true,
+    "inventory": 415
+  }
+]

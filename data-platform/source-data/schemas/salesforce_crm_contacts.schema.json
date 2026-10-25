@@ -1,0 +1,42 @@
+{
+  "dataset": "salesforce_crm_contacts",
+  "synthetic": true,
+  "row_count": 1001,
+  "fields": [
+    {
+      "name": "Id",
+      "example_value": "003SYN000001",
+      "nullable": false
+    },
+    {
+      "name": "AccountId",
+      "example_value": "001SYN000001",
+      "nullable": false
+    },
+    {
+      "name": "FirstName",
+      "example_value": "Person0001",
+      "nullable": false
+    },
+    {
+      "name": "LastName",
+      "example_value": "Example0001",
+      "nullable": false
+    },
+    {
+      "name": "Email",
+      "example_value": "person0001@example.test",
+      "nullable": false
+    },
+    {
+      "name": "Title",
+      "example_value": "Manager",
+      "nullable": false
+    },
+    {
+      "name": "CreatedDate",
+      "example_value": "2025-01-02T04:00:00Z",
+      "nullable": false
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+
+services:
+  # Workflow orchestration and dbt runtime
+  airflow:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: airflow
+    command: standalone
+    ports:
+      - "8080:8080"
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+    volumes:
+      - ./airflow:/opt/airflow/dags
+      - ./dbt:/opt/dbt
+      - ./data:/opt/data
+    restart: unless-stopped
+
+  # Object storage
+  minio:
+    image: cgr.dev/chainguard/minio:latest
+    container_name: minio
+    command: server /data --console-address ":9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: "ChangeThisPassword123!"
+    volumes:
+      - minio_data:/data
+    restart: unless-stopped
+
+  # Iceberg catalog
+  nessie:
+    image: ghcr.io/projectnessie/nessie:latest
+    container_name: iceberg-catalog
+    ports:
+      - "19120:19120"
+    restart: unless-stopped
+
+  # Metrics collection
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus_data:/prometheus
+    restart: unless-stopped
+
+  # Monitoring dashboards
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_USER: admin
+      GF_SECURITY_ADMIN_PASSWORD: change-this-password
+    volumes:
+      - grafana_data:/var/lib/grafana
+    depends_on:
+      - prometheus
+    restart: unless-stopped
+
+volumes:
+  minio_data:
+  prometheus_data:
+  grafana_data:

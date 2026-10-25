@@ -1,0 +1,12 @@
+
+name: data_platform
+version: "1.0.0"
+config-version: 2
+
+profile: data_platform
+
+model-paths: ["models"]
+
+models:
+  data_platform:
+    +materialized: table

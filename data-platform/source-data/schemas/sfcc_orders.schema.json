@@ -1,0 +1,47 @@
+{
+  "dataset": "sfcc_orders",
+  "synthetic": true,
+  "row_count": 1000,
+  "fields": [
+    {
+      "name": "orderNo",
+      "example_value": "SFCC-ORDER-000001",
+      "nullable": false
+    },
+    {
+      "name": "customerNo",
+      "example_value": "SFCC-CUST-000001",
+      "nullable": false
+    },
+    {
+      "name": "creationDate",
+      "example_value": "2025-01-07T03:00:00Z",
+      "nullable": false
+    },
+    {
+      "name": "status",
+      "example_value": "NEW",
+      "nullable": false
+    },
+    {
+      "name": "currencyCode",
+      "example_value": "INR",
+      "nullable": false
+    },
+    {
+      "name": "totalGrossPrice",
+      "example_value": 5310.8,
+      "nullable": false
+    },
+    {
+      "name": "productLineCount",
+      "example_value": 2,
+      "nullable": false
+    },
+    {
+      "name": "sourceSystem",
+      "example_value": "SFCC",
+      "nullable": false
+    }
+  ]
+}

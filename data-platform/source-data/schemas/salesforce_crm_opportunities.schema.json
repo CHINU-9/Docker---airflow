@@ -1,0 +1,42 @@
+{
+  "dataset": "salesforce_crm_opportunities",
+  "synthetic": true,
+  "row_count": 1000,
+  "fields": [
+    {
+      "name": "Id",
+      "example_value": "006SYN000001",
+      "nullable": false
+    },
+    {
+      "name": "AccountId",
+      "example_value": "001SYN000001",
+      "nullable": false
+    },
+    {
+      "name": "Name",
+      "example_value": "Synthetic Opportunity 0001",
+      "nullable": false
+    },
+    {
+      "name": "StageName",
+      "example_value": "Closed Lost",
+      "nullable": false
+    },
+    {
+      "name": "Amount",
+      "example_value": 1202.99,
+      "nullable": false
+    },
+    {
+      "name": "CloseDate",
+      "example_value": "2025-01-02",
+      "nullable": false
+    },
+    {
+      "name": "CreatedDate",
+      "example_value": "2025-01-03T22:00:00Z",
+      "nullable": false
+    }
+  ]
+}
